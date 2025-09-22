@@ -1,0 +1,2736 @@
+cc,centro_trabajo,fecha_inicio,fecha_termino,edad,sexo,nivel
+8832,Oficinas Centrales,06/02/2024,06/02/2025,22,M,superior
+8832,Oficinas Centrales,06/02/2024,06/02/2025,24,H,superior
+8832,Oficinas Centrales,06/02/2024,06/02/2025,25,M,superior
+8832,Oficinas Centrales,06/11/2023,06/11/2024,22,M,superior
+8832,Oficinas Centrales,06/11/2023,06/11/2024,23,H,superior
+8832,Oficinas Centrales,06/11/2023,06/11/2024,30,M,superior
+8832,Oficinas Centrales,06/11/2023,06/11/2024,24,M,superior
+8832,Oficinas Centrales,06/11/2023,06/10/2024,22,M,superior
+8832,Oficinas Centrales,02/05/2022,02/01/2023,27,H,superior
+8832,Oficinas Centrales,02/01/2023,02/01/2024,24,H,superior
+8832,Oficinas Centrales,04/07/2022,05/07/2023,25,M,media superior
+8832,Oficinas Centrales,02/01/2023,02/01/2024,26,M,media superior
+8832,Oficinas Centrales,18/04/2022,18/04/2023,25,M,superior
+8832,Oficinas Centrales,02/01/2023,02/01/2024,27,M,superior
+8832,Oficinas Centrales,02/01/2023,02/01/2024,23,H,superior
+8832,Oficinas Centrales,02/01/2023,02/01/2024,29,H,superior
+8832,Oficinas Centrales,02/05/2022,02/05/2023,26,H,media superior
+8832,Oficinas Centrales,18/04/2022,18/04/2023,25,H,superior
+8832,Oficinas Centrales,18/04/2022,18/04/2023,25,M,superior
+8832,Oficinas Centrales,19/07/2021,19/07/2022,24,M,superior
+8832,Oficinas Centrales,02/05/2022,02/05/2023,23,M,superior
+8832,Oficinas Centrales,21/06/2021,21/06/2022,23,M,superior
+8832,Oficinas Centrales,18/04/2022,18/11/2022,30,H,media superior
+8832,Oficinas Centrales,06/02/2024,14/02/2024,26,H,superior
+8832,Oficinas Centrales,06/11/2023,29/07/2024,28,H,superior
+8832,Oficinas Centrales,06/11/2023,01/03/2024,26,M,superior
+8832,Oficinas Centrales,02/05/2022,02/09/2022,26,M,superior
+8832,Oficinas Centrales,03/01/2022,20/10/2022,22,M,superior
+8832,Oficinas Centrales,02/01/2023,16/05/2023,25,M,superior
+8832,Oficinas Centrales,18/04/2022,10/06/2022,22,M,superior
+8832,Oficinas Centrales,21/06/2021,21/06/2021,29,M,superior
+8832,Oficinas Centrales,03/03/2025,,28,M,superior
+8832,Oficinas Centrales,03/03/2025,,24,H,superior
+8832,Oficinas Centrales,03/03/2025,,25,M,superior
+8832,Oficinas Centrales,03/03/2025,,25,H,superior
+8832,Oficinas Centrales,03/03/2025,24/03/2025,28,H,superior
+8832,Oficinas Centrales,03/03/2025,,29,H,superior
+8832,Oficinas Centrales,03/03/2025,,19,M,superior
+8832,Oficinas Centrales,03/03/2025,,25,H,superior
+8832,Oficinas Centrales,03/03/2025,,24,M,superior
+8832,Oficinas Centrales,03/03/2025,,23,H,superior
+8832,Oficinas Centrales,03/03/2025,,29,H,superior
+9552,Centro de Día Guadalupe,16/08/2021,16/08/2022,24,M,superior
+9552,Centro de Día Guadalupe,04/07/2022,04/07/2023,23,M,media superior
+9552,Centro de Día Guadalupe,20/09/2021,20/04/2022,19,M,media superior
+9552,Centro de Día Guadalupe,20/09/2021,21/03/2022,24,M,superior
+9552,Centro de Día Guadalupe,17/01/2022,13/06/2022,21,M,superior
+9552,Centro de Día Guadalupe,01/11/2021,12/03/2022,23,H,superior
+9552,Centro de Día Guadalupe,08/02/2022,15/06/2022,23,H,media superior
+9552,Centro de Día Guadalupe,20/09/2021,13/03/2022,23,M,superior
+9552,Centro de Día Guadalupe,04/07/2022,15/10/2022,23,M,superior
+9552,Centro de Día Guadalupe,04/07/2022,07/07/2022,27,H,superior
+9552,Centro de Día Guadalupe,04/07/2022,26/09/2022,25,H,media superior
+9552,Centro de Día Guadalupe,02/05/2022,19/10/2022,22,M,superior
+9552,Centro de Día Guadalupe,19/07/2021,27/04/2022,29,M,superior
+9552,Centro de Día Guadalupe,16/08/2021,16/08/2021,25,H,superior
+9210,Cij Acapulco,16/11/2023,16/11/2024,23,M,superior
+9210,Cij Acapulco,06/11/2023,06/11/2024,22,M,superior
+9210,Cij Acapulco,06/11/2023,06/11/2024,22,H,superior
+9210,Cij Acapulco,06/11/2023,06/11/2024,21,M,superior
+9210,Cij Acapulco,06/11/2023,06/10/2024,22,H,superior
+9210,Cij Acapulco,18/04/2022,18/04/2023,30,H,superior
+9210,Cij Acapulco,21/06/2021,21/06/2022,24,H,superior
+9210,Cij Acapulco,21/06/2021,21/06/2022,24,M,media superior
+9210,Cij Acapulco,02/05/2022,02/05/2023,25,M,media superior
+9210,Cij Acapulco,18/04/2022,18/04/2023,29,H,superior
+9210,Cij Acapulco,18/04/2022,18/04/2023,25,M,superior
+9210,Cij Acapulco,21/06/2021,21/06/2022,28,M,superior
+9210,Cij Acapulco,21/06/2021,21/04/2022,26,H,superior
+9210,Cij Acapulco,16/11/2023,30/07/2024,27,M,superior
+9210,Cij Acapulco,06/11/2023,30/07/2024,21,H,superior
+9210,Cij Acapulco,06/11/2023,19/08/2024,19,M,media superior
+9210,Cij Acapulco,06/11/2023,26/01/2024,25,M,superior
+9210,Cij Acapulco,06/11/2023,08/01/2024,18,M,media superior
+9210,Cij Acapulco,08/02/2022,09/02/2022,24,M,superior
+9210,Cij Acapulco,21/06/2021,04/03/2022,24,M,superior
+9210,Cij Acapulco,02/05/2023,08/05/2023,27,M,superior
+9210,Cij Acapulco,06/11/2023,13/11/2023,24,M,superior
+9210,Cij Acapulco,02/01/2023,04/08/2023,27,M,superior
+9210,Cij Acapulco,18/04/2022,01/03/2023,23,M,superior
+9210,Cij Acapulco,16/05/2022,24/05/2022,22,M,superior
+9210,Cij Acapulco,21/06/2021,23/06/2021,24,M,superior
+9210,Cij Acapulco,18/04/2022,11/05/2022,26,H,superior
+9521,Cij Acuña,02/01/2024,02/01/2025,21,M,media superior
+9521,Cij Acuña,06/11/2023,06/11/2024,28,M,media superior
+9521,Cij Acuña,02/01/2024,02/01/2025,18,M,media superior
+9521,Cij Acuña,06/11/2023,07/11/2023,23,H,media superior
+9521,Cij Acuña,06/11/2023,11/04/2024,26,M,media superior
+9521,Cij Acuña,03/03/2025,,19,M,media superior
+9870,Cij Aguascalientes,06/11/2023,06/11/2024,26,M,superior
+9870,Cij Aguascalientes,06/11/2023,06/11/2024,23,M,superior
+9870,Cij Aguascalientes,06/11/2023,06/11/2024,24,M,superior
+9870,Cij Aguascalientes,02/05/2023,02/05/2024,23,M,superior
+9870,Cij Aguascalientes,21/06/2021,21/06/2022,23,M,superior
+9870,Cij Aguascalientes,21/06/2021,21/06/2022,26,M,superior
+9870,Cij Aguascalientes,07/11/2022,07/11/2023,25,M,superior
+9870,Cij Aguascalientes,02/05/2023,04/09/2023,29,M,superior
+9870,Cij Aguascalientes,07/11/2022,07/11/2023,24,H,superior
+9870,Cij Aguascalientes,02/01/2023,02/01/2024,24,M,superior
+9870,Cij Aguascalientes,07/11/2022,08/11/2023,21,H,superior
+9870,Cij Aguascalientes,21/06/2021,21/06/2022,23,M,superior
+9870,Cij Aguascalientes,21/06/2021,21/06/2022,23,M,superior
+9870,Cij Aguascalientes,17/01/2022,17/01/2023,18,H,superior
+9870,Cij Aguascalientes,17/01/2022,17/01/2023,22,M,superior
+9870,Cij Aguascalientes,08/02/2022,08/02/2023,24,M,superior
+9870,Cij Aguascalientes,08/02/2022,08/02/2023,26,H,superior
+9870,Cij Aguascalientes,19/07/2021,16/11/2021,20,H,media superior
+9870,Cij Aguascalientes,02/01/2024,21/05/2024,29,M,media superior
+9870,Cij Aguascalientes,05/07/2021,08/11/2021,30,M,media superior
+9870,Cij Aguascalientes,21/06/2021,29/04/2022,25,M,superior
+9870,Cij Aguascalientes,21/06/2021,27/01/2022,27,M,superior
+9870,Cij Aguascalientes,02/05/2023,02/05/2023,21,H,superior
+9870,Cij Aguascalientes,02/05/2023,19/03/2024,23,M,superior
+9870,Cij Aguascalientes,07/11/2022,28/02/2023,23,M,superior
+9870,Cij Aguascalientes,02/05/2023,21/02/2024,28,H,superior
+9870,Cij Aguascalientes,05/12/2022,30/06/2023,28,M,superior
+9870,Cij Aguascalientes,21/06/2021,23/06/2021,23,M,superior
+9460,Cij Álvaro Obregón Centro,02/01/2024,02/12/2024,24,M,media superior
+9460,Cij Álvaro Obregón Centro,06/11/2023,06/11/2024,25,M,superior
+9460,Cij Álvaro Obregón Centro,06/02/2024,06/11/2024,20,M,media superior
+9460,Cij Álvaro Obregón Centro,06/02/2024,06/12/2024,26,H,superior
+9460,Cij Álvaro Obregón Centro,06/11/2023,06/11/2024,18,M,superior
+9460,Cij Álvaro Obregón Centro,06/02/2024,06/02/2025,28,H,media superior
+9460,Cij Álvaro Obregón Centro,06/02/2024,06/02/2025,28,H,media superior
+9460,Cij Álvaro Obregón Centro,02/01/2024,02/01/2025,20,M,media superior
+9460,Cij Álvaro Obregón Centro,21/06/2021,21/06/2022,23,M,superior
+9460,Cij Álvaro Obregón Centro,21/06/2021,21/06/2022,23,M,superior
+9460,Cij Álvaro Obregón Centro,02/01/2023,02/01/2024,24,H,media superior
+9460,Cij Álvaro Obregón Centro,21/06/2021,21/06/2022,30,M,superior
+9460,Cij Álvaro Obregón Centro,16/05/2022,16/05/2023,27,M,superior
+9460,Cij Álvaro Obregón Centro,18/04/2022,18/04/2023,21,H,media superior
+9460,Cij Álvaro Obregón Centro,18/04/2022,18/04/2023,20,M,media superior
+9460,Cij Álvaro Obregón Centro,21/06/2021,21/06/2022,19,M,media superior
+9460,Cij Álvaro Obregón Centro,02/01/2023,02/01/2024,29,H,superior
+9460,Cij Álvaro Obregón Centro,21/06/2021,21/06/2022,19,H,superior
+9460,Cij Álvaro Obregón Centro,02/01/2023,02/01/2024,28,M,media superior
+9460,Cij Álvaro Obregón Centro,18/04/2022,18/04/2023,25,M,superior
+9460,Cij Álvaro Obregón Centro,06/11/2023,05/09/2024,21,H,media superior
+9460,Cij Álvaro Obregón Centro,02/01/2023,06/02/2023,22,H,superior
+9460,Cij Álvaro Obregón Centro,02/01/2023,27/02/2023,23,M,superior
+9460,Cij Álvaro Obregón Centro,02/01/2023,26/04/2023,23,H,superior
+9460,Cij Álvaro Obregón Centro,02/05/2022,24/08/2022,19,H,media superior
+9460,Cij Álvaro Obregón Centro,16/11/2023,24/01/2024,23,H,superior
+9460,Cij Álvaro Obregón Centro,02/05/2023,25/05/2023,28,H,superior
+9460,Cij Álvaro Obregón Centro,06/11/2023,07/11/2023,26,M,superior
+9460,Cij Álvaro Obregón Centro,03/03/2025,,26,M,media superior
+9460,Cij Álvaro Obregón Centro,03/03/2025,,29,H,media superior
+9460,Cij Álvaro Obregón Centro,03/03/2025,,24,M,media superior
+9460,Cij Álvaro Obregón Centro,03/03/2025,,23,H,media superior
+9460,Cij Álvaro Obregón Centro,03/03/2025,,26,H,media superior
+9460,Cij Álvaro Obregón Centro,03/03/2025,,26,M,media superior
+9460,Cij Álvaro Obregón Centro,03/03/2025,,21,H,superior
+9460,Cij Álvaro Obregón Centro,03/03/2025,,19,M,media superior
+9462,Cij Álvaro Obregón Oriente,06/11/2023,06/11/2024,22,M,superior
+9462,Cij Álvaro Obregón Oriente,06/11/2023,06/11/2024,18,H,superior
+9462,Cij Álvaro Obregón Oriente,06/11/2023,06/11/2024,23,M,superior
+9462,Cij Álvaro Obregón Oriente,02/05/2023,02/05/2024,25,M,superior
+9462,Cij Álvaro Obregón Oriente,02/05/2023,02/05/2024,23,M,superior
+9462,Cij Álvaro Obregón Oriente,02/05/2023,02/05/2024,27,H,superior
+9462,Cij Álvaro Obregón Oriente,02/05/2023,02/05/2024,24,H,superior
+9462,Cij Álvaro Obregón Oriente,21/06/2021,21/06/2022,25,M,media superior
+9462,Cij Álvaro Obregón Oriente,02/01/2023,02/01/2024,24,M,superior
+9462,Cij Álvaro Obregón Oriente,18/04/2022,18/12/2022,25,H,superior
+9462,Cij Álvaro Obregón Oriente,02/01/2023,02/01/2024,24,M,superior
+9462,Cij Álvaro Obregón Oriente,21/06/2021,21/06/2022,23,M,superior
+9462,Cij Álvaro Obregón Oriente,02/08/2021,02/08/2022,25,M,superior
+9462,Cij Álvaro Obregón Oriente,19/07/2021,19/07/2022,26,M,superior
+9462,Cij Álvaro Obregón Oriente,16/05/2022,16/05/2023,26,H,superior
+9462,Cij Álvaro Obregón Oriente,19/07/2021,19/07/2022,25,M,superior
+9462,Cij Álvaro Obregón Oriente,19/07/2021,19/07/2022,19,M,media superior
+9462,Cij Álvaro Obregón Oriente,02/01/2023,03/01/2023,27,M,superior
+9462,Cij Álvaro Obregón Oriente,02/05/2022,21/08/2022,26,M,superior
+9462,Cij Álvaro Obregón Oriente,21/06/2021,16/07/2021,21,H,superior
+9462,Cij Álvaro Obregón Oriente,21/06/2021,21/04/2022,26,H,superior
+9462,Cij Álvaro Obregón Oriente,21/06/2021,22/03/2022,27,M,superior
+9462,Cij Álvaro Obregón Oriente,18/04/2022,19/04/2022,26,H,superior
+9462,Cij Álvaro Obregón Oriente,18/10/2021,16/06/2022,24,M,superior
+9462,Cij Álvaro Obregón Oriente,02/01/2023,09/01/2023,21,M,media superior
+9462,Cij Álvaro Obregón Oriente,06/11/2023,06/02/2024,23,M,superior
+9462,Cij Álvaro Obregón Oriente,06/02/2024,12/02/2024,26,M,media superior
+9462,Cij Álvaro Obregón Oriente,06/02/2024,12/02/2024,28,M,media superior
+9462,Cij Álvaro Obregón Oriente,19/07/2021,19/07/2021,28,H,superior
+9462,Cij Álvaro Obregón Oriente,02/01/2023,30/08/2023,28,M,superior
+9462,Cij Álvaro Obregón Oriente,02/01/2023,30/08/2023,25,H,superior
+9462,Cij Álvaro Obregón Oriente,02/01/2023,30/08/2023,19,M,media superior
+9462,Cij Álvaro Obregón Oriente,03/03/2025,,29,M,superior
+9462,Cij Álvaro Obregón Oriente,03/03/2025,,27,H,media superior
+9899,Cij Apatzingan,02/01/2024,02/01/2025,21,H,media superior
+9899,Cij Apatzingan,02/01/2024,02/01/2025,20,M,media superior
+9899,Cij Apatzingan,02/01/2024,02/01/2025,21,H,superior
+9899,Cij Apatzingan,06/02/2024,06/02/2025,22,H,media superior
+9899,Cij Apatzingan,02/01/2024,02/01/2025,22,M,media superior
+9899,Cij Apatzingan,02/01/2024,02/12/2024,25,M,superior
+9899,Cij Apatzingan,02/01/2024,02/12/2024,23,H,media superior
+9899,Cij Apatzingan,02/01/2024,01/10/2024,25,M,media superior
+9899,Cij Apatzingan,02/01/2024,19/11/2024,29,M,superior
+9551,Cij Apodaca,20/09/2021,20/09/2022,19,H,superior
+9551,Cij Apodaca,02/08/2021,02/08/2022,29,H,superior
+9551,Cij Apodaca,02/08/2021,02/08/2022,27,M,superior
+9551,Cij Apodaca,01/11/2021,06/12/2021,23,M,superior
+9551,Cij Apodaca,16/08/2021,28/01/2022,29,H,superior
+9551,Cij Apodaca,19/07/2021,27/07/2021,24,M,superior
+9551,Cij Apodaca,16/08/2021,01/06/2022,20,M,media superior
+9551,Cij Apodaca,05/07/2021,16/11/2021,21,H,superior
+9551,Cij Apodaca,05/07/2021,27/07/2021,20,M,media superior
+9551,Cij Apodaca,06/09/2021,17/09/2021,21,M,superior
+9551,Cij Apodaca,06/09/2021,06/08/2022,29,M,superior
+9551,Cij Apodaca,08/02/2022,14/02/2022,22,M,superior
+9551,Cij Apodaca,17/01/2022,11/03/2022,25,M,media superior
+9551,Cij Apodaca,17/01/2022,04/11/2022,19,M,media superior
+9385,Cij Atizapán,06/02/2024,06/11/2024,24,M,superior
+9385,Cij Atizapán,02/01/2024,02/01/2025,27,M,superior
+9385,Cij Atizapán,02/01/2024,06/10/2024,26,M,superior
+9385,Cij Atizapán,05/12/2022,05/12/2023,27,M,superior
+9385,Cij Atizapán,02/05/2022,02/05/2023,23,M,superior
+9385,Cij Atizapán,02/05/2022,02/05/2023,23,M,superior
+9385,Cij Atizapán,18/04/2022,18/04/2023,25,M,superior
+9385,Cij Atizapán,16/05/2022,16/05/2023,23,M,superior
+9385,Cij Atizapán,16/05/2022,16/05/2023,20,M,media superior
+9385,Cij Atizapán,16/05/2022,16/05/2023,23,M,media superior
+9385,Cij Atizapán,02/08/2021,13/04/2022,26,H,superior
+9385,Cij Atizapán,02/08/2021,13/04/2022,25,H,superior
+9385,Cij Atizapán,02/08/2021,21/09/2021,24,M,superior
+9385,Cij Atizapán,18/10/2021,13/04/2022,26,M,superior
+9385,Cij Atizapán,06/02/2024,28/10/2024,24,H,media superior
+9385,Cij Atizapán,02/01/2024,30/08/2024,23,M,media superior
+9385,Cij Atizapán,06/02/2024,06/05/2024,26,M,superior
+9385,Cij Atizapán,02/01/2024,29/10/2024,22,M,superior
+9385,Cij Atizapán,16/08/2021,24/08/2021,19,H,media superior
+9385,Cij Atizapán,20/09/2021,01/04/2022,24,M,superior
+9385,Cij Atizapán,02/01/2023,04/01/2023,28,H,superior
+9385,Cij Atizapán,06/11/2023,11/11/2023,25,H,media superior
+9385,Cij Atizapán,16/08/2021,16/03/2022,25,M,superior
+9385,Cij Atizapán,16/08/2021,12/04/2022,28,M,superior
+9385,Cij Atizapán,16/08/2021,06/05/2022,28,H,superior
+9385,Cij Atizapán,02/05/2022,26/06/2022,26,M,superior
+9385,Cij Atizapán,18/04/2022,16/06/2022,19,M,media superior
+9385,Cij Atizapán,02/01/2024,11/01/2024,22,M,media superior
+9385,Cij Atizapán,06/02/2024,12/02/2024,24,M,media superior
+9385,Cij Atizapán,02/01/2024,11/03/2024,28,M,superior
+9385,Cij Atizapán,16/05/2022,15/11/2022,20,M,superior
+9385,Cij Atizapán,05/12/2022,12/01/2023,21,M,superior
+9385,Cij Atizapán,19/07/2021,19/07/2021,19,H,superior
+9320,Cij Azcapotzalco,06/02/2024,06/02/2025,21,M,superior
+9320,Cij Azcapotzalco,06/11/2023,06/11/2024,25,H,superior
+9320,Cij Azcapotzalco,06/11/2023,06/11/2024,24,H,superior
+9320,Cij Azcapotzalco,06/11/2023,06/11/2024,24,M,superior
+9320,Cij Azcapotzalco,06/11/2023,06/11/2024,27,M,superior
+9320,Cij Azcapotzalco,02/05/2023,02/05/2024,26,H,superior
+9320,Cij Azcapotzalco,02/05/2023,02/05/2024,23,H,superior
+9320,Cij Azcapotzalco,02/01/2023,02/01/2024,25,H,superior
+9320,Cij Azcapotzalco,18/04/2022,18/04/2023,22,H,superior
+9320,Cij Azcapotzalco,21/06/2021,21/06/2022,24,M,superior
+9320,Cij Azcapotzalco,21/06/2021,21/03/2022,26,H,superior
+9320,Cij Azcapotzalco,19/07/2021,19/07/2022,19,M,superior
+9320,Cij Azcapotzalco,18/04/2022,18/04/2023,21,M,media superior
+9320,Cij Azcapotzalco,18/04/2022,18/04/2023,23,M,superior
+9320,Cij Azcapotzalco,08/02/2022,08/02/2023,19,M,media superior
+9320,Cij Azcapotzalco,08/02/2022,08/02/2023,24,M,superior
+9320,Cij Azcapotzalco,08/02/2022,08/02/2023,21,M,superior
+9320,Cij Azcapotzalco,02/01/2023,03/01/2023,20,M,superior
+9320,Cij Azcapotzalco,02/01/2024,07/10/2024,22,M,superior
+9320,Cij Azcapotzalco,02/05/2023,27/06/2023,21,M,media superior
+9320,Cij Azcapotzalco,06/11/2023,16/01/2024,26,M,superior
+9320,Cij Azcapotzalco,18/04/2022,03/03/2023,22,M,superior
+9320,Cij Azcapotzalco,06/11/2023,08/01/2024,19,H,superior
+9320,Cij Azcapotzalco,21/06/2021,24/06/2021,25,M,superior
+9320,Cij Azcapotzalco,21/06/2021,24/06/2021,25,H,media superior
+9320,Cij Azcapotzalco,03/01/2022,10/06/2022,23,M,superior
+9320,Cij Azcapotzalco,03/03/2025,,22,M,superior
+9320,Cij Azcapotzalco,03/03/2025,,23,M,superior
+9320,Cij Azcapotzalco,03/03/2025,,23,H,superior
+9320,Cij Azcapotzalco,03/03/2025,,24,M,superior
+9320,Cij Azcapotzalco,03/03/2025,,22,M,superior
+9320,Cij Azcapotzalco,03/03/2025,,29,M,superior
+9320,Cij Azcapotzalco,03/03/2025,,25,M,superior
+9320,Cij Azcapotzalco,03/03/2025,,25,H,superior
+9320,Cij Azcapotzalco,03/03/2025,,29,H,superior
+9450,Cij Benito Juárez,02/01/2024,02/01/2025,27,M,superior
+9450,Cij Benito Juárez,06/11/2023,06/11/2024,22,H,superior
+9450,Cij Benito Juárez,06/11/2023,06/11/2024,23,M,superior
+9450,Cij Benito Juárez,06/02/2024,06/12/2024,26,M,superior
+9450,Cij Benito Juárez,06/11/2023,06/10/2024,22,M,superior
+9450,Cij Benito Juárez,02/01/2023,02/08/2023,25,M,superior
+9450,Cij Benito Juárez,02/01/2023,02/01/2024,29,M,superior
+9450,Cij Benito Juárez,21/06/2021,21/06/2022,27,M,superior
+9450,Cij Benito Juárez,16/05/2022,16/04/2023,26,M,superior
+9450,Cij Benito Juárez,18/04/2022,18/12/2022,25,M,superior
+9450,Cij Benito Juárez,18/04/2022,18/04/2023,27,M,media superior
+9450,Cij Benito Juárez,03/01/2022,03/05/2022,29,M,superior
+9450,Cij Benito Juárez,18/04/2022,18/04/2023,25,M,superior
+9450,Cij Benito Juárez,18/04/2022,18/09/2022,24,M,superior
+9450,Cij Benito Juárez,03/01/2022,03/01/2023,27,H,superior
+9450,Cij Benito Juárez,02/01/2023,02/01/2024,27,M,superior
+9450,Cij Benito Juárez,18/10/2021,18/10/2022,24,M,superior
+9450,Cij Benito Juárez,20/09/2021,06/10/2021,18,H,media superior
+9450,Cij Benito Juárez,21/06/2021,13/09/2021,27,M,media superior
+9450,Cij Benito Juárez,06/11/2023,31/08/2024,27,M,media superior
+9450,Cij Benito Juárez,06/11/2023,29/10/2024,25,H,superior
+9450,Cij Benito Juárez,06/11/2023,08/04/2024,26,M,superior
+9450,Cij Benito Juárez,06/02/2024,17/09/2024,21,M,media superior
+9450,Cij Benito Juárez,06/11/2023,24/11/2023,21,M,superior
+9450,Cij Benito Juárez,18/04/2022,17/03/2023,24,M,superior
+9450,Cij Benito Juárez,02/01/2023,10/01/2023,18,M,superior
+9450,Cij Benito Juárez,17/01/2022,23/02/2022,29,M,superior
+9450,Cij Benito Juárez,18/04/2022,18/11/2022,25,M,superior
+9450,Cij Benito Juárez,06/11/2023,08/02/2024,23,H,superior
+9450,Cij Benito Juárez,08/02/2022,08/02/2022,20,M,media superior
+9450,Cij Benito Juárez,03/03/2025,,27,H,superior
+9450,Cij Benito Juárez,03/03/2025,,26,M,superior
+9450,Cij Benito Juárez,03/03/2025,,24,H,superior
+9950,Cij Cancún,02/01/2024,02/01/2025,22,M,superior
+9950,Cij Cancún,02/01/2024,02/01/2025,19,M,superior
+9950,Cij Cancún,06/11/2023,06/11/2024,22,M,superior
+9950,Cij Cancún,02/01/2024,02/01/2025,25,H,superior
+9950,Cij Cancún,02/01/2024,02/01/2025,27,M,superior
+9950,Cij Cancún,06/02/2024,06/02/2025,21,M,superior
+9950,Cij Cancún,02/01/2024,02/01/2025,25,M,superior
+9950,Cij Cancún,02/01/2023,02/01/2024,26,H,superior
+9950,Cij Cancún,04/07/2022,15/08/2022,25,H,superior
+9950,Cij Cancún,06/11/2023,12/04/2024,23,M,superior
+9950,Cij Cancún,17/01/2022,15/03/2022,25,H,superior
+9950,Cij Cancún,21/06/2021,25/01/2022,23,M,superior
+9950,Cij Cancún,08/02/2022,28/02/2022,27,M,superior
+9950,Cij Cancún,02/01/2023,02/01/2023,27,M,media superior
+9950,Cij Cancún,05/07/2021,19/04/2022,29,M,superior
+9950,Cij Cancún,07/11/2022,08/11/2022,23,M,superior
+9950,Cij Cancún,02/01/2023,09/01/2023,29,H,superior
+9950,Cij Cancún,02/01/2024,13/02/2024,26,M,superior
+9950,Cij Cancún,02/01/2024,25/01/2024,24,H,superior
+9950,Cij Cancún,02/01/2023,13/04/2023,27,H,superior
+9950,Cij Cancún,02/01/2023,27/07/2023,19,H,superior
+9950,Cij Cancún,21/06/2021,24/06/2021,20,M,superior
+9950,Cij Cancún,16/08/2021,16/08/2021,26,M,superior
+9950,Cij Cancún,03/03/2025,,24,M,media superior
+9050,Cij Celaya,06/11/2023,06/11/2024,23,M,superior
+9050,Cij Celaya,06/11/2023,06/11/2024,23,M,superior
+9050,Cij Celaya,06/11/2023,06/11/2024,25,M,superior
+9050,Cij Celaya,06/11/2023,06/11/2024,24,M,superior
+9050,Cij Celaya,02/01/2024,02/01/2025,23,M,superior
+9050,Cij Celaya,06/02/2024,06/02/2025,24,M,superior
+9050,Cij Celaya,06/11/2023,06/11/2024,25,H,media superior
+9050,Cij Celaya,02/05/2023,02/05/2024,23,M,superior
+9050,Cij Celaya,07/11/2022,07/11/2023,23,H,superior
+9050,Cij Celaya,01/11/2021,01/11/2022,26,M,superior
+9050,Cij Celaya,20/09/2021,20/09/2022,25,M,superior
+9050,Cij Celaya,17/01/2022,17/01/2023,22,M,superior
+9050,Cij Celaya,06/06/2022,06/10/2022,27,M,superior
+9050,Cij Celaya,16/05/2022,16/05/2023,23,M,superior
+9050,Cij Celaya,07/11/2022,07/11/2023,26,M,superior
+9050,Cij Celaya,21/06/2021,21/06/2022,20,M,superior
+9050,Cij Celaya,07/11/2022,07/08/2023,25,M,superior
+9050,Cij Celaya,18/04/2022,18/10/2022,26,M,superior
+9050,Cij Celaya,07/11/2022,07/02/2023,25,M,superior
+9050,Cij Celaya,05/07/2021,13/09/2021,26,M,superior
+9050,Cij Celaya,06/11/2023,17/01/2024,27,M,superior
+9050,Cij Celaya,02/01/2024,02/10/2024,27,M,superior
+9050,Cij Celaya,02/01/2024,04/09/2024,24,H,superior
+9050,Cij Celaya,06/06/2022,20/10/2022,25,M,superior
+9050,Cij Celaya,06/09/2021,06/09/2022,27,M,superior
+9050,Cij Celaya,21/06/2021,28/06/2021,23,M,superior
+9050,Cij Celaya,16/05/2022,23/05/2022,28,H,superior
+9050,Cij Celaya,02/08/2021,15/12/2021,27,M,media superior
+9050,Cij Celaya,16/08/2021,17/05/2022,24,M,superior
+9050,Cij Celaya,18/04/2022,25/04/2022,23,H,media superior
+9050,Cij Celaya,04/10/2021,11/10/2021,20,H,superior
+9050,Cij Celaya,21/06/2021,28/06/2021,26,M,superior
+9050,Cij Celaya,02/05/2023,03/05/2023,24,H,superior
+9050,Cij Celaya,06/11/2023,15/12/2023,25,M,superior
+9050,Cij Celaya,17/01/2022,19/09/2022,25,M,superior
+9050,Cij Celaya,18/04/2022,26/04/2022,22,H,superior
+9050,Cij Celaya,06/09/2021,07/09/2021,26,M,superior
+9050,Cij Celaya,03/03/2025,,25,H,superior
+9050,Cij Celaya,03/03/2025,,28,M,superior
+9050,Cij Celaya,03/03/2025,,25,M,superior
+9050,Cij Celaya,03/03/2025,,27,H,media superior
+8892,Cij Centro de Capacitación,06/11/2023,06/11/2024,27,M,superior
+8892,Cij Centro de Capacitación,06/11/2023,06/11/2024,24,H,superior
+8892,Cij Centro de Capacitación,06/11/2023,06/11/2024,23,M,superior
+8892,Cij Centro de Capacitación,06/11/2023,06/11/2024,25,M,superior
+8892,Cij Centro de Capacitación,06/02/2024,06/09/2024,26,M,superior
+8892,Cij Centro de Capacitación,02/01/2024,02/07/2024,25,M,superior
+8892,Cij Centro de Capacitación,02/01/2023,03/11/2023,25,M,superior
+8892,Cij Centro de Capacitación,02/01/2023,02/05/2023,27,H,superior
+8892,Cij Centro de Capacitación,02/01/2023,02/12/2023,24,M,superior
+8892,Cij Centro de Capacitación,02/01/2023,05/06/2023,25,M,superior
+8892,Cij Centro de Capacitación,06/11/2023,29/08/2024,25,H,superior
+8892,Cij Centro de Capacitación,06/02/2024,30/09/2024,24,H,superior
+8892,Cij Centro de Capacitación,06/11/2023,22/12/2023,23,M,superior
+8892,Cij Centro de Capacitación,05/12/2022,27/09/2023,26,M,superior
+8892,Cij Centro de Capacitación,03/03/2025,21/03/2025,24,M,superior
+8892,Cij Centro de Capacitación,03/03/2025,,29,H,superior
+8892,Cij Centro de Capacitación,03/03/2025,,22,M,superior
+8892,Cij Centro de Capacitación,03/03/2025,,27,M,superior
+8892,Cij Centro de Capacitación,03/03/2025,,27,M,superior
+8892,Cij Centro de Capacitación,03/03/2025,24/03/2025,26,H,superior
+8892,Cij Centro de Capacitación,03/03/2025,,24,M,superior
+8892,Cij Centro de Capacitación,02/08/2021,02/08/2022,26,M,superior
+8892,Cij Centro de Capacitación,03/01/2022,03/10/2022,23,M,superior
+8892,Cij Centro de Capacitación,16/08/2021,16/08/2022,25,M,superior
+8892,Cij Centro de Capacitación,20/09/2021,20/09/2022,24,M,superior
+8892,Cij Centro de Capacitación,08/02/2022,08/02/2023,23,M,superior
+8892,Cij Centro de Capacitación,18/04/2022,18/08/2022,27,H,superior
+8892,Cij Centro de Capacitación,02/05/2022,02/05/2023,30,M,superior
+8892,Cij Centro de Capacitación,02/05/2022,02/05/2023,26,M,superior
+8892,Cij Centro de Capacitación,18/10/2021,14/03/2022,24,M,superior
+8892,Cij Centro de Capacitación,19/07/2021,26/04/2022,29,M,superior
+8892,Cij Centro de Capacitación,16/08/2021,18/11/2021,26,H,media superior
+8892,Cij Centro de Capacitación,08/02/2022,23/02/2022,28,M,superior
+8892,Cij Centro de Capacitación,19/07/2021,20/07/2021,24,H,superior
+8892,Cij Centro de Capacitación,18/04/2022,26/04/2022,26,H,superior
+8892,Cij Centro de Capacitación,21/06/2021,23/06/2021,29,H,superior
+9490,Cij Chalco,06/11/2023,06/11/2024,27,M,media superior
+9490,Cij Chalco,02/01/2024,02/01/2025,24,M,superior
+9490,Cij Chalco,06/11/2023,06/11/2024,28,M,media superior
+9490,Cij Chalco,06/11/2023,06/11/2024,22,M,media superior
+9490,Cij Chalco,06/11/2023,06/11/2024,28,H,media superior
+9490,Cij Chalco,02/01/2024,02/01/2025,26,H,superior
+9490,Cij Chalco,06/02/2024,06/08/2024,26,M,superior
+9490,Cij Chalco,05/12/2022,05/11/2023,27,M,superior
+9490,Cij Chalco,21/06/2021,21/06/2022,24,M,superior
+9490,Cij Chalco,17/01/2022,17/01/2023,23,M,superior
+9490,Cij Chalco,17/01/2022,17/01/2023,28,M,superior
+9490,Cij Chalco,02/01/2023,02/12/2023,25,H,superior
+9490,Cij Chalco,02/08/2021,02/08/2022,26,M,superior
+9490,Cij Chalco,01/11/2021,01/11/2022,19,M,superior
+9490,Cij Chalco,21/06/2021,21/06/2022,25,M,superior
+9490,Cij Chalco,21/06/2021,21/06/2022,28,H,superior
+9490,Cij Chalco,04/07/2022,04/07/2023,23,M,superior
+9490,Cij Chalco,18/10/2021,18/10/2022,20,M,media superior
+9490,Cij Chalco,21/06/2021,21/06/2022,23,M,superior
+9490,Cij Chalco,02/01/2023,02/01/2024,23,M,superior
+9490,Cij Chalco,08/02/2022,08/02/2023,29,M,superior
+9490,Cij Chalco,06/11/2023,11/06/2024,18,M,media superior
+9490,Cij Chalco,06/11/2023,07/11/2023,20,M,media superior
+9490,Cij Chalco,18/10/2021,23/11/2021,23,H,superior
+9490,Cij Chalco,05/12/2022,22/12/2022,26,H,superior
+9490,Cij Chalco,21/06/2021,22/10/2021,23,M,superior
+9490,Cij Chalco,21/06/2021,13/12/2021,24,H,superior
+9490,Cij Chalco,03/03/2025,,24,M,superior
+9490,Cij Chalco,03/03/2025,,27,H,superior
+9490,Cij Chalco,03/03/2025,,27,M,superior
+9490,Cij Chalco,03/03/2025,,25,M,superior
+9490,Cij Chalco,03/03/2025,,24,M,superior
+9490,Cij Chalco,03/03/2025,,29,H,superior
+9490,Cij Chalco,03/03/2025,,28,M,superior
+9490,Cij Chalco,03/03/2025,,23,M,superior
+9952,Cij Chetumal,02/01/2024,02/01/2025,24,M,superior
+9952,Cij Chetumal,06/11/2023,06/11/2024,21,M,superior
+9952,Cij Chetumal,02/01/2024,02/12/2024,25,M,superior
+9952,Cij Chetumal,02/05/2023,02/05/2024,19,M,media superior
+9952,Cij Chetumal,02/05/2023,02/05/2024,21,M,media superior
+9952,Cij Chetumal,02/05/2023,02/05/2024,23,M,superior
+9952,Cij Chetumal,02/05/2023,02/05/2024,21,M,superior
+9952,Cij Chetumal,02/05/2023,02/08/2023,29,M,media superior
+9952,Cij Chetumal,21/06/2021,21/06/2022,25,H,superior
+9952,Cij Chetumal,04/10/2021,04/10/2022,22,M,superior
+9952,Cij Chetumal,21/06/2021,21/06/2022,26,M,superior
+9952,Cij Chetumal,21/06/2021,21/06/2022,20,M,superior
+9952,Cij Chetumal,21/06/2021,21/06/2022,24,H,superior
+9952,Cij Chetumal,02/01/2024,08/07/2024,19,M,superior
+9952,Cij Chetumal,02/01/2024,02/04/2024,25,M,superior
+9952,Cij Chetumal,21/06/2021,27/12/2021,25,M,superior
+9952,Cij Chetumal,17/01/2022,14/09/2022,23,M,superior
+9952,Cij Chetumal,16/08/2021,29/09/2021,29,M,superior
+9952,Cij Chetumal,06/11/2023,13/11/2023,21,M,superior
+9952,Cij Chetumal,04/10/2021,04/03/2022,24,M,superior
+9952,Cij Chetumal,02/05/2023,29/08/2023,24,M,superior
+9952,Cij Chetumal,01/11/2021,22/08/2022,23,M,superior
+9952,Cij Chetumal,02/01/2024,01/03/2024,22,H,superior
+9952,Cij Chetumal,02/08/2021,02/08/2021,22,M,superior
+9952,Cij Chetumal,02/05/2023,27/10/2023,25,H,superior
+9952,Cij Chetumal,02/05/2023,27/10/2023,23,M,media superior
+9952,Cij Chetumal,21/06/2021,24/06/2021,21,H,superior
+9952,Cij Chetumal,21/06/2021,24/06/2021,22,H,superior
+9952,Cij Chetumal,06/11/2023,07/11/2023,25,H,media superior
+9952,Cij Chetumal,02/05/2023,27/10/2023,24,M,media superior
+9952,Cij Chetumal,03/03/2025,07/03/2025,23,M,superior
+9952,Cij Chetumal,03/03/2025,,22,M,superior
+9720,Cij Chihuahua,16/05/2022,16/05/2023,23,M,superior
+9720,Cij Chihuahua,06/09/2021,06/09/2022,28,M,media superior
+9720,Cij Chihuahua,08/02/2022,09/05/2022,23,M,superior
+9720,Cij Chihuahua,19/07/2021,09/05/2022,24,M,superior
+9720,Cij Chihuahua,06/12/2021,09/05/2022,24,H,superior
+9720,Cij Chihuahua,02/05/2022,09/05/2022,28,H,superior
+9720,Cij Chihuahua,18/04/2022,18/04/2022,28,M,media superior
+9720,Cij Chihuahua,08/02/2022,09/05/2022,24,H,superior
+9720,Cij Chihuahua,02/05/2022,09/05/2022,27,H,superior
+9720,Cij Chihuahua,01/11/2021,09/05/2022,25,M,media superior
+9720,Cij Chihuahua,02/01/2024,24/01/2024,28,M,superior
+9720,Cij Chihuahua,06/11/2023,25/11/2023,23,M,superior
+9720,Cij Chihuahua,02/08/2021,02/08/2022,24,M,media superior
+9720,Cij Chihuahua,02/01/2023,03/03/2023,27,M,superior
+9720,Cij Chihuahua,17/01/2022,17/01/2022,25,M,superior
+9720,Cij Chihuahua,21/06/2021,24/06/2021,27,H,superior
+9720,Cij Chihuahua,18/10/2021,19/10/2021,24,M,media superior
+9230,Cij Chilpancingo,06/11/2023,06/11/2024,22,M,superior
+9230,Cij Chilpancingo,06/11/2023,06/11/2024,24,M,superior
+9230,Cij Chilpancingo,06/11/2023,06/11/2024,24,M,superior
+9230,Cij Chilpancingo,06/11/2023,06/11/2024,26,M,superior
+9230,Cij Chilpancingo,06/11/2023,06/06/2024,24,M,superior
+9230,Cij Chilpancingo,06/11/2023,06/08/2024,26,M,superior
+9230,Cij Chilpancingo,02/05/2023,02/05/2024,23,M,superior
+9230,Cij Chilpancingo,02/05/2023,02/03/2024,27,M,superior
+9230,Cij Chilpancingo,02/05/2022,02/05/2023,25,M,superior
+9230,Cij Chilpancingo,18/04/2022,18/04/2023,25,H,superior
+9230,Cij Chilpancingo,16/08/2021,16/08/2022,27,M,superior
+9230,Cij Chilpancingo,02/05/2023,02/08/2023,26,M,superior
+9230,Cij Chilpancingo,17/01/2022,17/01/2023,22,M,media superior
+9230,Cij Chilpancingo,21/06/2021,21/06/2022,26,M,superior
+9230,Cij Chilpancingo,21/06/2021,21/06/2022,25,H,superior
+9230,Cij Chilpancingo,16/08/2021,16/08/2022,21,M,superior
+9230,Cij Chilpancingo,02/05/2023,16/05/2023,28,H,superior
+9230,Cij Chilpancingo,21/06/2021,26/04/2022,27,M,media superior
+9230,Cij Chilpancingo,06/11/2023,08/04/2024,23,H,superior
+9230,Cij Chilpancingo,06/11/2023,31/03/2024,25,H,superior
+9230,Cij Chilpancingo,21/06/2021,06/07/2021,22,H,superior
+9230,Cij Chilpancingo,02/01/2023,16/01/2023,21,H,media superior
+9230,Cij Chilpancingo,16/05/2022,16/06/2022,29,H,superior
+9230,Cij Chilpancingo,21/06/2021,24/05/2022,23,M,superior
+9230,Cij Chilpancingo,02/01/2023,24/07/2023,29,H,media superior
+9230,Cij Chilpancingo,16/08/2021,15/12/2021,27,H,superior
+9230,Cij Chilpancingo,16/08/2021,24/05/2022,23,M,superior
+9230,Cij Chilpancingo,21/06/2021,06/07/2021,28,M,media superior
+9230,Cij Chilpancingo,02/01/2023,03/03/2023,30,M,superior
+9230,Cij Chilpancingo,18/04/2022,26/04/2022,24,H,media superior
+9230,Cij Chilpancingo,03/03/2025,,21,M,superior
+9941,Cij Ciudad del Carmen,06/11/2023,06/06/2024,22,M,media superior
+9941,Cij Ciudad del Carmen,02/01/2024,02/05/2024,28,M,superior
+9941,Cij Ciudad del Carmen,02/05/2023,02/05/2024,24,M,superior
+9941,Cij Ciudad del Carmen,02/05/2023,02/05/2024,23,M,superior
+9941,Cij Ciudad del Carmen,21/06/2021,21/06/2022,29,H,superior
+9941,Cij Ciudad del Carmen,19/07/2021,19/07/2022,24,M,superior
+9941,Cij Ciudad del Carmen,19/07/2021,19/07/2022,22,H,superior
+9941,Cij Ciudad del Carmen,17/01/2022,17/10/2022,23,M,superior
+9941,Cij Ciudad del Carmen,17/01/2022,17/11/2022,24,M,superior
+9941,Cij Ciudad del Carmen,02/01/2023,07/03/2023,29,H,superior
+9941,Cij Ciudad del Carmen,06/11/2023,03/01/2024,18,M,superior
+9941,Cij Ciudad del Carmen,17/01/2022,18/03/2022,25,M,media superior
+9941,Cij Ciudad del Carmen,18/04/2022,07/11/2022,19,M,media superior
+9941,Cij Ciudad del Carmen,05/07/2021,08/11/2021,23,M,superior
+9941,Cij Ciudad del Carmen,20/09/2021,07/07/2022,18,M,superior
+9941,Cij Ciudad del Carmen,21/06/2021,24/06/2021,26,M,media superior
+9941,Cij Ciudad del Carmen,16/08/2021,08/11/2021,25,M,superior
+9941,Cij Ciudad del Carmen,18/10/2021,18/10/2022,25,M,superior
+9941,Cij Ciudad del Carmen,21/06/2021,24/06/2021,20,M,media superior
+9941,Cij Ciudad del Carmen,02/08/2021,20/09/2021,18,M,superior
+9941,Cij Ciudad del Carmen,02/05/2023,05/05/2023,23,M,superior
+9941,Cij Ciudad del Carmen,02/05/2023,01/02/2024,23,M,superior
+9941,Cij Ciudad del Carmen,18/04/2022,01/12/2022,22,M,media superior
+9941,Cij Ciudad del Carmen,05/07/2021,05/07/2021,23,H,superior
+9941,Cij Ciudad del Carmen,21/06/2021,24/06/2021,28,M,superior
+9712,Cij Ciudad Juárez,06/11/2023,06/11/2024,27,M,media superior
+9712,Cij Ciudad Juárez,17/01/2022,17/05/2022,26,M,superior
+9712,Cij Ciudad Juárez,17/01/2022,17/02/2022,29,M,superior
+9712,Cij Ciudad Juárez,16/08/2021,11/10/2021,27,H,superior
+9712,Cij Ciudad Juárez,06/11/2023,22/12/2023,25,M,superior
+9712,Cij Ciudad Juárez,08/02/2022,08/02/2022,23,M,superior
+9712,Cij Ciudad Juárez,08/02/2022,08/02/2022,22,H,superior
+9542,Cij Ciudad Victoria,06/11/2023,06/11/2024,23,H,superior
+9542,Cij Ciudad Victoria,06/02/2024,06/07/2024,24,H,media superior
+9542,Cij Ciudad Victoria,02/05/2023,02/05/2024,23,M,superior
+9542,Cij Ciudad Victoria,04/10/2021,04/10/2022,22,M,superior
+9542,Cij Ciudad Victoria,19/07/2021,19/07/2022,29,H,superior
+9542,Cij Ciudad Victoria,16/08/2021,16/08/2022,25,H,superior
+9542,Cij Ciudad Victoria,02/08/2021,02/08/2022,25,M,superior
+9542,Cij Ciudad Victoria,02/01/2023,02/01/2024,22,M,superior
+9542,Cij Ciudad Victoria,06/09/2021,06/09/2022,23,M,superior
+9542,Cij Ciudad Victoria,02/01/2023,02/01/2024,24,M,superior
+9542,Cij Ciudad Victoria,21/06/2021,21/06/2022,24,M,superior
+9542,Cij Ciudad Victoria,01/11/2021,01/03/2022,24,M,superior
+9542,Cij Ciudad Victoria,04/07/2022,04/07/2023,23,M,superior
+9542,Cij Ciudad Victoria,08/02/2022,08/02/2023,25,M,media superior
+9542,Cij Ciudad Victoria,08/02/2022,08/02/2023,22,H,superior
+9542,Cij Ciudad Victoria,02/05/2023,03/05/2023,24,M,media superior
+9542,Cij Ciudad Victoria,02/05/2023,27/05/2023,28,M,superior
+9542,Cij Ciudad Victoria,06/11/2023,01/05/2024,26,M,superior
+9542,Cij Ciudad Victoria,06/11/2023,28/08/2024,23,M,superior
+9542,Cij Ciudad Victoria,06/09/2021,18/10/2021,26,M,superior
+9542,Cij Ciudad Victoria,16/08/2021,16/08/2021,20,H,superior
+9542,Cij Ciudad Victoria,02/05/2023,02/01/2024,28,M,media superior
+9542,Cij Ciudad Victoria,02/05/2023,04/01/2024,29,M,superior
+9542,Cij Ciudad Victoria,04/07/2022,12/12/2022,30,M,media superior
+9542,Cij Ciudad Victoria,21/06/2021,03/08/2021,29,M,media superior
+9542,Cij Ciudad Victoria,21/06/2021,03/08/2021,24,M,superior
+9542,Cij Ciudad Victoria,06/11/2023,10/01/2024,28,M,superior
+9542,Cij Ciudad Victoria,21/06/2021,24/06/2021,26,H,superior
+9542,Cij Ciudad Victoria,02/01/2023,03/03/2023,23,M,superior
+9542,Cij Ciudad Victoria,02/08/2021,02/08/2021,27,M,superior
+9542,Cij Ciudad Victoria,16/08/2021,16/08/2021,25,H,superior
+9542,Cij Ciudad Victoria,02/01/2023,31/07/2023,25,M,superior
+9542,Cij Ciudad Victoria,21/06/2021,24/06/2021,23,M,superior
+9860,Cij Colima,06/11/2023,06/11/2024,23,M,media superior
+9860,Cij Colima,06/11/2023,06/11/2024,23,M,superior
+9860,Cij Colima,02/05/2023,02/05/2024,21,M,superior
+9860,Cij Colima,02/01/2023,02/01/2024,23,M,superior
+9860,Cij Colima,02/08/2021,02/05/2022,24,M,superior
+9860,Cij Colima,21/06/2021,21/06/2022,24,M,superior
+9860,Cij Colima,05/07/2021,05/07/2022,28,H,superior
+9860,Cij Colima,01/11/2021,01/11/2022,23,M,superior
+9860,Cij Colima,02/08/2021,02/08/2022,23,M,superior
+9860,Cij Colima,16/05/2022,16/05/2023,26,M,superior
+9860,Cij Colima,16/08/2021,16/08/2022,29,M,media superior
+9860,Cij Colima,02/01/2023,02/01/2024,25,H,superior
+9860,Cij Colima,17/01/2022,26/04/2022,19,H,media superior
+9860,Cij Colima,06/09/2021,21/09/2021,25,M,superior
+9860,Cij Colima,02/01/2024,29/01/2024,23,M,media superior
+9860,Cij Colima,04/10/2021,22/07/2022,25,M,superior
+9860,Cij Colima,19/07/2021,16/11/2021,27,M,superior
+9860,Cij Colima,18/10/2021,29/06/2022,22,M,media superior
+9860,Cij Colima,02/08/2021,08/10/2021,30,M,media superior
+9860,Cij Colima,05/07/2021,27/08/2021,23,M,superior
+9860,Cij Colima,17/01/2022,27/09/2022,26,M,superior
+9860,Cij Colima,21/06/2021,13/12/2021,23,H,media superior
+9860,Cij Colima,21/06/2021,21/10/2021,23,M,superior
+9860,Cij Colima,06/06/2022,15/10/2022,25,M,superior
+9440,Cij Coyoacán,06/02/2024,06/02/2025,28,H,superior
+9440,Cij Coyoacán,06/02/2024,06/11/2024,23,M,superior
+9440,Cij Coyoacán,06/02/2024,06/02/2025,25,H,media superior
+9440,Cij Coyoacán,06/02/2024,06/09/2024,23,H,superior
+9440,Cij Coyoacán,06/11/2023,06/09/2024,19,H,superior
+9440,Cij Coyoacán,02/05/2023,02/05/2024,25,M,superior
+9440,Cij Coyoacán,06/02/2024,06/06/2024,25,M,superior
+9440,Cij Coyoacán,06/11/2023,06/06/2024,23,M,media superior
+9440,Cij Coyoacán,02/05/2023,02/05/2024,25,M,superior
+9440,Cij Coyoacán,02/01/2023,02/01/2024,28,M,superior
+9440,Cij Coyoacán,17/01/2022,17/01/2023,26,M,superior
+9440,Cij Coyoacán,21/06/2021,21/06/2022,23,M,superior
+9440,Cij Coyoacán,18/04/2022,18/04/2023,27,H,superior
+9440,Cij Coyoacán,18/04/2022,18/04/2023,23,M,superior
+9440,Cij Coyoacán,18/04/2022,18/12/2022,26,H,superior
+9440,Cij Coyoacán,02/01/2023,02/01/2024,24,H,media superior
+9440,Cij Coyoacán,02/01/2023,02/01/2024,25,M,superior
+9440,Cij Coyoacán,18/04/2022,18/08/2022,27,M,superior
+9440,Cij Coyoacán,02/01/2023,02/01/2024,22,H,superior
+9440,Cij Coyoacán,18/04/2022,18/08/2022,25,M,media superior
+9440,Cij Coyoacán,02/01/2023,02/01/2024,22,M,superior
+9440,Cij Coyoacán,08/02/2022,08/02/2023,23,H,superior
+9440,Cij Coyoacán,18/04/2022,18/10/2022,20,M,superior
+9440,Cij Coyoacán,06/11/2023,09/11/2023,23,M,media superior
+9440,Cij Coyoacán,18/04/2022,24/08/2022,21,M,superior
+9440,Cij Coyoacán,21/06/2021,19/03/2022,27,H,media superior
+9440,Cij Coyoacán,06/11/2023,09/11/2023,29,M,superior
+9440,Cij Coyoacán,21/06/2021,24/06/2021,22,M,superior
+9440,Cij Coyoacán,21/06/2021,24/06/2021,26,M,superior
+9440,Cij Coyoacán,03/03/2025,,24,M,superior
+9440,Cij Coyoacán,03/03/2025,,24,M,superior
+9440,Cij Coyoacán,03/03/2025,,23,H,superior
+9440,Cij Coyoacán,03/03/2025,,22,M,superior
+9951,Cij Cozumel,02/01/2024,02/01/2025,21,M,superior
+9951,Cij Cozumel,05/12/2022,05/12/2023,23,M,superior
+9951,Cij Cozumel,02/01/2023,02/01/2024,22,H,superior
+9951,Cij Cozumel,21/06/2021,21/06/2022,19,H,superior
+9951,Cij Cozumel,02/01/2023,03/10/2023,20,M,superior
+9951,Cij Cozumel,02/08/2021,02/08/2022,21,M,superior
+9951,Cij Cozumel,02/05/2023,02/12/2023,23,M,superior
+9951,Cij Cozumel,21/06/2021,21/06/2022,23,H,media superior
+9951,Cij Cozumel,21/06/2021,21/06/2022,19,M,superior
+9951,Cij Cozumel,02/01/2023,02/01/2024,24,M,superior
+9951,Cij Cozumel,21/06/2021,21/06/2022,26,H,media superior
+9951,Cij Cozumel,02/01/2023,03/10/2023,19,M,superior
+9951,Cij Cozumel,02/01/2023,02/01/2024,23,M,media superior
+9951,Cij Cozumel,08/02/2022,08/02/2023,26,H,superior
+9951,Cij Cozumel,17/01/2022,17/11/2022,25,M,superior
+9951,Cij Cozumel,06/11/2023,07/11/2023,18,M,media superior
+9951,Cij Cozumel,05/12/2022,04/04/2023,21,M,superior
+9951,Cij Cozumel,06/11/2023,01/04/2024,21,M,media superior
+9951,Cij Cozumel,06/11/2023,08/08/2024,26,M,superior
+9951,Cij Cozumel,05/12/2022,16/06/2023,22,M,superior
+9951,Cij Cozumel,02/08/2021,29/04/2022,20,M,superior
+9951,Cij Cozumel,16/08/2021,08/06/2022,28,H,superior
+9951,Cij Cozumel,06/11/2023,11/03/2024,25,M,media superior
+9951,Cij Cozumel,02/05/2023,08/01/2024,23,M,superior
+9951,Cij Cozumel,04/10/2021,27/09/2022,26,M,media superior
+9951,Cij Cozumel,05/07/2021,05/07/2021,24,M,media superior
+9951,Cij Cozumel,03/03/2025,,25,M,superior
+9951,Cij Cozumel,03/03/2025,,28,H,media superior
+9951,Cij Cozumel,03/03/2025,13/03/2025,24,M,superior
+9461,Cij Cuajimalpa,06/02/2024,06/02/2025,27,M,superior
+9461,Cij Cuajimalpa,06/11/2023,06/11/2024,28,H,superior
+9461,Cij Cuajimalpa,06/02/2024,06/02/2025,26,M,superior
+9461,Cij Cuajimalpa,06/02/2024,06/02/2025,26,M,superior
+9461,Cij Cuajimalpa,06/11/2023,06/04/2024,28,H,superior
+9461,Cij Cuajimalpa,02/05/2023,02/05/2024,23,M,superior
+9461,Cij Cuajimalpa,02/05/2023,02/05/2024,24,M,superior
+9461,Cij Cuajimalpa,02/05/2023,02/05/2024,23,M,media superior
+9461,Cij Cuajimalpa,05/12/2022,05/12/2023,29,M,superior
+9461,Cij Cuajimalpa,18/04/2022,18/04/2023,23,M,media superior
+9461,Cij Cuajimalpa,17/01/2022,17/01/2023,28,M,superior
+9461,Cij Cuajimalpa,21/06/2021,21/06/2022,29,M,superior
+9461,Cij Cuajimalpa,02/01/2023,02/01/2024,22,M,superior
+9461,Cij Cuajimalpa,19/07/2021,19/07/2022,23,H,superior
+9461,Cij Cuajimalpa,06/06/2022,06/06/2023,21,M,media superior
+9461,Cij Cuajimalpa,02/01/2023,02/01/2024,29,M,superior
+9461,Cij Cuajimalpa,16/08/2021,16/08/2022,26,H,superior
+9461,Cij Cuajimalpa,21/06/2021,21/06/2022,24,M,superior
+9461,Cij Cuajimalpa,02/08/2021,02/08/2022,24,M,superior
+9461,Cij Cuajimalpa,02/01/2023,02/01/2024,26,M,media superior
+9461,Cij Cuajimalpa,08/02/2022,08/02/2023,23,H,superior
+9461,Cij Cuajimalpa,01/11/2021,05/11/2021,24,M,superior
+9461,Cij Cuajimalpa,06/11/2023,03/04/2024,23,M,superior
+9461,Cij Cuajimalpa,06/02/2024,08/08/2024,19,M,media superior
+9461,Cij Cuajimalpa,03/01/2022,16/05/2022,26,M,superior
+9461,Cij Cuajimalpa,06/12/2021,06/01/2022,24,H,media superior
+9461,Cij Cuajimalpa,21/06/2021,23/06/2021,21,M,superior
+9461,Cij Cuajimalpa,02/08/2021,02/08/2022,22,M,superior
+9461,Cij Cuajimalpa,21/06/2021,11/04/2022,24,M,superior
+9461,Cij Cuajimalpa,05/12/2022,05/03/2023,30,M,media superior
+9461,Cij Cuajimalpa,19/07/2021,19/07/2021,20,M,superior
+9461,Cij Cuajimalpa,02/08/2021,02/08/2021,22,M,superior
+9461,Cij Cuajimalpa,02/05/2023,02/05/2023,23,M,media superior
+9461,Cij Cuajimalpa,03/03/2025,,25,H,superior
+9461,Cij Cuajimalpa,03/03/2025,24/03/2025,22,H,media superior
+9461,Cij Cuajimalpa,03/03/2025,,27,M,superior
+9461,Cij Cuajimalpa,03/03/2025,,25,M,superior
+9461,Cij Cuajimalpa,03/03/2025,,28,M,superior
+9461,Cij Cuajimalpa,03/03/2025,,25,M,superior
+9461,Cij Cuajimalpa,03/03/2025,,28,M,superior
+9461,Cij Cuajimalpa,03/03/2025,21/03/2025,25,M,superior
+9461,Cij Cuajimalpa,03/03/2025,,18,H,media superior
+9461,Cij Cuajimalpa,03/03/2025,,27,H,superior
+9420,Cij Cuauhtémoc Oriente,02/01/2024,02/01/2025,23,M,superior
+9420,Cij Cuauhtémoc Oriente,02/01/2024,02/01/2025,28,M,superior
+9420,Cij Cuauhtémoc Oriente,06/02/2024,06/12/2024,26,M,superior
+9420,Cij Cuauhtémoc Oriente,06/11/2023,06/11/2024,27,M,superior
+9420,Cij Cuauhtémoc Oriente,02/05/2023,02/04/2024,23,M,superior
+9420,Cij Cuauhtémoc Oriente,02/05/2023,02/03/2024,24,M,superior
+9420,Cij Cuauhtémoc Oriente,05/12/2022,05/12/2023,18,M,media superior
+9420,Cij Cuauhtémoc Oriente,05/12/2022,18/04/2023,27,H,superior
+9420,Cij Cuauhtémoc Oriente,05/07/2021,05/07/2022,25,M,superior
+9420,Cij Cuauhtémoc Oriente,07/11/2022,07/11/2023,26,M,superior
+9420,Cij Cuauhtémoc Oriente,18/04/2022,18/04/2023,19,M,superior
+9420,Cij Cuauhtémoc Oriente,07/11/2022,07/11/2023,24,M,superior
+9420,Cij Cuauhtémoc Oriente,03/01/2022,03/01/2023,24,M,superior
+9420,Cij Cuauhtémoc Oriente,07/11/2022,07/09/2023,27,M,superior
+9420,Cij Cuauhtémoc Oriente,21/06/2021,21/06/2022,24,M,superior
+9420,Cij Cuauhtémoc Oriente,18/04/2022,18/04/2023,20,M,superior
+9420,Cij Cuauhtémoc Oriente,21/06/2021,21/06/2022,19,M,superior
+9420,Cij Cuauhtémoc Oriente,04/10/2021,04/10/2022,22,M,media superior
+9420,Cij Cuauhtémoc Oriente,21/06/2021,21/06/2022,24,M,superior
+9420,Cij Cuauhtémoc Oriente,19/07/2021,19/07/2022,28,M,superior
+9420,Cij Cuauhtémoc Oriente,08/02/2022,08/02/2023,18,H,superior
+9420,Cij Cuauhtémoc Oriente,06/02/2024,05/07/2024,21,H,media superior
+9420,Cij Cuauhtémoc Oriente,06/11/2023,05/07/2024,24,M,media superior
+9420,Cij Cuauhtémoc Oriente,06/11/2023,25/04/2024,20,M,media superior
+9420,Cij Cuauhtémoc Oriente,02/01/2023,13/11/2023,26,M,superior
+9420,Cij Cuauhtémoc Oriente,16/08/2021,28/02/2022,23,M,superior
+9410,Cij Cuauhtémoc Oriente,06/02/2024,14/02/2024,27,H,media superior
+9420,Cij Cuauhtémoc Oriente,21/06/2021,24/06/2021,25,M,superior
+9420,Cij Cuauhtémoc Oriente,19/07/2021,19/07/2021,24,M,superior
+9420,Cij Cuauhtémoc Oriente,21/06/2021,24/06/2021,29,H,media superior
+9420,Cij Cuauhtémoc Oriente,21/06/2021,21/08/2021,20,H,media superior
+9420,Cij Cuauhtémoc Oriente,06/09/2021,07/09/2021,24,M,superior
+9420,Cij Cuauhtémoc Oriente,01/11/2021,01/11/2021,26,M,superior
+9410,Cij Cuauhtémoc Poniente,06/02/2024,06/11/2024,26,H,superior
+9410,Cij Cuauhtémoc Poniente,06/11/2023,06/11/2024,22,M,media superior
+9410,Cij Cuauhtémoc Poniente,06/11/2023,06/11/2024,23,M,media superior
+9410,Cij Cuauhtémoc Poniente,06/02/2024,06/10/2024,27,M,superior
+9410,Cij Cuauhtémoc Poniente,02/05/2023,02/05/2024,24,M,superior
+9410,Cij Cuauhtémoc Poniente,06/11/2023,06/10/2024,24,M,superior
+9410,Cij Cuauhtémoc Poniente,02/05/2023,02/05/2024,23,M,superior
+9410,Cij Cuauhtémoc Poniente,02/05/2023,02/05/2024,26,M,superior
+9410,Cij Cuauhtémoc Poniente,05/12/2022,05/12/2023,22,M,media superior
+9410,Cij Cuauhtémoc Poniente,02/05/2022,02/05/2023,20,M,superior
+9410,Cij Cuauhtémoc Poniente,18/04/2022,18/04/2023,23,M,superior
+9410,Cij Cuauhtémoc Poniente,21/06/2021,21/06/2022,28,M,superior
+9410,Cij Cuauhtémoc Poniente,17/01/2022,17/01/2023,26,M,superior
+9410,Cij Cuauhtémoc Poniente,02/01/2023,02/03/2023,27,M,superior
+9410,Cij Cuauhtémoc Poniente,18/04/2022,18/04/2023,23,M,media superior
+9410,Cij Cuauhtémoc Poniente,02/01/2023,02/01/2024,26,H,superior
+9410,Cij Cuauhtémoc Poniente,08/02/2022,08/02/2023,23,M,media superior
+9410,Cij Cuauhtémoc Poniente,21/06/2021,21/06/2022,24,M,superior
+9410,Cij Cuauhtémoc Poniente,02/01/2023,02/01/2024,26,M,superior
+9410,Cij Cuauhtémoc Poniente,19/07/2021,19/07/2022,22,M,superior
+9410,Cij Cuauhtémoc Poniente,18/04/2022,18/04/2023,27,M,superior
+9410,Cij Cuauhtémoc Poniente,19/07/2021,13/01/2022,18,H,media superior
+9410,Cij Cuauhtémoc Poniente,21/06/2021,06/01/2022,23,M,superior
+9410,Cij Cuauhtémoc Poniente,16/08/2021,25/04/2022,25,M,superior
+9410,Cij Cuauhtémoc Poniente,06/02/2024,01/04/2024,21,M,media superior
+9410,Cij Cuauhtémoc Poniente,21/06/2021,23/03/2022,24,M,superior
+9410,Cij Cuauhtémoc Poniente,21/06/2021,14/03/2022,25,M,superior
+9410,Cij Cuauhtémoc Poniente,02/05/2022,27/09/2022,28,M,superior
+9410,Cij Cuauhtémoc Poniente,06/11/2023,02/02/2024,23,M,superior
+9410,Cij Cuauhtémoc Poniente,18/04/2022,26/04/2022,23,H,superior
+9410,Cij Cuauhtémoc Poniente,03/03/2025,,24,M,superior
+9020,Cij Cuernavaca,06/11/2023,06/11/2024,25,M,superior
+9020,Cij Cuernavaca,02/01/2024,02/01/2025,24,H,superior
+9020,Cij Cuernavaca,06/11/2023,06/11/2024,25,M,superior
+9020,Cij Cuernavaca,06/11/2023,06/11/2024,27,M,superior
+9020,Cij Cuernavaca,02/01/2024,02/01/2025,27,M,superior
+9020,Cij Cuernavaca,06/11/2023,06/11/2024,23,M,superior
+9020,Cij Cuernavaca,06/11/2023,06/11/2024,21,M,superior
+9020,Cij Cuernavaca,02/05/2023,02/05/2024,20,M,media superior
+9020,Cij Cuernavaca,02/05/2023,02/05/2024,26,H,superior
+9020,Cij Cuernavaca,02/05/2023,02/05/2024,29,M,superior
+9020,Cij Cuernavaca,21/06/2021,21/06/2022,25,H,superior
+9020,Cij Cuernavaca,18/04/2022,18/08/2022,24,M,superior
+9020,Cij Cuernavaca,18/04/2022,18/04/2023,19,M,media superior
+9020,Cij Cuernavaca,21/06/2021,21/06/2022,25,M,superior
+9020,Cij Cuernavaca,06/06/2022,06/06/2023,28,M,superior
+9020,Cij Cuernavaca,16/05/2022,16/05/2023,26,M,superior
+9020,Cij Cuernavaca,06/06/2022,06/06/2023,26,M,superior
+9020,Cij Cuernavaca,08/02/2022,08/11/2022,25,H,superior
+9020,Cij Cuernavaca,04/10/2021,16/06/2022,24,M,superior
+9020,Cij Cuernavaca,02/05/2023,01/06/2023,23,M,superior
+9020,Cij Cuernavaca,02/05/2022,24/06/2022,19,M,media superior
+9020,Cij Cuernavaca,18/04/2022,15/09/2022,26,M,superior
+9020,Cij Cuernavaca,18/04/2022,17/10/2022,23,M,superior
+9020,Cij Cuernavaca,02/08/2021,02/08/2021,25,H,superior
+9020,Cij Cuernavaca,02/05/2022,11/05/2022,22,M,superior
+9020,Cij Cuernavaca,18/04/2022,26/04/2022,19,M,superior
+9020,Cij Cuernavaca,18/04/2022,11/05/2022,26,M,media superior
+9610,Cij Culiacán,02/05/2023,02/05/2024,23,M,superior
+9610,Cij Culiacán,02/05/2023,02/05/2024,23,M,superior
+9610,Cij Culiacán,18/04/2022,18/04/2023,23,M,superior
+9610,Cij Culiacán,17/01/2022,17/07/2022,22,M,superior
+9610,Cij Culiacán,05/07/2021,05/07/2022,26,M,superior
+9610,Cij Culiacán,02/08/2021,02/08/2022,23,M,superior
+9610,Cij Culiacán,20/09/2021,20/09/2022,25,M,superior
+9610,Cij Culiacán,06/09/2021,06/09/2022,24,M,superior
+9610,Cij Culiacán,04/10/2021,04/10/2022,23,M,superior
+9610,Cij Culiacán,02/01/2023,02/01/2024,23,M,superior
+9610,Cij Culiacán,19/07/2021,19/07/2022,24,M,superior
+9610,Cij Culiacán,21/06/2021,21/06/2022,27,H,superior
+9610,Cij Culiacán,19/07/2021,19/07/2022,22,M,superior
+9610,Cij Culiacán,05/07/2021,03/11/2021,26,M,superior
+9610,Cij Culiacán,02/08/2021,02/08/2021,29,M,superior
+9615,Cij Culiacán Oriente,06/06/2022,06/06/2023,28,H,superior
+9615,Cij Culiacán Oriente,02/01/2023,04/09/2023,27,M,media superior
+9615,Cij Culiacán Oriente,05/07/2021,05/07/2022,20,M,media superior
+9615,Cij Culiacán Oriente,06/06/2022,06/06/2023,27,H,superior
+9615,Cij Culiacán Oriente,16/05/2022,16/05/2023,23,H,superior
+9615,Cij Culiacán Oriente,04/10/2021,04/10/2022,22,M,superior
+9615,Cij Culiacán Oriente,08/02/2022,08/02/2023,29,M,superior
+9615,Cij Culiacán Oriente,02/01/2023,02/08/2023,28,H,superior
+9615,Cij Culiacán Oriente,02/05/2022,18/08/2022,22,M,superior
+9615,Cij Culiacán Oriente,05/07/2021,11/01/2022,22,M,superior
+9615,Cij Culiacán Oriente,01/11/2021,16/03/2022,25,M,superior
+9615,Cij Culiacán Oriente,08/02/2022,22/02/2022,23,M,superior
+9615,Cij Culiacán Oriente,16/08/2021,28/12/2021,29,M,superior
+9615,Cij Culiacán Oriente,05/07/2021,18/10/2021,24,M,superior
+9615,Cij Culiacán Oriente,17/01/2022,18/11/2022,23,M,superior
+9615,Cij Culiacán Oriente,08/02/2022,08/02/2022,23,M,superior
+9615,Cij Culiacán Oriente,05/07/2021,10/06/2022,20,H,superior
+9615,Cij Culiacán Oriente,05/07/2021,05/07/2021,20,M,superior
+9680,Cij Durango,02/01/2024,02/01/2025,27,M,superior
+9680,Cij Durango,02/01/2024,02/01/2025,23,M,superior
+9680,Cij Durango,19/07/2021,19/07/2022,27,M,superior
+9680,Cij Durango,17/01/2022,17/01/2023,22,M,superior
+9680,Cij Durango,08/02/2022,08/02/2023,22,M,superior
+9680,Cij Durango,05/07/2021,05/07/2022,30,M,superior
+9680,Cij Durango,16/08/2021,13/12/2021,24,M,media superior
+9680,Cij Durango,08/02/2022,13/05/2022,24,M,superior
+9680,Cij Durango,19/07/2021,13/12/2021,29,M,media superior
+9680,Cij Durango,02/05/2023,04/05/2023,23,H,superior
+9680,Cij Durango,05/07/2021,16/05/2022,28,M,superior
+9680,Cij Durango,19/07/2021,14/12/2021,24,M,superior
+9680,Cij Durango,08/02/2022,13/06/2022,26,H,superior
+9680,Cij Durango,17/01/2022,07/09/2022,24,M,superior
+9680,Cij Durango,17/01/2022,20/01/2022,23,M,superior
+9680,Cij Durango,02/05/2023,13/06/2023,23,M,superior
+9680,Cij Durango,06/09/2021,16/12/2021,25,M,superior
+9680,Cij Durango,02/01/2024,02/08/2024,18,M,media superior
+9680,Cij Durango,02/01/2024,10/01/2024,26,M,media superior
+9680,Cij Durango,06/11/2023,06/11/2023,24,M,superior
+9680,Cij Durango,17/01/2022,20/01/2022,24,M,superior
+9680,Cij Durango,04/07/2022,26/10/2022,26,H,superior
+9680,Cij Durango,02/05/2023,07/08/2023,24,H,superior
+9680,Cij Durango,16/08/2021,05/07/2022,29,M,superior
+9380,Cij Ecatepec,02/01/2024,02/12/2024,27,M,superior
+9380,Cij Ecatepec,06/02/2024,06/02/2025,27,M,superior
+9380,Cij Ecatepec,06/02/2024,06/02/2025,23,M,superior
+9380,Cij Ecatepec,06/11/2023,06/11/2024,23,M,superior
+9380,Cij Ecatepec,06/11/2023,06/11/2024,21,M,superior
+9380,Cij Ecatepec,06/11/2023,06/11/2024,25,M,superior
+9380,Cij Ecatepec,02/01/2024,02/01/2025,25,M,superior
+9380,Cij Ecatepec,06/02/2024,06/07/2024,25,M,superior
+9380,Cij Ecatepec,08/02/2022,08/02/2023,23,M,superior
+9380,Cij Ecatepec,08/02/2022,08/02/2023,22,M,superior
+9380,Cij Ecatepec,06/06/2022,06/06/2023,26,H,superior
+9380,Cij Ecatepec,02/05/2022,02/05/2023,23,M,superior
+9380,Cij Ecatepec,06/06/2022,06/03/2023,24,H,superior
+9380,Cij Ecatepec,21/06/2021,21/05/2022,24,M,media superior
+9380,Cij Ecatepec,19/07/2021,19/07/2022,22,M,superior
+9380,Cij Ecatepec,02/08/2021,02/08/2022,22,M,superior
+9380,Cij Ecatepec,19/07/2021,19/07/2022,23,M,superior
+9380,Cij Ecatepec,19/07/2021,19/07/2022,25,M,superior
+9380,Cij Ecatepec,06/11/2023,30/07/2024,28,H,superior
+9380,Cij Ecatepec,02/08/2021,04/05/2022,28,H,superior
+9380,Cij Ecatepec,06/11/2023,09/11/2023,26,M,superior
+9380,Cij Ecatepec,06/11/2023,13/11/2023,23,M,superior
+9380,Cij Ecatepec,21/06/2021,04/05/2022,27,M,superior
+9380,Cij Ecatepec,02/08/2021,18/11/2021,26,M,superior
+9380,Cij Ecatepec,02/01/2024,15/01/2024,24,M,media superior
+9380,Cij Ecatepec,06/02/2024,09/02/2024,23,H,media superior
+9380,Cij Ecatepec,06/11/2023,15/01/2024,22,H,superior
+9380,Cij Ecatepec,06/11/2023,04/01/2024,22,M,superior
+9380,Cij Ecatepec,21/06/2021,24/06/2021,26,M,superior
+9380,Cij Ecatepec,03/01/2022,03/01/2022,24,H,superior
+9633,Cij Escuinapa,06/11/2023,06/11/2024,23,M,superior
+9633,Cij Escuinapa,02/05/2023,02/05/2024,26,M,media superior
+9633,Cij Escuinapa,19/07/2021,19/07/2022,22,M,superior
+9633,Cij Escuinapa,01/11/2021,01/11/2022,27,M,media superior
+9633,Cij Escuinapa,19/07/2021,19/07/2022,22,M,superior
+9633,Cij Escuinapa,21/06/2021,21/06/2022,25,M,media superior
+9633,Cij Escuinapa,01/11/2021,01/10/2022,23,M,superior
+9633,Cij Escuinapa,01/11/2021,01/10/2022,20,M,superior
+9633,Cij Escuinapa,01/11/2021,01/11/2022,25,H,superior
+9633,Cij Escuinapa,02/01/2024,03/01/2024,24,M,superior
+9633,Cij Escuinapa,02/01/2024,03/01/2024,23,H,superior
+9633,Cij Escuinapa,06/11/2023,07/11/2023,25,H,superior
+9633,Cij Escuinapa,02/01/2024,31/03/2024,28,H,superior
+9633,Cij Escuinapa,06/11/2023,31/03/2024,23,M,media superior
+9633,Cij Escuinapa,02/01/2023,02/10/2023,24,M,superior
+9633,Cij Escuinapa,02/01/2023,28/08/2023,28,M,superior
+9633,Cij Escuinapa,18/10/2021,15/12/2021,29,M,superior
+9633,Cij Escuinapa,02/05/2023,15/05/2023,23,M,media superior
+9633,Cij Escuinapa,19/07/2021,19/07/2021,27,M,superior
+9633,Cij Escuinapa,21/06/2021,24/06/2021,23,M,media superior
+9633,Cij Escuinapa,17/01/2022,17/01/2022,23,M,media superior
+9633,Cij Escuinapa,17/01/2022,17/01/2022,18,M,superior
+9893,Cij Fresnillo,02/01/2024,02/01/2025,20,H,media superior
+9893,Cij Fresnillo,02/01/2024,02/01/2025,19,M,media superior
+9893,Cij Fresnillo,06/11/2023,06/11/2024,28,M,superior
+9893,Cij Fresnillo,06/11/2023,06/11/2024,22,H,superior
+9893,Cij Fresnillo,02/05/2023,02/05/2024,23,M,superior
+9893,Cij Fresnillo,16/08/2021,16/08/2022,24,H,superior
+9893,Cij Fresnillo,06/09/2021,06/09/2022,19,M,media superior
+9893,Cij Fresnillo,21/06/2021,21/06/2022,20,M,media superior
+9893,Cij Fresnillo,21/06/2021,21/06/2022,23,M,media superior
+9893,Cij Fresnillo,21/06/2021,21/06/2022,23,M,media superior
+9893,Cij Fresnillo,02/01/2023,02/01/2024,19,M,superior
+9893,Cij Fresnillo,02/01/2023,02/01/2024,24,M,superior
+9893,Cij Fresnillo,21/06/2021,21/06/2022,20,M,superior
+9893,Cij Fresnillo,02/01/2023,02/01/2024,24,M,superior
+9893,Cij Fresnillo,18/04/2022,18/04/2023,23,M,superior
+9893,Cij Fresnillo,04/07/2022,04/07/2023,23,M,superior
+9893,Cij Fresnillo,06/11/2023,29/02/2024,26,M,superior
+9893,Cij Fresnillo,02/01/2024,17/05/2024,25,M,superior
+9893,Cij Fresnillo,05/07/2021,15/02/2022,20,M,media superior
+9893,Cij Fresnillo,19/07/2021,20/05/2022,23,H,superior
+9893,Cij Fresnillo,21/06/2021,28/06/2021,30,M,superior
+9893,Cij Fresnillo,04/07/2022,19/09/2022,18,M,superior
+9893,Cij Fresnillo,04/07/2022,19/09/2022,19,M,media superior
+9893,Cij Fresnillo,02/01/2023,22/01/2022,20,M,superior
+9893,Cij Fresnillo,18/04/2022,06/05/2022,25,H,superior
+9893,Cij Fresnillo,03/03/2025,,27,H,superior
+9893,Cij Fresnillo,03/03/2025,,22,M,superior
+9893,Cij Fresnillo,03/03/2025,,29,M,superior
+9893,Cij Fresnillo,03/03/2025,,26,M,superior
+9880,Cij Guadalajara Centro,20/09/2021,20/09/2022,30,H,superior
+9880,Cij Guadalajara Centro,06/09/2021,06/09/2022,26,H,media superior
+9880,Cij Guadalajara Centro,01/11/2021,01/11/2022,19,M,media superior
+9880,Cij Guadalajara Centro,20/09/2021,20/09/2022,23,H,superior
+9880,Cij Guadalajara Centro,16/08/2021,16/08/2022,19,M,media superior
+9880,Cij Guadalajara Centro,06/09/2021,06/09/2022,29,H,media superior
+9880,Cij Guadalajara Centro,06/06/2022,06/05/2023,23,H,media superior
+9880,Cij Guadalajara Centro,06/09/2021,10/06/2022,23,M,superior
+9880,Cij Guadalajara Centro,06/09/2021,12/10/2021,19,M,media superior
+9880,Cij Guadalajara Centro,06/09/2021,21/09/2021,27,H,superior
+9880,Cij Guadalajara Centro,04/10/2021,29/07/2022,29,M,media superior
+9880,Cij Guadalajara Centro,05/12/2022,30/12/2022,26,M,media superior
+9880,Cij Guadalajara Centro,20/09/2021,22/09/2021,26,M,superior
+9880,Cij Guadalajara Centro,05/12/2022,08/05/2023,26,M,superior
+9880,Cij Guadalajara Centro,06/09/2021,07/09/2021,29,H,superior
+9880,Cij Guadalajara Centro,02/05/2023,08/05/2023,27,M,superior
+9880,Cij Guadalajara Centro,04/10/2021,11/05/2022,26,M,superior
+9880,Cij Guadalajara Centro,02/01/2023,08/05/2023,25,M,superior
+9880,Cij Guadalajara Centro,07/11/2022,08/05/2023,22,M,superior
+9880,Cij Guadalajara Centro,18/10/2021,03/08/2022,23,M,superior
+9880,Cij Guadalajara Centro,03/03/2025,28/03/2025,29,H,superior
+9881,Cij Guadalajara Sur,04/10/2021,04/10/2022,29,M,superior
+9881,Cij Guadalajara Sur,02/05/2022,02/05/2023,28,M,superior
+9881,Cij Guadalajara Sur,16/08/2021,16/08/2022,27,M,superior
+9881,Cij Guadalajara Sur,20/09/2021,20/09/2022,25,H,superior
+9881,Cij Guadalajara Sur,17/01/2022,17/01/2023,28,H,superior
+9881,Cij Guadalajara Sur,01/11/2021,01/11/2022,23,M,media superior
+9881,Cij Guadalajara Sur,01/11/2021,01/10/2022,28,H,superior
+9881,Cij Guadalajara Sur,21/06/2021,21/06/2022,23,H,superior
+9881,Cij Guadalajara Sur,08/02/2022,08/02/2023,24,M,superior
+9881,Cij Guadalajara Sur,18/04/2022,28/03/2023,26,H,media superior
+9881,Cij Guadalajara Sur,02/01/2023,07/01/2023,22,M,superior
+9881,Cij Guadalajara Sur,21/06/2021,18/01/2022,23,M,superior
+9881,Cij Guadalajara Sur,01/11/2021,03/11/2021,19,M,superior
+9881,Cij Guadalajara Sur,19/07/2021,14/03/2022,26,M,superior
+9881,Cij Guadalajara Sur,17/01/2022,25/11/2021,21,M,superior
+9881,Cij Guadalajara Sur,02/01/2023,04/11/2023,24,M,superior
+9550,Cij Guadalupe,06/11/2023,07/11/2023,19,H,superior
+9550,Cij Guadalupe,06/11/2023,31/01/2024,23,M,superior
+9898,Cij Guadalupe Zacatecas,02/01/2024,02/01/2025,26,H,superior
+9898,Cij Guadalupe Zacatecas,06/11/2023,06/11/2024,22,M,superior
+9898,Cij Guadalupe Zacatecas,02/01/2024,02/08/2024,27,H,superior
+9898,Cij Guadalupe Zacatecas,16/08/2021,16/08/2022,29,M,superior
+9898,Cij Guadalupe Zacatecas,21/06/2021,21/06/2022,28,M,superior
+9898,Cij Guadalupe Zacatecas,21/06/2021,21/06/2022,25,M,superior
+9898,Cij Guadalupe Zacatecas,21/06/2021,21/06/2022,25,M,superior
+9898,Cij Guadalupe Zacatecas,17/01/2022,17/12/2022,26,M,superior
+9898,Cij Guadalupe Zacatecas,04/07/2022,04/07/2023,23,M,media superior
+9898,Cij Guadalupe Zacatecas,19/07/2021,19/07/2022,22,M,media superior
+9898,Cij Guadalupe Zacatecas,21/06/2021,21/06/2022,26,M,superior
+9898,Cij Guadalupe Zacatecas,04/07/2022,04/07/2023,25,M,superior
+9898,Cij Guadalupe Zacatecas,21/06/2021,21/06/2022,25,H,media superior
+9898,Cij Guadalupe Zacatecas,04/07/2022,04/07/2023,25,M,media superior
+9898,Cij Guadalupe Zacatecas,21/06/2021,17/11/2021,24,M,superior
+9898,Cij Guadalupe Zacatecas,02/01/2023,03/01/2023,27,M,superior
+9898,Cij Guadalupe Zacatecas,02/01/2024,02/09/2024,23,M,superior
+9898,Cij Guadalupe Zacatecas,06/11/2023,26/08/2024,25,M,superior
+9898,Cij Guadalupe Zacatecas,06/02/2024,05/09/2024,27,M,superior
+9898,Cij Guadalupe Zacatecas,06/11/2023,02/01/2024,24,H,superior
+9898,Cij Guadalupe Zacatecas,07/11/2022,06/03/2023,26,M,superior
+9898,Cij Guadalupe Zacatecas,02/01/2023,02/02/2023,24,M,superior
+9898,Cij Guadalupe Zacatecas,19/07/2021,21/07/2021,19,H,superior
+9898,Cij Guadalupe Zacatecas,02/01/2023,03/01/2023,23,M,superior
+9898,Cij Guadalupe Zacatecas,02/05/2023,30/06/2023,23,H,superior
+9898,Cij Guadalupe Zacatecas,08/02/2022,16/08/2022,29,H,media superior
+9898,Cij Guadalupe Zacatecas,02/01/2024,31/01/2024,26,M,media superior
+9898,Cij Guadalupe Zacatecas,06/06/2022,18/11/2022,24,M,superior
+9898,Cij Guadalupe Zacatecas,07/11/2022,30/01/2023,25,M,media superior
+9898,Cij Guadalupe Zacatecas,02/08/2021,02/08/2021,27,H,superior
+9898,Cij Guadalupe Zacatecas,06/11/2023,31/10/2023,25,M,media superior
+9898,Cij Guadalupe Zacatecas,06/11/2023,08/11/2023,29,M,superior
+9898,Cij Guamúchil,06/11/2023,06/11/2024,22,M,superior
+9611,Cij Guamúchil,16/05/2022,18/05/2022,24,H,superior
+9611,Cij Guamúchil,01/11/2021,23/11/2021,26,H,media superior
+9611,Cij Guamúchil,16/05/2022,18/05/2022,19,H,media superior
+9611,Cij Guamúchil,08/02/2022,16/08/2022,29,M,media superior
+9611,Cij Guamúchil,08/02/2022,13/12/2022,25,M,superior
+9611,Cij Guamúchil,04/10/2021,13/05/2022,25,M,superior
+9611,Cij Guamúchil,16/08/2021,02/05/2022,22,M,superior
+9611,Cij Guamúchil,06/09/2021,13/12/2021,22,M,superior
+9611,Cij Guamúchil,02/01/2023,03/01/2023,25,M,superior
+9611,Cij Guamúchil,02/08/2021,02/08/2021,23,M,superior
+9611,Cij Guamúchil,06/09/2021,07/09/2021,22,M,superior
+9610,Cij Guanajuato,06/11/2023,06/11/2024,24,H,media superior
+9610,Cij Guanajuato,02/05/2023,02/05/2024,24,H,superior
+9610,Cij Guanajuato,02/05/2023,02/05/2024,23,H,superior
+9610,Cij Guanajuato,05/12/2022,05/12/2023,23,H,superior
+9610,Cij Guanajuato,05/12/2022,05/12/2023,25,M,superior
+9610,Cij Guanajuato,07/11/2022,07/11/2023,23,H,superior
+9610,Cij Guanajuato,05/12/2022,09/01/2023,27,M,media superior
+9610,Cij Guanajuato,06/02/2024,29/04/2024,24,M,media superior
+9610,Cij Guanajuato,06/11/2023,26/07/2024,24,M,superior
+9610,Cij Guanajuato,06/11/2023,02/04/2024,27,M,superior
+9610,Cij Guanajuato,06/11/2023,04/04/2024,20,M,media superior
+9610,Cij Guanajuato,02/01/2024,29/07/2024,24,M,superior
+9610,Cij Guanajuato,02/01/2023,10/03/2023,22,H,media superior
+9610,Cij Guanajuato,02/01/2024,03/01/2024,27,M,media superior
+9610,Cij Guanajuato,06/11/2023,08/11/2023,19,H,media superior
+9610,Cij Guanajuato,02/05/2023,03/05/2023,21,M,superior
+9610,Cij Guanajuato,03/03/2025,,28,M,superior
+9610,Cij Guanajuato,03/03/2025,,24,H,superior
+9610,Cij Guanajuato,03/03/2025,,24,M,superior
+9610,Cij Guanajuato,03/03/2025,,24,H,superior
+9610,Cij Guanajuato,03/03/2025,,22,M,superior
+9610,Cij Guanajuato,03/03/2025,,25,M,superior
+9610,Cij Guanajuato,03/03/2025,,27,M,superior
+9610,Cij Guanajuato,03/03/2025,,29,M,superior
+9612,Cij Guasave,17/01/2022,17/01/2023,23,M,superior
+9612,Cij Guasave,08/02/2022,08/02/2023,25,M,superior
+9612,Cij Guasave,06/09/2021,06/01/2022,29,H,superior
+9612,Cij Guasave,18/04/2022,18/04/2023,23,M,superior
+9612,Cij Guasave,01/11/2021,01/11/2022,23,M,superior
+9612,Cij Guasave,02/05/2022,02/05/2023,23,H,media superior
+9612,Cij Guasave,08/02/2022,08/02/2023,23,M,superior
+9612,Cij Guasave,08/02/2022,08/02/2023,24,M,media superior
+9612,Cij Guasave,01/11/2021,01/10/2022,23,M,superior
+9612,Cij Guasave,02/08/2021,31/03/2022,30,M,superior
+9612,Cij Guasave,06/09/2021,06/09/2021,29,M,superior
+9612,Cij Guasave,08/02/2022,18/04/2022,24,M,superior
+9612,Cij Guasave,17/01/2022,14/07/2022,25,M,superior
+9612,Cij Guasave,08/02/2022,21/12/2022,23,M,superior
+9612,Cij Guasave,02/08/2021,02/08/2021,27,M,superior
+9351,Cij Gustavo A. Madero Aragón,02/01/2023,02/01/2024,20,H,superior
+9351,Cij Gustavo A. Madero Aragón,02/01/2023,03/10/2023,28,M,superior
+9351,Cij Gustavo A. Madero Aragón,16/08/2021,16/08/2022,19,M,superior
+9351,Cij Gustavo A. Madero Aragón,19/07/2021,19/07/2022,25,M,superior
+9351,Cij Gustavo A. Madero Aragón,02/05/2022,02/05/2023,23,M,superior
+9351,Cij Gustavo A. Madero Aragón,03/01/2022,03/01/2023,24,M,superior
+9351,Cij Gustavo A. Madero Aragón,21/06/2021,21/06/2022,23,H,superior
+9351,Cij Gustavo A. Madero Aragón,16/05/2022,16/05/2023,25,M,superior
+9351,Cij Gustavo A. Madero Aragón,19/07/2021,19/07/2022,24,M,superior
+9351,Cij Gustavo A. Madero Aragón,02/01/2023,02/01/2024,26,H,superior
+9351,Cij Gustavo A. Madero Aragón,02/01/2023,02/01/2024,26,M,superior
+9351,Cij Gustavo A. Madero Aragón,02/01/2023,02/01/2024,22,H,superior
+9351,Cij Gustavo A. Madero Aragón,02/05/2022,02/05/2023,28,M,superior
+9351,Cij Gustavo A. Madero Aragón,21/06/2021,21/06/2022,24,M,superior
+9351,Cij Gustavo A. Madero Aragón,05/12/2022,05/06/2023,19,M,superior
+9351,Cij Gustavo A. Madero Aragón,05/07/2021,05/07/2022,28,M,media superior
+9351,Cij Gustavo A. Madero Aragón,06/11/2023,07/11/2023,26,M,superior
+9351,Cij Gustavo A. Madero Aragón,06/11/2023,30/10/2024,19,M,superior
+9351,Cij Gustavo A. Madero Aragón,02/01/2024,11/11/2024,24,H,superior
+9351,Cij Gustavo A. Madero Aragón,19/07/2021,29/12/2021,24,M,media superior
+9351,Cij Gustavo A. Madero Aragón,06/09/2021,07/09/2022,24,M,media superior
+9351,Cij Gustavo A. Madero Aragón,19/07/2021,25/04/2022,23,M,superior
+9351,Cij Gustavo A. Madero Aragón,17/01/2022,14/12/2022,24,M,media superior
+9351,Cij Gustavo A. Madero Aragón,02/08/2021,26/11/2021,26,M,superior
+9351,Cij Gustavo A. Madero Aragón,21/06/2021,22/06/2021,19,M,superior
+9351,Cij Gustavo A. Madero Aragón,21/06/2021,24/06/2021,22,H,superior
+9351,Cij Gustavo A. Madero Aragón,06/11/2023,08/11/2023,18,M,superior
+9310,Cij Gustavo A. Madero Norte,02/01/2024,02/01/2025,28,M,superior
+9310,Cij Gustavo A. Madero Norte,20/09/2021,20/09/2022,25,H,media superior
+9310,Cij Gustavo A. Madero Norte,01/11/2021,01/11/2022,28,M,superior
+9310,Cij Gustavo A. Madero Norte,17/01/2022,17/01/2023,26,H,superior
+9310,Cij Gustavo A. Madero Norte,05/07/2021,05/07/2022,24,M,superior
+9310,Cij Gustavo A. Madero Norte,18/04/2022,18/04/2023,23,M,superior
+9310,Cij Gustavo A. Madero Norte,02/08/2021,02/08/2022,28,M,media superior
+9310,Cij Gustavo A. Madero Norte,17/01/2022,17/01/2023,28,H,superior
+9310,Cij Gustavo A. Madero Norte,18/10/2021,18/10/2022,28,M,superior
+9310,Cij Gustavo A. Madero Norte,18/04/2022,18/04/2023,27,M,superior
+9310,Cij Gustavo A. Madero Norte,06/09/2021,06/09/2022,27,H,superior
+9310,Cij Gustavo A. Madero Norte,19/07/2021,22/10/2021,27,H,superior
+9310,Cij Gustavo A. Madero Norte,06/11/2023,07/11/2023,23,M,superior
+9310,Cij Gustavo A. Madero Norte,02/08/2021,25/08/2021,25,M,superior
+9310,Cij Gustavo A. Madero Norte,02/01/2023,03/01/2023,29,M,superior
+9310,Cij Gustavo A. Madero Norte,19/07/2021,02/07/2021,24,H,superior
+9310,Cij Gustavo A. Madero Norte,06/11/2023,27/11/2023,21,H,superior
+9310,Cij Gustavo A. Madero Norte,06/11/2023,24/11/2023,27,M,superior
+9310,Cij Gustavo A. Madero Norte,18/10/2021,18/11/2021,18,M,superior
+9350,Cij Gustavo A. Madero Norte,02/05/2023,01/08/2023,29,M,superior
+9310,Cij Gustavo A. Madero Norte,19/07/2021,19/07/2021,28,M,superior
+9310,Cij Gustavo A. Madero Norte,02/08/2021,16/08/2021,25,H,media superior
+9310,Cij Gustavo A. Madero Norte,06/09/2021,07/10/2021,23,H,superior
+9310,Cij Gustavo A. Madero Norte,21/06/2021,13/10/2021,29,M,superior
+9310,Cij Gustavo A. Madero Norte,06/11/2023,29/01/2024,19,M,media superior
+9310,Cij Gustavo A. Madero Norte,02/01/2024,29/01/2024,19,M,media superior
+9310,Cij Gustavo A. Madero Norte,06/11/2023,11/12/2023,25,M,superior
+9310,Cij Gustavo A. Madero Norte,07/11/2022,14/11/2022,23,M,superior
+9310,Cij Gustavo A. Madero Norte,02/01/2023,27/02/2023,25,M,superior
+9310,Cij Gustavo A. Madero Norte,02/01/2023,27/02/2023,26,H,superior
+9310,Cij Gustavo A. Madero Norte,02/01/2023,27/03/2023,23,H,superior
+9310,Cij Gustavo A. Madero Norte,02/05/2023,03/05/2023,21,H,media superior
+9310,Cij Gustavo A. Madero Norte,06/11/2023,23/11/2023,26,H,superior
+9310,Cij Gustavo A. Madero Norte,21/06/2021,23/06/2021,26,M,superior
+9310,Cij Gustavo A. Madero Norte,06/09/2021,07/09/2021,28,H,media superior
+9350,Cij Gustavo A. Madero Oriente,06/11/2023,06/11/2024,25,H,superior
+9350,Cij Gustavo A. Madero Oriente,06/11/2023,06/11/2024,24,H,superior
+9350,Cij Gustavo A. Madero Oriente,06/11/2023,06/11/2024,24,H,media superior
+9350,Cij Gustavo A. Madero Oriente,02/01/2024,02/01/2025,27,M,superior
+9350,Cij Gustavo A. Madero Oriente,05/12/2022,05/12/2023,26,H,superior
+9350,Cij Gustavo A. Madero Oriente,05/12/2022,05/12/2023,26,M,superior
+9350,Cij Gustavo A. Madero Oriente,07/11/2022,07/11/2023,18,H,superior
+9350,Cij Gustavo A. Madero Oriente,21/06/2021,21/06/2022,29,M,superior
+9350,Cij Gustavo A. Madero Oriente,21/06/2021,21/06/2022,27,M,superior
+9350,Cij Gustavo A. Madero Oriente,02/01/2023,02/08/2023,24,M,media superior
+9350,Cij Gustavo A. Madero Oriente,21/06/2021,21/06/2022,25,M,superior
+9350,Cij Gustavo A. Madero Oriente,17/01/2022,17/01/2023,21,M,superior
+9350,Cij Gustavo A. Madero Oriente,02/05/2023,02/07/2023,21,M,media superior
+9350,Cij Gustavo A. Madero Oriente,04/10/2021,04/10/2022,22,M,superior
+9350,Cij Gustavo A. Madero Oriente,03/01/2022,22/12/2022,23,M,media superior
+9350,Cij Gustavo A. Madero Oriente,08/02/2022,08/02/2023,20,M,superior
+9350,Cij Gustavo A. Madero Oriente,18/04/2022,04/03/2023,22,M,superior
+9350,Cij Gustavo A. Madero Oriente,07/11/2022,29/05/2023,26,H,superior
+9350,Cij Gustavo A. Madero Oriente,06/11/2023,17/07/2024,19,M,media superior
+9350,Cij Gustavo A. Madero Oriente,02/05/2023,16/05/2023,23,M,superior
+9350,Cij Gustavo A. Madero Oriente,03/01/2022,08/07/2022,23,M,superior
+9350,Cij Gustavo A. Madero Oriente,21/06/2021,20/12/2021,22,M,superior
+9350,Cij Gustavo A. Madero Oriente,06/11/2023,06/02/2024,18,M,media superior
+9350,Cij Gustavo A. Madero Oriente,06/11/2023,25/01/2024,20,M,media superior
+9350,Cij Gustavo A. Madero Oriente,02/01/2023,31/07/2023,25,M,superior
+9350,Cij Gustavo A. Madero Oriente,02/05/2023,03/05/2023,27,M,superior
+9620,Cij Hermosillo,06/11/2023,06/07/2024,27,M,superior
+9620,Cij Hermosillo,05/07/2021,05/07/2022,25,M,superior
+9620,Cij Hermosillo,05/07/2021,05/07/2022,30,M,superior
+9620,Cij Hermosillo,21/06/2021,21/06/2022,23,H,superior
+9620,Cij Hermosillo,05/07/2021,18/12/2021,26,M,superior
+9620,Cij Hermosillo,18/04/2022,22/04/2022,24,M,superior
+9620,Cij Hermosillo,06/06/2022,27/10/2022,27,M,superior
+9620,Cij Hermosillo,06/06/2022,27/10/2022,28,M,superior
+9620,Cij Hermosillo,04/10/2021,21/10/2021,23,M,superior
+9620,Cij Hermosillo,08/02/2022,09/01/2023,23,H,superior
+9620,Cij Hermosillo,08/02/2022,31/08/2022,24,M,superior
+9620,Cij Hermosillo,19/07/2021,13/10/2021,24,M,superior
+9620,Cij Hermosillo,03/01/2022,31/05/2022,20,H,superior
+9620,Cij Hermosillo,16/05/2022,31/05/2022,25,H,superior
+9620,Cij Hermosillo,18/10/2021,16/03/2022,28,M,superior
+9620,Cij Hermosillo,21/06/2021,16/05/2022,24,M,superior
+9620,Cij Hermosillo,16/08/2021,16/08/2022,23,M,superior
+9620,Cij Hermosillo,17/01/2022,23/09/2022,22,H,superior
+9620,Cij Hermosillo,04/07/2022,23/09/2022,24,M,superior
+9620,Cij Hermosillo,02/05/2023,15/12/2023,28,H,superior
+9620,Cij Hermosillo,16/08/2021,16/08/2021,29,M,superior
+9620,Cij Hermosillo,18/10/2021,19/10/2021,22,M,superior
+9171,Cij Huatulco,02/01/2023,02/01/2024,19,M,superior
+9171,Cij Huatulco,02/08/2021,02/08/2022,25,M,superior
+9171,Cij Huatulco,21/06/2021,21/06/2022,23,M,superior
+9171,Cij Huatulco,18/10/2021,18/10/2022,24,M,superior
+9171,Cij Huatulco,21/06/2021,21/06/2022,25,M,superior
+9171,Cij Huatulco,02/01/2023,02/01/2024,28,H,superior
+9171,Cij Huatulco,21/06/2021,15/09/2021,25,M,superior
+9171,Cij Huatulco,02/01/2023,09/01/2023,27,M,superior
+9171,Cij Huatulco,02/01/2024,03/03/2024,18,M,media superior
+9171,Cij Huatulco,02/01/2024,04/03/2024,20,H,media superior
+9171,Cij Huatulco,02/08/2021,31/01/2022,25,M,superior
+9171,Cij Huatulco,02/08/2021,17/08/2021,29,H,superior
+9240,Cij Ixtapa Zihuatanejo,02/01/2024,02/01/2025,25,M,media superior
+9240,Cij Ixtapa Zihuatanejo,02/05/2023,02/05/2024,23,M,media superior
+9240,Cij Ixtapa Zihuatanejo,02/08/2021,02/08/2022,24,M,superior
+9240,Cij Ixtapa Zihuatanejo,04/10/2021,04/10/2022,19,M,media superior
+9240,Cij Ixtapa Zihuatanejo,19/07/2021,19/12/2021,23,M,media superior
+9240,Cij Ixtapa Zihuatanejo,16/08/2021,16/08/2022,27,H,superior
+9240,Cij Ixtapa Zihuatanejo,19/07/2021,19/07/2022,28,M,superior
+9240,Cij Ixtapa Zihuatanejo,02/08/2021,02/08/2022,25,M,superior
+9240,Cij Ixtapa Zihuatanejo,08/02/2022,08/02/2023,29,M,media superior
+9240,Cij Ixtapa Zihuatanejo,19/07/2021,14/11/2021,27,H,superior
+9240,Cij Ixtapa Zihuatanejo,18/04/2022,19/04/2022,28,M,superior
+9240,Cij Ixtapa Zihuatanejo,21/06/2021,14/11/2021,25,H,superior
+9240,Cij Ixtapa Zihuatanejo,02/01/2024,15/01/2024,19,M,media superior
+9240,Cij Ixtapa Zihuatanejo,02/05/2023,31/07/2023,20,M,superior
+9240,Cij Ixtapa Zihuatanejo,16/08/2021,16/08/2021,18,M,superior
+9370,Cij Iztapalapa Oriente,06/11/2023,06/11/2024,22,M,superior
+9370,Cij Iztapalapa Oriente,02/01/2024,02/01/2025,20,H,media superior
+9370,Cij Iztapalapa Oriente,06/02/2024,06/11/2024,24,H,media superior
+9370,Cij Iztapalapa Oriente,06/11/2023,06/11/2024,18,M,media superior
+9370,Cij Iztapalapa Oriente,06/11/2023,06/07/2024,24,H,media superior
+9370,Cij Iztapalapa Oriente,06/02/2024,06/09/2024,21,M,media superior
+9370,Cij Iztapalapa Oriente,06/11/2023,06/10/2024,25,M,superior
+9370,Cij Iztapalapa Oriente,02/05/2023,02/03/2024,23,M,media superior
+9370,Cij Iztapalapa Oriente,06/11/2023,06/07/2024,21,M,media superior
+9370,Cij Iztapalapa Oriente,07/11/2022,07/06/2023,19,H,superior
+9370,Cij Iztapalapa Oriente,02/01/2023,02/06/2023,27,H,superior
+9370,Cij Iztapalapa Oriente,02/01/2023,02/07/2023,21,M,superior
+9370,Cij Iztapalapa Oriente,21/06/2021,21/08/2021,30,H,superior
+9370,Cij Iztapalapa Oriente,05/12/2022,05/12/2023,27,H,media superior
+9370,Cij Iztapalapa Oriente,18/04/2022,06/06/2023,29,M,superior
+9370,Cij Iztapalapa Oriente,02/01/2023,02/01/2024,27,M,superior
+9370,Cij Iztapalapa Oriente,18/04/2022,18/03/2023,26,H,superior
+9370,Cij Iztapalapa Oriente,02/01/2023,02/01/2024,28,M,superior
+9370,Cij Iztapalapa Oriente,05/07/2021,05/07/2022,24,M,superior
+9370,Cij Iztapalapa Oriente,17/01/2022,17/01/2023,21,H,superior
+9370,Cij Iztapalapa Oriente,21/06/2021,21/06/2022,26,M,superior
+9370,Cij Iztapalapa Oriente,03/01/2022,03/10/2022,26,M,superior
+9370,Cij Iztapalapa Oriente,21/06/2021,21/06/2022,26,H,superior
+9370,Cij Iztapalapa Oriente,21/06/2021,21/06/2022,26,H,superior
+9370,Cij Iztapalapa Oriente,21/06/2021,02/03/2022,27,H,superior
+9370,Cij Iztapalapa Oriente,04/10/2021,20/12/2021,23,M,superior
+9370,Cij Iztapalapa Oriente,02/01/2024,30/04/2024,18,H,media superior
+9370,Cij Iztapalapa Oriente,18/04/2022,26/10/2022,18,M,media superior
+9370,Cij Iztapalapa Oriente,18/10/2021,22/12/2021,19,M,media superior
+9370,Cij Iztapalapa Oriente,21/06/2021,22/12/2021,24,M,superior
+9370,Cij Iztapalapa Oriente,05/12/2022,06/06/2023,26,M,media superior
+9370,Cij Iztapalapa Oriente,17/01/2022,31/05/2022,24,M,superior
+9370,Cij Iztapalapa Oriente,17/01/2022,27/06/2022,21,H,superior
+9370,Cij Iztapalapa Oriente,03/03/2025,,23,H,superior
+9370,Cij Iztapalapa Oriente,03/03/2025,10/03/2025,26,M,superior
+9470,Cij Iztapalapa Poniente,06/11/2023,06/11/2024,22,M,superior
+9470,Cij Iztapalapa Poniente,06/02/2024,06/02/2024,30,M,superior
+9470,Cij Iztapalapa Poniente,02/01/2024,02/01/2025,27,H,media superior
+9470,Cij Iztapalapa Poniente,02/01/2024,02/01/2025,30,M,superior
+9470,Cij Iztapalapa Poniente,02/01/2024,02/01/2025,21,M,media superior
+9470,Cij Iztapalapa Poniente,06/11/2023,06/10/2024,28,H,media superior
+9470,Cij Iztapalapa Poniente,06/02/2024,06/10/2024,25,H,media superior
+9470,Cij Iztapalapa Poniente,02/05/2023,02/05/2024,24,M,superior
+9470,Cij Iztapalapa Poniente,18/04/2022,18/04/2023,26,M,media superior
+9470,Cij Iztapalapa Poniente,02/01/2023,02/01/2024,26,M,media superior
+9470,Cij Iztapalapa Poniente,21/06/2021,21/06/2022,24,M,superior
+9470,Cij Iztapalapa Poniente,18/04/2022,18/12/2022,29,M,superior
+9470,Cij Iztapalapa Poniente,18/04/2022,18/04/2023,26,H,superior
+9470,Cij Iztapalapa Poniente,21/06/2021,21/06/2022,25,M,superior
+9470,Cij Iztapalapa Poniente,02/01/2023,02/06/2023,25,H,superior
+9470,Cij Iztapalapa Poniente,18/04/2022,18/04/2023,29,M,superior
+9470,Cij Iztapalapa Poniente,21/06/2021,21/06/2022,23,M,superior
+9470,Cij Iztapalapa Poniente,21/06/2021,21/06/2022,24,H,superior
+9470,Cij Iztapalapa Poniente,02/01/2023,04/09/2023,24,M,superior
+9470,Cij Iztapalapa Poniente,02/05/2022,02/05/2023,20,M,superior
+9470,Cij Iztapalapa Poniente,03/01/2022,03/04/2022,27,H,superior
+9470,Cij Iztapalapa Poniente,02/01/2023,02/01/2024,24,M,superior
+9470,Cij Iztapalapa Poniente,18/04/2022,18/03/2023,22,M,superior
+9470,Cij Iztapalapa Poniente,18/04/2022,18/11/2022,26,M,media superior
+9470,Cij Iztapalapa Poniente,06/11/2023,25/01/2024,24,H,media superior
+9470,Cij Iztapalapa Poniente,06/11/2023,27/01/2024,20,H,media superior
+9470,Cij Iztapalapa Poniente,18/04/2022,15/07/2022,25,M,superior
+9470,Cij Iztapalapa Poniente,08/02/2022,08/02/2022,25,M,media superior
+9470,Cij Iztapalapa Poniente,18/04/2022,26/04/2022,23,M,media superior
+9470,Cij Iztapalapa Poniente,02/05/2023,03/05/2023,28,M,superior
+9470,Cij Iztapalapa Poniente,03/03/2025,,24,M,superior
+9470,Cij Iztapalapa Poniente,03/03/2025,,23,H,superior
+9650,Cij La Paz,06/11/2023,06/11/2024,22,M,superior
+9650,Cij La Paz,06/11/2023,06/11/2024,25,M,superior
+9650,Cij La Paz,06/02/2024,06/02/2025,26,M,superior
+9650,Cij La Paz,06/02/2024,06/12/2024,27,H,superior
+9650,Cij La Paz,06/02/2024,06/02/2025,24,H,media superior
+9650,Cij La Paz,02/01/2024,02/01/2025,22,M,media superior
+9650,Cij La Paz,02/01/2024,02/01/2025,23,M,superior
+9650,Cij La Paz,02/01/2023,02/01/2024,25,M,superior
+9650,Cij La Paz,02/01/2023,02/01/2024,22,M,superior
+9650,Cij La Paz,18/10/2021,18/10/2022,26,H,superior
+9650,Cij La Paz,02/05/2022,02/05/2023,29,M,media superior
+9650,Cij La Paz,02/01/2023,02/06/2023,20,M,media superior
+9650,Cij La Paz,17/01/2022,17/01/2023,20,M,superior
+9650,Cij La Paz,05/07/2021,05/04/2022,27,M,superior
+9650,Cij La Paz,02/01/2023,02/01/2024,19,M,superior
+9650,Cij La Paz,01/11/2021,01/10/2022,29,M,superior
+9650,Cij La Paz,02/08/2021,02/08/2022,21,H,superior
+9650,Cij La Paz,21/06/2021,21/06/2022,22,H,superior
+9650,Cij La Paz,20/09/2021,20/09/2022,18,M,media superior
+9650,Cij La Paz,01/11/2021,10/10/2022,18,H,media superior
+9650,Cij La Paz,06/11/2023,07/11/2023,25,H,superior
+9650,Cij La Paz,04/10/2021,08/10/2021,22,M,superior
+9650,Cij La Paz,16/08/2021,28/08/2021,25,H,superior
+9650,Cij La Paz,06/02/2024,13/05/2024,25,M,superior
+9650,Cij La Paz,02/01/2024,24/01/2024,24,H,media superior
+9650,Cij La Paz,06/11/2023,30/11/2023,21,M,media superior
+9650,Cij La Paz,02/05/2023,01/03/2024,28,M,superior
+9650,Cij La Paz,02/05/2023,28/09/2023,24,M,media superior
+9650,Cij La Paz,16/05/2022,24/06/2022,29,H,superior
+9650,Cij La Paz,21/06/2021,20/09/2021,25,M,superior
+9650,Cij La Paz,18/10/2021,27/10/2021,22,M,superior
+9650,Cij La Paz,07/11/2022,28/09/2023,24,H,superior
+9650,Cij La Paz,06/09/2021,20/09/2021,27,M,superior
+9650,Cij La Paz,02/05/2022,29/09/2022,29,H,media superior
+9650,Cij La Paz,19/07/2021,20/07/2021,24,M,media superior
+9650,Cij La Paz,04/10/2021,08/10/2021,23,M,superior
+9650,Cij La Paz,06/11/2023,24/01/2024,19,H,superior
+9650,Cij La Paz,07/11/2022,15/11/2022,25,H,media superior
+9650,Cij La Paz,06/11/2023,31/10/2023,26,H,media superior
+9650,Cij La Paz,21/06/2021,23/06/2021,25,M,superior
+9650,Cij La Paz,03/03/2025,,23,M,superior
+9650,Cij La Paz,03/03/2025,,26,H,superior
+9650,Cij La Paz,03/03/2025,,23,M,superior
+9650,Cij La Paz,03/03/2025,30/03/2025,21,M,superior
+9650,Cij La Paz,03/03/2025,,26,M,superior
+9650,Cij La Paz,03/03/2025,30/03/2025,23,H,superior
+9895,Cij La Piedad,02/01/2024,02/01/2025,23,M,superior
+9895,Cij La Piedad,02/01/2024,02/01/2025,22,H,superior
+9895,Cij La Piedad,02/01/2024,02/01/2025,20,M,superior
+9895,Cij La Piedad,02/01/2024,02/01/2025,22,M,superior
+9895,Cij La Piedad,04/07/2022,04/07/2023,23,M,media superior
+9895,Cij La Piedad,21/06/2021,21/06/2022,29,M,superior
+9895,Cij La Piedad,02/05/2022,02/05/2023,26,H,superior
+9895,Cij La Piedad,04/07/2022,04/07/2023,29,M,superior
+9895,Cij La Piedad,02/01/2024,31/10/2024,21,M,media superior
+9895,Cij La Piedad,02/01/2024,08/08/2024,18,M,superior
+9895,Cij La Piedad,02/01/2024,05/04/2024,24,M,superior
+9895,Cij La Piedad,05/07/2021,29/07/2021,24,M,superior
+9895,Cij La Piedad,01/11/2021,03/11/2021,23,M,superior
+9895,Cij La Piedad,16/08/2021,17/08/2021,20,M,superior
+9895,Cij La Piedad,06/09/2021,07/09/2021,19,M,superior
+9895,Cij La Piedad,21/06/2021,22/03/2022,28,M,superior
+9895,Cij La Piedad,08/02/2022,09/02/2022,22,M,superior
+9895,Cij La Piedad,21/06/2021,24/11/2021,22,H,superior
+9895,Cij La Piedad,01/11/2021,03/11/2021,23,M,superior
+9895,Cij La Piedad,06/09/2021,07/09/2021,18,M,media superior
+9895,Cij La Piedad,21/06/2021,30/06/2021,29,M,superior
+9733,Cij Laguna Durango,02/01/2024,02/01/2025,23,M,superior
+9733,Cij Laguna Durango,05/12/2022,05/12/2023,24,M,superior
+9733,Cij Laguna Durango,03/01/2022,03/08/2022,24,H,superior
+9733,Cij Laguna Durango,19/07/2021,19/07/2022,23,M,superior
+9733,Cij Laguna Durango,19/07/2021,19/07/2022,28,M,superior
+9733,Cij Laguna Durango,02/08/2021,02/08/2022,24,M,media superior
+9733,Cij Laguna Durango,19/07/2021,19/07/2022,25,H,superior
+9733,Cij Laguna Durango,19/07/2021,19/07/2022,29,H,media superior
+9733,Cij Laguna Durango,02/08/2021,02/08/2022,24,M,superior
+9733,Cij Laguna Durango,19/07/2021,19/07/2022,24,M,superior
+9733,Cij Laguna Durango,05/07/2021,05/07/2022,25,M,media superior
+9733,Cij Laguna Durango,06/11/2023,07/11/2023,23,H,superior
+9733,Cij Laguna Durango,20/09/2021,18/10/2021,29,M,media superior
+9733,Cij Laguna Durango,05/07/2021,05/07/2021,30,M,superior
+9733,Cij Laguna Durango,06/11/2023,08/11/2023,26,H,media superior
+9733,Cij Laguna Durango,02/08/2021,12/07/2022,28,M,superior
+9733,Cij Laguna Durango,03/03/2025,,19,M,superior
+9733,Cij Laguna Durango,03/03/2025,,24,H,superior
+9733,Cij Laguna Durango,03/03/2025,,25,M,superior
+9733,Cij Laguna Durango,03/03/2025,,23,H,superior
+9733,Cij Laguna Durango,03/03/2025,,24,H,superior
+9733,Cij Laguna Durango,03/03/2025,,24,H,superior
+9820,Cij León,02/01/2024,02/01/2025,23,M,superior
+9820,Cij León,06/11/2023,06/11/2024,27,M,superior
+9820,Cij León,02/01/2024,02/01/2025,21,M,superior
+9820,Cij León,02/01/2024,02/01/2025,26,M,superior
+9820,Cij León,02/05/2023,02/05/2024,24,H,superior
+9820,Cij León,05/12/2022,05/12/2022,22,M,media superior
+9820,Cij León,21/06/2021,21/06/2022,24,M,superior
+9820,Cij León,06/09/2021,06/09/2022,23,M,superior
+9820,Cij León,16/08/2021,16/08/2022,26,M,superior
+9820,Cij León,04/10/2021,04/10/2022,25,M,superior
+9820,Cij León,16/08/2021,16/08/2022,24,M,superior
+9820,Cij León,16/08/2021,16/08/2022,24,M,media superior
+9820,Cij León,06/09/2021,06/09/2022,26,M,media superior
+9820,Cij León,02/08/2021,02/08/2022,28,H,superior
+9820,Cij León,21/06/2021,21/06/2022,29,M,superior
+9820,Cij León,18/04/2022,18/03/2023,26,M,media superior
+9820,Cij León,06/11/2023,30/07/2024,30,M,superior
+9820,Cij León,02/01/2024,27/03/2024,22,M,media superior
+9820,Cij León,06/11/2023,28/02/2024,30,H,media superior
+9820,Cij León,02/01/2024,04/11/2024,25,H,superior
+9820,Cij León,06/11/2023,30/07/2024,18,M,superior
+9820,Cij León,02/01/2023,05/06/2023,29,H,superior
+9820,Cij León,16/08/2021,24/08/2021,23,M,media superior
+9820,Cij León,16/08/2021,18/08/2021,26,M,superior
+9820,Cij León,02/01/2023,28/04/2023,23,M,superior
+9820,Cij León,20/09/2021,08/08/2022,26,M,superior
+9820,Cij León,02/01/2023,08/01/2023,18,M,superior
+9820,Cij León,02/01/2024,29/01/2024,26,M,superior
+9820,Cij León,02/01/2023,03/01/2023,25,M,superior
+9820,Cij León,06/11/2023,20/11/2023,23,M,superior
+9820,Cij León,06/11/2023,05/03/2024,24,M,superior
+9820,Cij León,02/05/2022,23/11/2022,20,M,superior
+9820,Cij León,02/08/2021,02/08/2021,28,H,superior
+9820,Cij León,02/05/2023,26/10/2023,25,M,superior
+9820,Cij León,20/09/2021,22/09/2021,28,M,superior
+9820,Cij León,07/11/2022,24/11/2022,25,M,superior
+9820,Cij León,03/03/2025,,22,M,superior
+9820,Cij León,03/03/2025,,25,M,superior
+9820,Cij León,03/03/2025,,25,H,superior
+9820,Cij León,03/03/2025,,28,H,superior
+9820,Cij León,03/03/2025,,29,M,superior
+9820,Cij León,03/03/2025,,24,M,superior
+9820,Cij León,03/03/2025,,25,M,superior
+9820,Cij León,03/03/2025,,29,M,media superior
+9820,Cij León,03/03/2025,,23,M,superior
+9820,Cij León,03/03/2025,,24,M,superior
+9651,Cij Los Cabos,02/01/2024,02/11/2024,24,M,superior
+9651,Cij Los Cabos,02/01/2024,02/01/2025,21,H,media superior
+9651,Cij Los Cabos,02/08/2021,02/06/2022,30,M,superior
+9651,Cij Los Cabos,16/08/2021,16/08/2022,23,M,media superior
+9651,Cij Los Cabos,02/01/2024,23/01/2024,27,M,media superior
+9651,Cij Los Cabos,20/09/2021,16/12/2021,22,M,superior
+9651,Cij Los Cabos,19/07/2021,03/08/2021,19,M,superior
+9651,Cij Los Cabos,20/09/2021,22/10/2021,24,H,superior
+9651,Cij Los Cabos,16/05/2022,14/10/2022,22,M,superior
+9651,Cij Los Cabos,06/06/2022,08/06/2022,25,M,superior
+9651,Cij Los Cabos,02/08/2021,06/09/2021,27,M,media superior
+9651,Cij Los Cabos,19/07/2021,17/11/2021,25,M,superior
+9651,Cij Los Cabos,17/01/2022,25/01/2022,25,H,media superior
+9651,Cij Los Cabos,06/06/2022,19/07/2022,18,H,superior
+9651,Cij Los Cabos,06/09/2021,24/03/2022,21,M,media superior
+9651,Cij Los Cabos,02/05/2022,24/08/2022,21,H,superior
+9651,Cij Los Cabos,01/11/2021,26/08/2022,18,H,superior
+9651,Cij Los Cabos,06/09/2021,06/04/2022,22,M,superior
+9651,Cij Los Cabos,19/07/2021,19/07/2021,21,H,media superior
+9651,Cij Los Cabos,20/09/2021,26/08/2022,22,M,superior
+9616,Cij Los Mochis Centro,16/08/2021,16/08/2022,23,H,superior
+9616,Cij Los Mochis Centro,01/11/2021,01/11/2022,27,H,superior
+9616,Cij Los Mochis Centro,18/04/2022,18/04/2023,28,M,superior
+9616,Cij Los Mochis Centro,21/06/2021,21/06/2022,23,M,superior
+9616,Cij Los Mochis Centro,18/04/2022,18/04/2023,26,H,superior
+9616,Cij Los Mochis Centro,21/06/2021,21/06/2022,23,M,superior
+9616,Cij Los Mochis Centro,16/05/2022,16/05/2023,26,M,media superior
+9616,Cij Los Mochis Centro,21/06/2021,08/07/2021,26,M,media superior
+9616,Cij Los Mochis Centro,16/05/2022,01/09/2022,23,M,superior
+9616,Cij Los Mochis Centro,17/01/2022,01/04/2022,21,H,media superior
+9616,Cij Los Mochis Centro,16/05/2022,01/09/2022,28,M,media superior
+9616,Cij Los Mochis Centro,16/05/2022,01/09/2022,23,H,media superior
+9616,Cij Los Mochis Centro,19/07/2021,19/07/2021,30,M,superior
+9616,Cij Los Mochis Centro,02/08/2021,02/08/2021,26,M,superior
+9861,Cij Manzanillo,02/01/2024,02/01/2025,23,M,superior
+9861,Cij Manzanillo,17/01/2022,17/01/2023,22,H,media superior
+9861,Cij Manzanillo,19/07/2021,19/07/2022,19,M,superior
+9861,Cij Manzanillo,01/11/2021,01/11/2022,22,M,media superior
+9861,Cij Manzanillo,21/06/2021,21/06/2022,24,M,superior
+9861,Cij Manzanillo,01/11/2021,01/12/2021,24,M,superior
+9861,Cij Manzanillo,18/10/2021,18/12/2021,21,M,superior
+9861,Cij Manzanillo,17/01/2022,17/10/2022,21,H,superior
+9861,Cij Manzanillo,17/01/2022,17/12/2022,26,M,superior
+9861,Cij Manzanillo,21/06/2021,21/06/2022,20,M,superior
+9861,Cij Manzanillo,16/05/2022,16/05/2023,21,M,superior
+9861,Cij Manzanillo,18/10/2021,26/05/2022,26,M,media superior
+9861,Cij Manzanillo,02/01/2024,11/11/2024,21,M,superior
+9861,Cij Manzanillo,02/01/2024,07/10/2024,24,M,superior
+9861,Cij Manzanillo,02/01/2024,06/09/2024,23,M,superior
+9861,Cij Manzanillo,06/06/2022,09/05/2023,22,M,superior
+9861,Cij Manzanillo,16/08/2021,02/02/2022,23,M,superior
+9861,Cij Manzanillo,06/09/2021,02/02/2022,23,M,superior
+9861,Cij Manzanillo,06/02/2024,21/03/2024,22,H,superior
+9861,Cij Manzanillo,07/11/2022,08/11/2022,26,M,media superior
+9861,Cij Manzanillo,03/03/2025,,26,M,superior
+9861,Cij Manzanillo,03/03/2025,,24,M,superior
+9861,Cij Manzanillo,03/03/2025,13/03/2025,23,H,superior
+9861,Cij Manzanillo,03/03/2025,,22,M,superior
+9630,Cij Mazatlán,02/05/2023,02/05/2024,28,M,superior
+9630,Cij Mazatlán,02/05/2022,02/05/2023,23,H,superior
+9630,Cij Mazatlán,21/06/2021,21/06/2022,22,H,superior
+9630,Cij Mazatlán,21/06/2021,21/06/2022,27,H,superior
+9630,Cij Mazatlán,16/08/2021,16/08/2022,25,H,superior
+9630,Cij Mazatlán,21/06/2021,21/06/2022,25,M,superior
+9630,Cij Mazatlán,05/07/2021,19/04/2022,24,M,superior
+9630,Cij Mazatlán,02/08/2021,11/12/2021,23,H,media superior
+9630,Cij Mazatlán,05/07/2021,26/01/2022,24,M,superior
+9630,Cij Mazatlán,16/05/2022,24/05/2022,23,M,superior
+9630,Cij Mazatlán,02/05/2022,03/05/2022,27,M,superior
+9630,Cij Mazatlán,02/05/2022,23/11/2022,24,M,media superior
+9930,Cij Mérida,06/02/2024,06/02/2025,27,M,superior
+9930,Cij Mérida,02/01/2024,02/01/2025,24,M,superior
+9930,Cij Mérida,02/05/2023,02/05/2024,23,M,superior
+9930,Cij Mérida,02/05/2023,02/05/2024,26,M,superior
+9930,Cij Mérida,19/07/2021,19/07/2022,20,M,superior
+9930,Cij Mérida,21/06/2021,21/06/2022,25,H,superior
+9930,Cij Mérida,21/06/2021,21/06/2022,28,H,superior
+9930,Cij Mérida,02/08/2021,02/08/2022,21,M,media superior
+9930,Cij Mérida,06/06/2022,23/10/2022,25,H,media superior
+9930,Cij Mérida,02/01/2024,08/08/2024,18,M,media superior
+9930,Cij Mérida,16/05/2022,27/09/2022,23,H,superior
+9930,Cij Mérida,08/02/2022,31/08/2022,18,M,media superior
+9930,Cij Mérida,08/02/2022,19/07/2022,19,M,media superior
+9930,Cij Mérida,18/10/2021,18/07/2022,29,M,superior
+9930,Cij Mérida,21/06/2021,04/05/2022,24,H,media superior
+9930,Cij Mérida,02/05/2022,20/05/2022,27,M,superior
+9930,Cij Mérida,21/06/2021,23/06/2021,26,M,superior
+9930,Cij Mérida,21/06/2021,23/06/2021,27,M,superior
+9930,Cij Mérida,04/10/2021,04/10/2021,24,M,superior
+9930,Cij Mérida,03/03/2025,24/03/2025,26,M,superior
+9661,Cij Mexicali,05/07/2021,23/07/2021,25,M,media superior
+9661,Cij Mexicali,06/09/2021,07/09/2021,26,H,media superior
+9430,Cij Miguel Hidalgo,06/11/2023,06/11/2024,22,M,media superior
+9430,Cij Miguel Hidalgo,06/11/2023,06/11/2024,19,M,media superior
+9430,Cij Miguel Hidalgo,06/11/2023,06/11/2024,25,H,superior
+9430,Cij Miguel Hidalgo,06/11/2023,06/11/2024,24,M,superior
+9430,Cij Miguel Hidalgo,06/11/2023,06/10/2024,28,M,superior
+9430,Cij Miguel Hidalgo,06/11/2023,06/10/2024,24,H,superior
+9430,Cij Miguel Hidalgo,02/05/2023,02/05/2024,23,H,superior
+9430,Cij Miguel Hidalgo,19/07/2021,19/07/2022,24,H,superior
+9430,Cij Miguel Hidalgo,17/01/2022,17/12/2022,27,M,superior
+9430,Cij Miguel Hidalgo,02/01/2023,02/01/2024,24,M,superior
+9430,Cij Miguel Hidalgo,19/07/2021,19/07/2022,27,M,superior
+9430,Cij Miguel Hidalgo,17/01/2022,17/01/2023,29,H,superior
+9430,Cij Miguel Hidalgo,17/01/2022,17/01/2023,23,H,superior
+9430,Cij Miguel Hidalgo,02/08/2021,02/08/2022,25,M,superior
+9430,Cij Miguel Hidalgo,19/07/2021,19/07/2022,27,H,superior
+9430,Cij Miguel Hidalgo,20/09/2021,20/09/2022,28,M,superior
+9430,Cij Miguel Hidalgo,19/07/2021,15/12/2021,25,H,superior
+9430,Cij Miguel Hidalgo,17/01/2022,24/10/2022,22,M,superior
+9430,Cij Miguel Hidalgo,16/05/2022,20/07/2022,20,M,superior
+9430,Cij Miguel Hidalgo,19/07/2021,13/04/2022,25,M,superior
+9430,Cij Miguel Hidalgo,19/07/2021,13/09/2021,23,M,superior
+9430,Cij Miguel Hidalgo,02/01/2024,30/04/2024,25,M,superior
+9430,Cij Miguel Hidalgo,06/11/2023,09/09/2024,20,M,superior
+9430,Cij Miguel Hidalgo,02/01/2023,09/01/2023,21,M,superior
+9430,Cij Miguel Hidalgo,19/07/2021,02/11/2021,28,M,superior
+9430,Cij Miguel Hidalgo,02/01/2023,18/08/2023,24,M,media superior
+9430,Cij Miguel Hidalgo,19/07/2021,26/10/2021,30,H,superior
+9430,Cij Miguel Hidalgo,01/11/2021,01/11/2021,27,H,superior
+9430,Cij Miguel Hidalgo,06/11/2023,08/11/2023,29,M,media superior
+9430,Cij Miguel Hidalgo,03/03/2025,,21,M,superior
+9430,Cij Miguel Hidalgo,03/03/2025,,21,M,superior
+9430,Cij Miguel Hidalgo,03/03/2025,,26,M,superior
+9430,Cij Miguel Hidalgo,03/03/2025,,25,H,superior
+9430,Cij Miguel Hidalgo,03/03/2025,,24,M,superior
+9510,Cij Monterrey,04/07/2022,04/03/2023,30,H,superior
+9510,Cij Monterrey,21/06/2021,01/01/2022,29,M,superior
+9510,Cij Monterrey,02/05/2023,02/05/2023,23,M,superior
+9510,Cij Monterrey,01/11/2021,16/11/2021,25,H,superior
+9894,Cij Morelia,02/01/2024,02/01/2025,24,M,superior
+9894,Cij Morelia,02/01/2024,02/01/2025,27,M,superior
+9894,Cij Morelia,02/01/2024,02/01/2025,23,H,superior
+9894,Cij Morelia,06/11/2023,06/08/2024,23,M,superior
+9894,Cij Morelia,06/02/2024,06/10/2024,30,M,media superior
+9894,Cij Morelia,02/01/2023,02/01/2024,24,M,media superior
+9894,Cij Morelia,07/11/2022,07/11/2023,24,M,superior
+9894,Cij Morelia,02/01/2023,02/01/2024,23,H,superior
+9894,Cij Morelia,07/11/2022,07/11/2023,24,M,superior
+9894,Cij Morelia,21/06/2021,21/06/2022,25,M,superior
+9894,Cij Morelia,04/10/2021,04/10/2022,29,M,superior
+9894,Cij Morelia,02/01/2023,02/01/2024,24,M,superior
+9894,Cij Morelia,02/01/2023,02/01/2024,23,M,superior
+9894,Cij Morelia,06/06/2022,06/06/2023,25,M,superior
+9894,Cij Morelia,07/11/2022,07/11/2023,24,M,superior
+9894,Cij Morelia,18/10/2021,18/08/2022,24,M,superior
+9894,Cij Morelia,21/06/2021,21/06/2022,26,H,superior
+9894,Cij Morelia,06/06/2022,06/06/2023,26,M,superior
+9894,Cij Morelia,02/01/2023,02/01/2024,25,M,media superior
+9894,Cij Morelia,21/06/2021,21/06/2022,24,M,superior
+9894,Cij Morelia,21/06/2021,21/06/2022,25,M,media superior
+9894,Cij Morelia,01/11/2021,01/11/2022,24,M,superior
+9894,Cij Morelia,19/07/2021,13/06/2022,25,M,superior
+9894,Cij Morelia,21/06/2021,14/03/2022,20,H,media superior
+9894,Cij Morelia,06/02/2024,29/10/2024,23,M,media superior
+9894,Cij Morelia,06/02/2024,10/06/2024,22,M,media superior
+9894,Cij Morelia,19/07/2021,27/10/2021,24,M,superior
+9894,Cij Morelia,02/01/2024,01/03/2024,24,M,media superior
+9894,Cij Morelia,02/08/2021,02/08/2021,23,M,media superior
+9894,Cij Morelia,18/04/2022,11/05/2022,22,H,superior
+9894,Cij Morelia,18/04/2022,11/05/2022,25,M,superior
+9894,Cij Morelia,21/06/2021,23/06/2021,25,M,media superior
+9894,Cij Morelia,03/03/2025,,21,H,superior
+9894,Cij Morelia,03/03/2025,,23,M,superior
+9894,Cij Morelia,03/03/2025,,24,M,superior
+9381,Cij Naucalpan,06/11/2023,06/11/2024,29,H,superior
+9381,Cij Naucalpan,06/11/2023,06/11/2024,19,H,media superior
+9381,Cij Naucalpan,06/11/2023,06/11/2024,22,M,superior
+9381,Cij Naucalpan,06/11/2023,06/11/2024,28,H,superior
+9381,Cij Naucalpan,06/11/2023,06/11/2024,24,H,media superior
+9381,Cij Naucalpan,06/11/2023,06/11/2024,18,M,media superior
+9381,Cij Naucalpan,06/11/2023,06/11/2024,20,M,superior
+9381,Cij Naucalpan,02/08/2021,02/08/2022,23,H,superior
+9381,Cij Naucalpan,06/06/2022,06/06/2023,25,M,superior
+9381,Cij Naucalpan,19/07/2021,19/07/2022,28,H,superior
+9381,Cij Naucalpan,19/07/2021,19/07/2022,23,H,superior
+9381,Cij Naucalpan,02/08/2021,02/08/2022,20,M,media superior
+9381,Cij Naucalpan,21/06/2021,21/06/2022,24,M,superior
+9381,Cij Naucalpan,21/06/2021,21/06/2022,24,H,superior
+9381,Cij Naucalpan,18/04/2022,18/04/2023,25,M,superior
+9381,Cij Naucalpan,02/08/2021,02/05/2022,30,M,superior
+9381,Cij Naucalpan,19/07/2021,19/07/2022,24,M,media superior
+9381,Cij Naucalpan,02/05/2022,11/05/2022,25,H,superior
+9381,Cij Naucalpan,16/05/2022,13/12/2022,26,H,media superior
+9381,Cij Naucalpan,06/11/2023,15/08/2024,20,M,superior
+9381,Cij Naucalpan,02/01/2024,26/02/2024,18,M,media superior
+9381,Cij Naucalpan,02/01/2023,12/05/2023,22,H,media superior
+9381,Cij Naucalpan,06/11/2023,05/02/2024,20,M,media superior
+9381,Cij Naucalpan,06/11/2023,07/11/2023,26,M,superior
+9381,Cij Naucalpan,03/03/2025,24/03/2025,25,M,superior
+9381,Cij Naucalpan,03/03/2025,,25,M,superior
+9381,Cij Naucalpan,03/03/2025,,24,M,superior
+9381,Cij Naucalpan,03/03/2025,,25,M,superior
+9381,Cij Naucalpan,03/03/2025,,21,H,superior
+9381,Cij Naucalpan,03/03/2025,,22,M,superior
+9381,Cij Naucalpan,03/03/2025,,25,M,superior
+9381,Cij Naucalpan,03/03/2025,,25,H,superior
+9340,Cij Nezahualcóyotl,06/11/2023,06/11/2024,24,M,superior
+9340,Cij Nezahualcóyotl,06/02/2024,06/02/2025,24,M,superior
+9340,Cij Nezahualcóyotl,06/02/2024,06/02/2025,23,H,media superior
+9340,Cij Nezahualcóyotl,02/01/2024,02/01/2025,27,M,media superior
+9340,Cij Nezahualcóyotl,06/11/2023,06/11/2024,21,M,media superior
+9340,Cij Nezahualcóyotl,06/11/2023,06/11/2024,28,M,superior
+9340,Cij Nezahualcóyotl,06/11/2023,06/11/2024,23,M,superior
+9340,Cij Nezahualcóyotl,02/05/2023,02/05/2024,21,M,superior
+9340,Cij Nezahualcóyotl,02/05/2023,02/05/2024,26,H,superior
+9340,Cij Nezahualcóyotl,05/12/2022,05/12/2023,25,H,media superior
+9340,Cij Nezahualcóyotl,04/07/2022,04/07/2023,27,M,superior
+9340,Cij Nezahualcóyotl,08/02/2022,08/02/2023,24,M,superior
+9340,Cij Nezahualcóyotl,02/01/2023,02/01/2024,23,M,superior
+9340,Cij Nezahualcóyotl,08/02/2022,08/02/2023,25,H,superior
+9340,Cij Nezahualcóyotl,03/01/2022,03/01/2023,18,H,superior
+9340,Cij Nezahualcóyotl,18/04/2022,18/03/2023,19,H,superior
+9340,Cij Nezahualcóyotl,03/01/2022,03/08/2022,22,H,superior
+9340,Cij Nezahualcóyotl,03/01/2022,03/09/2022,25,M,superior
+9340,Cij Nezahualcóyotl,21/06/2021,21/06/2022,22,M,superior
+9340,Cij Nezahualcóyotl,08/02/2022,08/02/2023,23,M,superior
+9340,Cij Nezahualcóyotl,05/12/2022,06/09/2023,24,M,superior
+9340,Cij Nezahualcóyotl,18/10/2021,18/10/2022,20,M,media superior
+9340,Cij Nezahualcóyotl,03/01/2022,03/10/2022,25,M,superior
+9340,Cij Nezahualcóyotl,21/06/2021,21/11/2021,26,M,superior
+9340,Cij Nezahualcóyotl,16/05/2022,16/05/2023,23,M,media superior
+9340,Cij Nezahualcóyotl,05/07/2021,21/09/2021,25,H,superior
+9340,Cij Nezahualcóyotl,17/01/2022,17/01/2022,20,H,media superior
+9340,Cij Nezahualcóyotl,05/12/2022,30/03/2023,19,M,superior
+9340,Cij Nezahualcóyotl,02/05/2023,03/05/2023,26,M,superior
+9340,Cij Nezahualcóyotl,06/11/2023,04/07/2024,25,M,superior
+9340,Cij Nezahualcóyotl,06/11/2023,18/10/2024,18,H,media superior
+9340,Cij Nezahualcóyotl,06/11/2023,28/11/2023,22,H,superior
+9340,Cij Nezahualcóyotl,21/06/2021,27/04/2022,26,H,superior
+9340,Cij Nezahualcóyotl,05/12/2022,28/06/2023,25,H,superior
+9340,Cij Nezahualcóyotl,21/06/2021,29/03/2022,23,M,media superior
+9340,Cij Nezahualcóyotl,02/05/2023,03/05/2023,28,M,media superior
+9340,Cij Nezahualcóyotl,21/06/2021,23/06/2021,28,M,superior
+9340,Cij Nezahualcóyotl,05/12/2022,20/03/2023,26,H,media superior
+9340,Cij Nezahualcóyotl,04/10/2021,04/10/2021,25,M,superior
+9340,Cij Nezahualcóyotl,03/03/2025,,26,H,superior
+9340,Cij Nezahualcóyotl,03/03/2025,,21,M,superior
+9340,Cij Nezahualcóyotl,03/03/2025,,25,M,superior
+9340,Cij Nezahualcóyotl,03/03/2025,,24,M,superior
+9340,Cij Nezahualcóyotl,03/03/2025,,24,M,superior
+9340,Cij Nezahualcóyotl,03/03/2025,,26,M,superior
+9340,Cij Nezahualcóyotl,03/03/2025,,22,M,superior
+9340,Cij Nezahualcóyotl,03/03/2025,,25,M,superior
+9340,Cij Nezahualcóyotl,03/03/2025,24/03/2025,25,M,superior
+9640,Cij Nogales,18/04/2022,18/04/2023,23,M,superior
+9640,Cij Nogales,16/08/2021,16/08/2022,23,M,superior
+9640,Cij Nogales,21/06/2021,21/06/2022,23,M,superior
+9640,Cij Nogales,18/04/2022,18/04/2023,23,M,superior
+9640,Cij Nogales,16/05/2022,16/05/2023,23,M,superior
+9640,Cij Nogales,18/04/2022,07/11/2022,23,M,superior
+9640,Cij Nogales,06/06/2022,25/07/2022,24,M,superior
+9640,Cij Nogales,06/11/2023,11/01/2024,25,H,media superior
+9640,Cij Nogales,16/08/2021,25/10/2021,25,M,superior
+9640,Cij Nogales,18/04/2022,22/04/2022,23,M,superior
+9640,Cij Nogales,19/07/2021,03/05/2022,28,H,media superior
+9640,Cij Nogales,21/06/2021,16/07/2021,26,H,superior
+9640,Cij Nogales,17/01/2022,17/01/2022,21,M,superior
+9640,Cij Nogales,21/06/2021,23/06/2021,29,M,superior
+9640,Cij Nogales,08/02/2022,08/02/2022,24,M,superior
+9640,Cij Nogales,06/06/2022,13/06/2022,26,M,superior
+9640,Cij Nogales,02/05/2023,03/05/2023,19,M,media superior
+9640,Cij Nogales,08/02/2022,16/06/2022,25,H,superior
+9640,Cij Nogales,06/11/2023,12/11/2023,23,M,media superior
+9640,Cij Nogales,06/11/2023,09/11/2023,30,H,media superior
+9640,Cij Nogales,20/09/2021,22/09/2021,28,M,superior
+9640,Cij Nogales,16/05/2022,16/09/2022,25,M,superior
+9640,Cij Nogales,03/03/2025,24/03/2025,28,M,superior
+9170,Cij Oaxaca,02/01/2024,06/10/2024,23,M,media superior
+9170,Cij Oaxaca,02/08/2021,02/08/2022,24,M,superior
+9170,Cij Oaxaca,02/08/2021,02/08/2022,22,H,superior
+9170,Cij Oaxaca,02/05/2023,02/07/2023,25,M,superior
+9170,Cij Oaxaca,21/06/2021,21/06/2022,25,M,superior
+9170,Cij Oaxaca,02/08/2021,02/08/2022,24,M,superior
+9170,Cij Oaxaca,21/06/2021,21/06/2022,23,M,superior
+9170,Cij Oaxaca,17/01/2022,17/07/2022,24,H,superior
+9170,Cij Oaxaca,04/10/2021,04/10/2022,23,M,superior
+9170,Cij Oaxaca,17/01/2022,17/01/2023,23,M,superior
+9170,Cij Oaxaca,16/08/2021,20/12/2021,28,H,superior
+9170,Cij Oaxaca,17/01/2022,15/05/2022,21,M,media superior
+9170,Cij Oaxaca,02/01/2023,01/02/2023,22,M,superior
+9170,Cij Oaxaca,02/01/2024,03/06/2024,28,H,superior
+9170,Cij Oaxaca,06/02/2024,28/05/2024,24,H,superior
+9170,Cij Oaxaca,06/11/2023,26/12/2023,18,M,superior
+9170,Cij Oaxaca,02/05/2023,05/05/2023,27,M,media superior
+9170,Cij Oaxaca,16/08/2021,11/11/2021,25,H,media superior
+9170,Cij Oaxaca,06/11/2023,28/12/2023,23,H,superior
+9170,Cij Oaxaca,02/08/2021,02/08/2021,24,M,superior
+9170,Cij Oaxaca,02/01/2023,28/07/2023,24,M,superior
+9170,Cij Oaxaca,06/09/2021,07/09/2021,23,H,superior
+9170,Cij Oaxaca,02/01/2023,31/07/2023,24,H,superior
+9170,Cij Oaxaca,03/03/2025,,22,M,superior
+9170,Cij Oaxaca,03/03/2025,10/03/2025,24,M,superior
+9170,Cij Oaxaca,03/03/2025,,29,H,superior
+9170,Cij Oaxaca,03/03/2025,24/03/2025,24,H,superior
+9170,Cij Oaxaca,03/03/2025,,23,M,superior
+9010,Cij Pachuca,06/11/2023,06/11/2024,23,M,superior
+9010,Cij Pachuca,06/11/2023,06/11/2024,24,M,superior
+9010,Cij Pachuca,06/02/2024,06/02/2025,25,M,superior
+9010,Cij Pachuca,02/01/2024,03/09/2024,25,M,superior
+9010,Cij Pachuca,06/02/2024,06/04/2024,24,M,superior
+9010,Cij Pachuca,06/02/2024,06/10/2024,24,M,media superior
+9010,Cij Pachuca,05/12/2022,05/12/2023,24,M,media superior
+9010,Cij Pachuca,05/12/2022,05/12/2023,23,M,superior
+9010,Cij Pachuca,05/12/2022,05/12/2023,19,M,superior
+9010,Cij Pachuca,21/06/2021,21/06/2022,23,H,superior
+9010,Cij Pachuca,21/06/2021,21/06/2022,24,M,superior
+9010,Cij Pachuca,21/06/2021,21/06/2022,24,M,superior
+9010,Cij Pachuca,02/04/2023,02/02/2024,26,M,superior
+9010,Cij Pachuca,02/01/2023,03/11/2023,23,M,superior
+9010,Cij Pachuca,21/06/2021,21/06/2022,24,M,superior
+9010,Cij Pachuca,21/06/2021,21/06/2022,26,M,superior
+9010,Cij Pachuca,19/07/2021,19/07/2022,23,M,superior
+9010,Cij Pachuca,21/06/2021,21/06/2022,24,H,superior
+9010,Cij Pachuca,02/01/2023,02/01/2024,23,M,superior
+9010,Cij Pachuca,02/01/2023,02/07/2023,25,M,superior
+9010,Cij Pachuca,21/06/2021,21/06/2022,23,M,superior
+9010,Cij Pachuca,21/06/2021,21/06/2022,25,M,superior
+9010,Cij Pachuca,02/01/2023,02/01/2024,22,M,superior
+9010,Cij Pachuca,08/02/2022,08/10/2022,25,M,media superior
+9010,Cij Pachuca,02/05/2023,04/05/2023,26,M,media superior
+9010,Cij Pachuca,21/06/2021,20/01/2022,23,M,media superior
+9010,Cij Pachuca,06/11/2023,08/08/2024,18,M,media superior
+9010,Cij Pachuca,06/02/2024,08/08/2024,24,H,superior
+9010,Cij Pachuca,05/12/2022,08/06/2023,29,H,superior
+9010,Cij Pachuca,08/02/2022,20/05/2022,22,M,media superior
+9010,Cij Pachuca,05/12/2022,19/12/2022,24,M,media superior
+9010,Cij Pachuca,21/06/2021,27/04/2022,24,M,media superior
+9010,Cij Pachuca,01/11/2021,01/11/2021,26,H,superior
+9010,Cij Pachuca,19/07/2021,20/07/2021,23,H,superior
+9010,Cij Pachuca,03/03/2025,,28,M,superior
+9010,Cij Pachuca,03/03/2025,,23,H,superior
+9010,Cij Pachuca,03/03/2025,24/03/2025,23,M,superior
+9953,Cij Playa del Carmen,06/11/2023,06/11/2024,22,H,superior
+9953,Cij Playa del Carmen,05/07/2021,05/07/2022,29,M,superior
+9953,Cij Playa del Carmen,02/01/2024,31/07/2024,18,H,superior
+9953,Cij Playa del Carmen,21/06/2021,06/05/2022,27,M,superior
+9953,Cij Playa del Carmen,08/02/2022,21/10/2022,28,M,superior
+9953,Cij Playa del Carmen,02/08/2021,13/05/2022,21,M,superior
+9953,Cij Playa del Carmen,08/02/2022,13/05/2022,24,M,media superior
+9953,Cij Playa del Carmen,07/11/2022,23/12/2022,24,M,superior
+9953,Cij Playa del Carmen,17/01/2022,17/01/2022,25,H,superior
+9953,Cij Playa del Carmen,03/03/2025,,25,M,superior
+9111,Cij Poza Rica,06/02/2024,06/11/2024,28,M,superior
+9111,Cij Poza Rica,06/02/2024,06/02/2025,27,M,media superior
+9111,Cij Poza Rica,02/05/2023,02/05/2024,21,M,media superior
+9111,Cij Poza Rica,06/02/2024,06/10/2024,21,M,media superior
+9111,Cij Poza Rica,19/07/2021,19/07/2022,25,M,superior
+9111,Cij Poza Rica,19/07/2021,19/07/2022,23,M,superior
+9111,Cij Poza Rica,02/01/2023,02/01/2024,23,M,superior
+9111,Cij Poza Rica,02/01/2023,02/01/2024,22,M,superior
+9111,Cij Poza Rica,02/01/2023,02/01/2024,22,M,superior
+9111,Cij Poza Rica,04/10/2021,04/10/2022,25,M,superior
+9111,Cij Poza Rica,18/04/2022,18/04/2023,23,H,superior
+9111,Cij Poza Rica,02/01/2023,02/01/2024,23,M,superior
+9111,Cij Poza Rica,19/07/2021,19/07/2022,22,M,superior
+9111,Cij Poza Rica,21/06/2021,21/06/2022,24,M,media superior
+9111,Cij Poza Rica,02/01/2023,02/01/2024,22,M,superior
+9111,Cij Poza Rica,19/07/2021,19/07/2022,23,M,superior
+9111,Cij Poza Rica,02/01/2023,02/01/2024,22,H,superior
+9111,Cij Poza Rica,19/07/2021,19/07/2022,25,H,superior
+9111,Cij Poza Rica,19/07/2021,19/07/2022,26,M,superior
+9111,Cij Poza Rica,02/01/2023,03/04/2023,22,M,superior
+9111,Cij Poza Rica,02/01/2023,07/08/2023,24,M,media superior
+9111,Cij Poza Rica,02/01/2024,09/02/2024,21,M,superior
+9111,Cij Poza Rica,02/01/2023,17/04/2023,22,M,superior
+9111,Cij Poza Rica,02/01/2024,03/01/2024,24,H,media superior
+9111,Cij Poza Rica,06/11/2023,07/11/2023,23,H,media superior
+9111,Cij Poza Rica,21/06/2021,23/06/2021,25,H,superior
+9111,Cij Poza Rica,19/07/2021,20/07/2021,28,H,superior
+9111,Cij Poza Rica,06/11/2023,27/10/2023,20,M,superior
+9111,Cij Poza Rica,06/11/2023,30/10/2023,20,M,superior
+9111,Cij Poza Rica,17/01/2022,06/06/2022,19,M,media superior
+9111,Cij Poza Rica,03/03/2025,,23,M,superior
+9111,Cij Poza Rica,03/03/2025,,23,M,superior
+9030,Cij Puebla,06/11/2023,06/11/2024,18,M,media superior
+9030,Cij Puebla,06/11/2023,06/11/2024,24,M,superior
+9030,Cij Puebla,02/05/2023,02/05/2024,24,H,superior
+9030,Cij Puebla,02/05/2023,02/05/2024,25,H,superior
+9030,Cij Puebla,06/11/2023,06/09/2024,23,M,superior
+9030,Cij Puebla,02/05/2023,02/05/2024,23,M,superior
+9030,Cij Puebla,02/05/2023,02/05/2024,26,M,superior
+9030,Cij Puebla,02/01/2023,03/10/2023,26,M,superior
+9030,Cij Puebla,01/11/2021,01/09/2022,22,M,superior
+9030,Cij Puebla,19/07/2021,19/07/2022,27,M,superior
+9030,Cij Puebla,02/01/2023,02/01/2024,18,M,superior
+9030,Cij Puebla,02/08/2021,02/08/2022,23,M,media superior
+9030,Cij Puebla,06/09/2021,06/09/2022,18,M,superior
+9030,Cij Puebla,18/04/2022,18/09/2022,22,M,superior
+9030,Cij Puebla,16/08/2021,16/08/2022,19,M,superior
+9030,Cij Puebla,06/06/2022,06/10/2022,23,M,media superior
+9030,Cij Puebla,02/01/2023,31/01/2023,25,M,superior
+9030,Cij Puebla,21/06/2021,16/10/2021,26,H,superior
+9030,Cij Puebla,21/06/2021,05/04/2022,27,M,superior
+9030,Cij Puebla,06/11/2023,04/07/2024,27,H,superior
+9030,Cij Puebla,02/08/2021,17/01/2022,25,M,media superior
+9030,Cij Puebla,21/06/2021,11/05/2022,22,M,superior
+9030,Cij Puebla,21/06/2021,14/10/2021,26,M,superior
+9030,Cij Puebla,01/11/2021,21/09/2022,24,M,superior
+9030,Cij Puebla,02/05/2023,08/05/2023,23,H,superior
+9030,Cij Puebla,03/01/2022,20/05/2022,27,H,superior
+9030,Cij Puebla,06/06/2022,16/08/2022,21,H,superior
+9030,Cij Puebla,02/05/2023,03/05/2023,26,M,superior
+9030,Cij Puebla,06/11/2023,06/02/2024,24,M,superior
+9030,Cij Puebla,07/11/2022,05/12/2022,23,H,superior
+9030,Cij Puebla,08/02/2022,11/04/2022,25,H,superior
+9811,Cij Puerto Vallarta,19/07/2021,19/07/2022,24,H,superior
+9811,Cij Puerto Vallarta,02/08/2021,09/08/2021,27,M,superior
+9811,Cij Puerto Vallarta,16/08/2021,17/06/2022,18,H,media superior
+9811,Cij Puerto Vallarta,02/01/2024,09/04/2024,24,M,superior
+9811,Cij Puerto Vallarta,16/05/2022,16/01/2023,24,M,superior
+9811,Cij Puerto Vallarta,02/05/2022,18/08/2022,22,H,superior
+9811,Cij Puerto Vallarta,03/03/2025,,23,M,superior
+9811,Cij Puerto Vallarta,03/03/2025,24/03/2025,25,M,superior
+9040,Cij Querétaro,06/11/2023,06/11/2024,26,H,media superior
+9040,Cij Querétaro,06/11/2023,06/11/2024,24,M,superior
+9040,Cij Querétaro,05/07/2021,05/07/2022,29,M,media superior
+9040,Cij Querétaro,06/09/2021,06/09/2022,22,M,superior
+9040,Cij Querétaro,21/06/2021,21/06/2022,24,M,superior
+9040,Cij Querétaro,18/04/2022,18/04/2023,30,M,superior
+9040,Cij Querétaro,21/06/2021,21/06/2022,27,H,superior
+9040,Cij Querétaro,17/01/2022,04/10/2022,28,H,superior
+9040,Cij Querétaro,02/01/2024,01/03/2024,22,M,superior
+9040,Cij Querétaro,06/11/2023,03/05/2024,19,H,media superior
+9040,Cij Querétaro,06/11/2023,12/08/2024,29,M,superior
+9040,Cij Querétaro,19/07/2021,02/03/2022,28,M,media superior
+9040,Cij Querétaro,06/11/2023,09/11/2023,27,M,superior
+9040,Cij Querétaro,18/04/2022,26/05/2022,23,H,media superior
+9040,Cij Querétaro,18/04/2022,13/06/2022,20,H,media superior
+9040,Cij Querétaro,21/06/2021,31/03/2022,25,H,superior
+9040,Cij Querétaro,18/04/2022,13/06/2022,24,H,superior
+9040,Cij Querétaro,06/06/2022,01/12/2022,20,M,media superior
+9735,Cij Ramos Arizpe,02/08/2021,02/08/2022,23,M,superior
+9735,Cij Ramos Arizpe,02/08/2021,02/08/2022,23,M,superior
+9735,Cij Ramos Arizpe,06/09/2021,06/09/2022,29,M,superior
+9735,Cij Ramos Arizpe,21/06/2021,21/06/2022,21,M,superior
+9735,Cij Ramos Arizpe,01/11/2021,01/11/2022,21,M,superior
+9735,Cij Ramos Arizpe,19/07/2021,19/07/2022,30,M,media superior
+9735,Cij Ramos Arizpe,19/07/2021,19/07/2022,22,M,superior
+9735,Cij Ramos Arizpe,16/08/2021,16/08/2022,21,M,superior
+9735,Cij Ramos Arizpe,02/08/2021,30/11/2021,22,M,superior
+9735,Cij Ramos Arizpe,02/08/2021,03/11/2021,22,H,superior
+9735,Cij Ramos Arizpe,16/08/2021,23/09/2021,28,M,superior
+9735,Cij Ramos Arizpe,05/12/2022,08/12/2022,26,M,superior
+9735,Cij Ramos Arizpe,06/11/2023,27/11/2023,23,M,media superior
+9735,Cij Ramos Arizpe,17/01/2022,20/07/2022,25,H,superior
+9735,Cij Ramos Arizpe,17/01/2022,04/11/2022,23,M,media superior
+9735,Cij Ramos Arizpe,03/03/2025,,22,M,superior
+9735,Cij Ramos Arizpe,03/03/2025,21/03/2025,24,M,superior
+9541,Cij Reynosa,06/11/2023,06/11/2024,27,H,superior
+9541,Cij Reynosa,21/06/2021,21/06/2022,28,M,superior
+9541,Cij Reynosa,02/01/2023,03/01/2023,25,M,superior
+9541,Cij Reynosa,02/08/2021,09/11/2021,21,M,superior
+9541,Cij Reynosa,19/07/2021,16/12/2021,19,M,superior
+9541,Cij Reynosa,04/07/2022,16/06/2023,22,M,media superior
+9541,Cij Reynosa,02/01/2023,06/07/2023,24,H,superior
+9541,Cij Reynosa,05/07/2021,12/04/2022,21,M,superior
+9541,Cij Reynosa,21/06/2021,12/04/2022,24,M,superior
+9541,Cij Reynosa,17/01/2022,18/01/2022,19,M,media superior
+9541,Cij Reynosa,20/09/2021,11/10/2021,20,M,superior
+9541,Cij Reynosa,17/01/2022,18/01/2022,19,M,superior
+9541,Cij Reynosa,20/09/2021,20/09/2021,24,M,superior
+9541,Cij Reynosa,02/08/2021,03/08/2021,26,H,superior
+9541,Cij Reynosa,02/08/2021,03/08/2021,21,H,media superior
+9541,Cij Reynosa,17/01/2022,17/01/2022,29,M,superior
+9541,Cij Reynosa,08/02/2022,08/02/2022,26,H,superior
+9541,Cij Reynosa,02/08/2021,03/08/2021,28,M,superior
+9051,Cij Salamanca,06/11/2023,06/11/2024,22,M,superior
+9051,Cij Salamanca,06/11/2023,06/11/2024,19,H,media superior
+9051,Cij Salamanca,06/11/2023,06/11/2024,28,H,superior
+9051,Cij Salamanca,06/11/2023,06/11/2024,28,M,media superior
+9051,Cij Salamanca,06/02/2024,06/10/2024,29,M,superior
+9051,Cij Salamanca,02/05/2023,02/05/2024,24,M,superior
+9051,Cij Salamanca,02/05/2023,02/05/2024,25,M,superior
+9051,Cij Salamanca,02/05/2023,02/05/2024,18,M,media superior
+9051,Cij Salamanca,02/05/2023,02/05/2024,22,H,superior
+9051,Cij Salamanca,06/09/2021,06/09/2022,22,M,superior
+9051,Cij Salamanca,02/05/2023,02/07/2023,27,M,media superior
+9051,Cij Salamanca,06/06/2022,06/06/2023,19,H,superior
+9051,Cij Salamanca,20/09/2021,20/09/2022,25,M,superior
+9051,Cij Salamanca,21/06/2021,21/06/2022,27,M,superior
+9051,Cij Salamanca,06/06/2022,06/06/2023,22,M,superior
+9051,Cij Salamanca,16/08/2021,16/08/2022,23,M,superior
+9051,Cij Salamanca,02/08/2021,02/08/2022,19,M,superior
+9051,Cij Salamanca,18/04/2022,18/04/2023,25,M,superior
+9051,Cij Salamanca,04/10/2021,23/05/2022,23,M,superior
+9051,Cij Salamanca,02/08/2021,05/08/2021,22,M,media superior
+9051,Cij Salamanca,02/05/2023,03/05/2023,25,M,superior
+9051,Cij Salamanca,06/11/2023,09/07/2024,21,M,superior
+9051,Cij Salamanca,02/01/2023,03/01/2023,27,H,superior
+9051,Cij Salamanca,17/01/2022,17/03/2022,18,H,media superior
+9051,Cij Salamanca,18/04/2022,22/09/2022,25,M,superior
+9051,Cij Salamanca,02/01/2024,12/01/2024,25,H,media superior
+9051,Cij Salamanca,02/05/2022,11/05/2022,19,M,superior
+9051,Cij Salamanca,18/04/2022,20/07/2022,22,H,superior
+9051,Cij Salamanca,20/09/2021,20/09/2021,24,M,superior
+9051,Cij Salamanca,03/03/2025,,23,M,superior
+9051,Cij Salamanca,03/03/2025,,26,H,superior
+9051,Cij Salamanca,03/03/2025,,22,M,media superior
+9051,Cij Salamanca,03/03/2025,24/03/2025,26,M,superior
+9051,Cij Salamanca,03/03/2025,,22,M,superior
+9530,Cij Saltillo,06/11/2023,06/11/2024,25,M,superior
+9530,Cij Saltillo,06/11/2023,06/11/2024,22,M,superior
+9530,Cij Saltillo,06/11/2023,06/11/2024,23,M,superior
+9530,Cij Saltillo,06/11/2023,06/11/2024,29,M,superior
+9530,Cij Saltillo,02/01/2024,02/01/2025,25,M,superior
+9530,Cij Saltillo,06/11/2023,06/11/2024,23,M,superior
+9530,Cij Saltillo,02/01/2024,02/01/2025,24,M,media superior
+9530,Cij Saltillo,21/06/2021,21/06/2022,21,M,superior
+9530,Cij Saltillo,21/06/2021,21/06/2022,26,M,superior
+9530,Cij Saltillo,04/07/2022,04/06/2023,24,H,superior
+9530,Cij Saltillo,21/06/2021,21/06/2022,20,M,superior
+9530,Cij Saltillo,21/06/2021,21/06/2022,29,M,superior
+9530,Cij Saltillo,02/01/2023,03/01/2023,22,M,superior
+9530,Cij Saltillo,04/10/2021,06/10/2021,22,M,superior
+9530,Cij Saltillo,06/11/2023,06/08/2024,18,M,media superior
+9530,Cij Saltillo,04/07/2022,12/07/2022,22,M,superior
+9530,Cij Saltillo,16/08/2021,10/09/2021,21,H,superior
+9530,Cij Saltillo,19/07/2021,31/05/2022,25,M,media superior
+9530,Cij Saltillo,02/01/2023,29/08/2023,26,M,superior
+9530,Cij Saltillo,21/06/2021,31/05/2022,24,M,superior
+9530,Cij Saltillo,03/01/2022,31/05/2022,29,M,superior
+9530,Cij Saltillo,04/07/2022,28/02/2023,19,M,superior
+9530,Cij Saltillo,02/01/2023,02/01/2023,18,M,superior
+9530,Cij Saltillo,21/06/2021,23/06/2021,23,M,superior
+9530,Cij Saltillo,19/07/2021,12/07/2022,28,H,superior
+9530,Cij Saltillo,20/09/2021,07/07/2022,23,H,media superior
+9530,Cij Saltillo,06/11/2023,13/11/2023,25,H,superior
+9530,Cij Saltillo,19/07/2021,20/07/2021,25,M,superior
+9530,Cij Saltillo,01/11/2021,01/11/2021,22,H,superior
+9530,Cij Saltillo,01/11/2021,07/07/2022,24,M,superior
+9830,Cij San Luis Potosí,02/01/2024,02/01/2025,25,M,superior
+9830,Cij San Luis Potosí,02/01/2024,02/01/2025,29,M,superior
+9830,Cij San Luis Potosí,16/08/2021,16/08/2022,27,M,superior
+9830,Cij San Luis Potosí,21/06/2021,21/06/2022,23,M,media superior
+9830,Cij San Luis Potosí,02/01/2023,02/01/2024,28,M,superior
+9830,Cij San Luis Potosí,05/07/2021,05/07/2022,24,M,superior
+9830,Cij San Luis Potosí,02/08/2021,02/08/2022,26,M,superior
+9830,Cij San Luis Potosí,19/07/2021,19/07/2022,23,M,superior
+9830,Cij San Luis Potosí,02/01/2023,03/11/2023,28,M,media superior
+9830,Cij San Luis Potosí,19/07/2021,19/07/2022,24,M,media superior
+9830,Cij San Luis Potosí,21/06/2021,21/06/2022,25,M,media superior
+9830,Cij San Luis Potosí,06/06/2022,06/06/2023,22,M,superior
+9830,Cij San Luis Potosí,21/06/2021,21/06/2022,24,M,media superior
+9830,Cij San Luis Potosí,18/04/2022,17/05/2022,25,M,superior
+9830,Cij San Luis Potosí,21/06/2021,13/05/2022,26,H,superior
+9830,Cij San Luis Potosí,02/01/2024,17/09/2024,22,M,superior
+9830,Cij San Luis Potosí,06/11/2023,17/09/2024,19,M,superior
+9830,Cij San Luis Potosí,02/01/2024,17/09/2024,21,M,superior
+9830,Cij San Luis Potosí,06/11/2023,17/09/2024,23,M,superior
+9830,Cij San Luis Potosí,02/01/2024,17/09/2024,24,H,media superior
+9830,Cij San Luis Potosí,02/01/2024,30/08/2024,21,M,superior
+9830,Cij San Luis Potosí,02/01/2023,20/06/2023,28,M,superior
+9830,Cij San Luis Potosí,02/01/2024,29/01/2024,23,H,media superior
+9830,Cij San Luis Potosí,02/01/2023,26/02/2023,28,M,superior
+9830,Cij San Luis Potosí,06/06/2022,26/02/2023,27,M,superior
+9830,Cij San Luis Potosí,19/07/2021,20/07/2021,24,M,media superior
+9830,Cij San Luis Potosí,05/07/2021,06/07/2021,25,H,superior
+9830,Cij San Luis Potosí,21/06/2021,23/06/2021,24,H,superior
+9830,Cij San Luis Potosí,21/06/2021,23/06/2021,23,M,media superior
+9511,Cij San Nicolás de Los Garza,02/01/2024,02/01/2025,23,M,media superior
+9511,Cij San Nicolás de Los Garza,17/01/2022,17/01/2023,18,M,superior
+9511,Cij San Nicolás de Los Garza,05/07/2021,05/07/2022,27,M,superior
+9511,Cij San Nicolás de Los Garza,17/01/2022,17/01/2023,24,M,superior
+9511,Cij San Nicolás de Los Garza,01/11/2021,01/11/2022,24,M,superior
+9511,Cij San Nicolás de Los Garza,19/07/2021,19/07/2022,23,M,superior
+9511,Cij San Nicolás de Los Garza,19/07/2021,19/07/2022,22,H,superior
+9511,Cij San Nicolás de Los Garza,01/11/2021,01/10/2022,25,M,superior
+9511,Cij San Nicolás de Los Garza,06/11/2023,07/11/2023,25,H,media superior
+9511,Cij San Nicolás de Los Garza,06/09/2021,07/09/2021,28,H,superior
+9511,Cij San Nicolás de Los Garza,16/08/2021,14/02/2022,24,M,superior
+9511,Cij San Nicolás de Los Garza,06/09/2021,08/05/2022,24,H,superior
+9511,Cij San Nicolás de Los Garza,02/01/2024,02/01/2024,21,H,superior
+9511,Cij San Nicolás de Los Garza,05/07/2021,04/11/2021,23,M,superior
+9511,Cij San Nicolás de Los Garza,08/02/2022,03/10/2022,24,M,superior
+9511,Cij San Nicolás de Los Garza,20/09/2021,14/10/2021,25,H,superior
+9511,Cij San Nicolás de Los Garza,18/04/2022,11/05/2022,18,H,media superior
+9511,Cij San Nicolás de Los Garza,03/03/2025,,24,H,superior
+9540,Cij Tampico,06/11/2023,06/11/2024,26,H,superior
+9540,Cij Tampico,06/11/2023,06/11/2024,22,H,superior
+9540,Cij Tampico,02/01/2024,02/01/2025,25,M,superior
+9540,Cij Tampico,02/01/2024,02/01/2025,26,M,superior
+9540,Cij Tampico,02/01/2024,02/01/2025,26,H,media superior
+9540,Cij Tampico,06/11/2023,06/11/2024,24,H,superior
+9540,Cij Tampico,06/11/2023,06/11/2024,23,H,superior
+9540,Cij Tampico,02/05/2023,02/05/2024,24,H,superior
+9540,Cij Tampico,02/05/2023,02/05/2024,24,H,superior
+9540,Cij Tampico,21/06/2021,21/06/2022,24,M,superior
+9540,Cij Tampico,08/02/2022,08/02/2023,24,H,superior
+9540,Cij Tampico,02/01/2023,03/10/2023,27,H,superior
+9540,Cij Tampico,07/11/2022,07/04/2023,26,M,superior
+9540,Cij Tampico,18/10/2021,18/10/2022,21,M,superior
+9540,Cij Tampico,02/08/2021,20/09/2021,20,H,superior
+9540,Cij Tampico,18/10/2021,13/06/2022,29,H,superior
+9540,Cij Tampico,01/11/2021,17/04/2022,24,H,superior
+9540,Cij Tampico,01/11/2021,13/04/2022,25,M,superior
+9540,Cij Tampico,02/01/2023,01/02/2023,24,M,superior
+9540,Cij Tampico,06/11/2023,11/12/2023,20,H,superior
+9540,Cij Tampico,06/11/2023,11/12/2023,20,H,media superior
+9540,Cij Tampico,02/01/2023,06/01/2023,23,M,media superior
+9540,Cij Tampico,16/08/2021,20/10/2021,24,M,media superior
+9540,Cij Tampico,19/07/2021,22/04/2022,29,M,superior
+9540,Cij Tampico,02/08/2021,29/03/2022,21,M,media superior
+9540,Cij Tampico,21/06/2021,13/10/2021,23,M,superior
+9540,Cij Tampico,04/10/2021,29/09/2022,21,H,superior
+9540,Cij Tampico,19/07/2021,03/11/2021,26,H,superior
+9540,Cij Tampico,02/08/2021,14/09/2021,21,H,media superior
+9540,Cij Tampico,02/01/2023,06/01/2023,23,H,superior
+9540,Cij Tampico,08/02/2022,04/05/2022,20,M,media superior
+9540,Cij Tampico,04/10/2021,17/10/2021,19,M,media superior
+9540,Cij Tampico,02/01/2023,03/04/2023,28,M,superior
+9540,Cij Tampico,06/09/2021,07/09/2021,23,M,superior
+9161,Cij Tapachula,06/11/2023,06/11/2024,23,M,superior
+9161,Cij Tapachula,06/11/2023,06/11/2024,21,M,superior
+9161,Cij Tapachula,06/11/2023,06/11/2024,24,H,superior
+9161,Cij Tapachula,06/11/2023,06/11/2024,22,M,superior
+9161,Cij Tapachula,06/11/2023,06/11/2024,23,H,superior
+9161,Cij Tapachula,06/11/2023,06/11/2024,23,M,superior
+9161,Cij Tapachula,20/09/2021,20/09/2022,27,M,superior
+9161,Cij Tapachula,02/01/2023,02/01/2024,27,M,superior
+9161,Cij Tapachula,02/01/2023,02/12/2023,23,M,superior
+9161,Cij Tapachula,16/08/2021,16/08/2022,20,H,media superior
+9161,Cij Tapachula,16/08/2021,16/08/2022,22,M,superior
+9161,Cij Tapachula,06/12/2021,06/12/2022,23,M,superior
+9161,Cij Tapachula,02/01/2023,02/01/2024,21,M,superior
+9161,Cij Tapachula,06/12/2021,06/12/2022,22,M,superior
+9161,Cij Tapachula,20/09/2021,20/09/2022,22,H,superior
+9161,Cij Tapachula,16/08/2021,16/08/2022,30,M,superior
+9161,Cij Tapachula,19/07/2021,19/07/2022,21,M,superior
+9161,Cij Tapachula,18/04/2022,18/04/2023,25,H,superior
+9161,Cij Tapachula,19/07/2021,19/07/2022,20,M,media superior
+9161,Cij Tapachula,02/01/2023,03/01/2023,28,H,superior
+9161,Cij Tapachula,06/11/2023,29/08/2024,23,M,superior
+9161,Cij Tapachula,02/01/2023,27/03/2023,27,H,media superior
+9161,Cij Tapachula,19/07/2021,06/08/2021,23,M,superior
+9161,Cij Tapachula,21/06/2021,04/04/2022,26,M,superior
+9161,Cij Tapachula,16/08/2021,01/10/2021,27,M,superior
+9161,Cij Tapachula,02/01/2023,02/01/2023,18,H,superior
+9161,Cij Tapachula,19/07/2021,08/06/2022,24,M,media superior
+9161,Cij Tapachula,16/08/2021,16/03/2022,22,H,superior
+9161,Cij Tapachula,18/04/2022,13/07/2022,18,M,superior
+9161,Cij Tapachula,02/01/2023,16/12/2022,18,H,superior
+9161,Cij Tapachula,20/09/2021,22/09/2021,23,M,superior
+9161,Cij Tapachula,16/08/2021,18/08/2021,28,H,superior
+9862,Cij Tecomán,06/11/2023,06/11/2024,27,M,superior
+9862,Cij Tecomán,02/01/2024,02/01/2025,20,M,media superior
+9862,Cij Tecomán,05/12/2022,05/12/2023,25,M,superior
+9862,Cij Tecomán,16/05/2022,16/05/2023,24,M,superior
+9862,Cij Tecomán,02/01/2023,02/01/2024,24,M,superior
+9862,Cij Tecomán,17/01/2022,17/01/2023,23,M,superior
+9862,Cij Tecomán,16/08/2021,16/08/2022,24,M,superior
+9862,Cij Tecomán,19/07/2021,19/07/2022,21,H,superior
+9862,Cij Tecomán,18/10/2021,18/10/2022,23,H,superior
+9862,Cij Tecomán,21/06/2021,21/06/2022,22,M,superior
+9862,Cij Tecomán,02/08/2021,02/08/2022,22,M,superior
+9862,Cij Tecomán,02/01/2024,08/08/2024,18,M,superior
+9862,Cij Tecomán,02/05/2023,03/05/2023,23,H,superior
+9862,Cij Tecomán,04/10/2021,26/05/2022,24,M,superior
+9862,Cij Tecomán,04/10/2021,26/05/2022,27,H,superior
+9862,Cij Tecomán,04/07/2022,05/07/2022,23,H,superior
+9862,Cij Tecomán,19/07/2021,06/08/2021,22,M,superior
+9862,Cij Tecomán,02/08/2021,03/08/2021,28,M,superior
+9862,Cij Tecomán,19/07/2021,20/07/2021,19,H,media superior
+9862,Cij Tecomán,16/08/2021,18/08/2021,21,M,superior
+9862,Cij Tecomán,16/08/2021,18/08/2021,25,H,superior
+9862,Cij Tecomán,03/03/2025,,26,H,superior
+9031,Cij Tehuacán,06/11/2023,06/11/2024,24,H,superior
+9031,Cij Tehuacán,06/11/2023,06/11/2024,23,H,superior
+9031,Cij Tehuacán,06/11/2023,06/11/2024,23,M,superior
+9031,Cij Tehuacán,02/01/2024,02/01/2025,25,M,superior
+9031,Cij Tehuacán,06/11/2023,06/11/2024,24,M,superior
+9031,Cij Tehuacán,06/11/2023,06/08/2024,26,M,superior
+9031,Cij Tehuacán,05/12/2022,05/12/2023,27,M,superior
+9031,Cij Tehuacán,06/09/2021,06/09/2022,24,M,superior
+9031,Cij Tehuacán,21/06/2021,21/06/2022,26,M,superior
+9031,Cij Tehuacán,18/04/2022,18/04/2023,23,M,superior
+9031,Cij Tehuacán,16/05/2022,16/05/2023,20,H,superior
+9031,Cij Tehuacán,04/07/2022,04/07/2023,22,M,superior
+9031,Cij Tehuacán,16/05/2022,16/05/2023,28,M,superior
+9031,Cij Tehuacán,04/07/2022,03/03/2023,24,H,superior
+9031,Cij Tehuacán,20/09/2021,15/06/2022,22,M,media superior
+9031,Cij Tehuacán,06/11/2023,07/11/2023,22,M,media superior
+9031,Cij Tehuacán,18/04/2022,30/05/2022,22,M,media superior
+9031,Cij Tehuacán,01/11/2021,22/03/2022,29,M,superior
+9031,Cij Tehuacán,02/01/2024,13/09/2024,26,M,superior
+9031,Cij Tehuacán,02/01/2024,06/11/2024,24,H,superior
+9031,Cij Tehuacán,06/11/2023,03/06/2024,26,M,superior
+9382,Cij Tehuacán,06/02/2024,12/02/2024,19,H,media superior
+9031,Cij Tehuacán,16/08/2021,13/09/2021,29,H,superior
+9031,Cij Tehuacán,21/06/2021,12/04/2022,20,M,superior
+9031,Cij Tehuacán,02/05/2023,03/05/2023,28,H,superior
+9031,Cij Tehuacán,19/07/2021,19/10/2021,24,H,superior
+9031,Cij Tehuacán,05/12/2022,05/12/2023,22,M,superior
+9031,Cij Tehuacán,19/07/2021,21/06/2022,23,M,media superior
+9031,Cij Tehuacán,02/05/2023,04/05/2023,21,M,superior
+9031,Cij Tehuacán,02/01/2023,12/01/2023,24,M,superior
+9031,Cij Tehuacán,21/06/2021,17/08/2021,24,M,superior
+9031,Cij Tehuacán,06/11/2023,07/11/2023,23,M,media superior
+9031,Cij Tehuacán,02/05/2022,11/05/2022,19,M,media superior
+9031,Cij Tehuacán,03/03/2025,,23,M,superior
+9031,Cij Tehuacán,03/03/2025,,29,M,superior
+9031,Cij Tehuacán,03/03/2025,,29,M,superior
+9031,Cij Tehuacán,03/03/2025,,29,M,superior
+9031,Cij Tehuacán,03/03/2025,,24,M,superior
+9031,Cij Tehuacán,03/03/2025,24/03/2025,24,M,superior
+9031,Cij Tehuacán,03/03/2025,,28,H,superior
+9031,Cij Tehuacán,03/03/2025,,19,M,superior
+9031,Cij Tehuacán,03/03/2025,10/03/2025,29,M,superior
+9382,Cij Texcoco,06/02/2024,06/02/2025,29,M,superior
+9382,Cij Texcoco,06/11/2023,06/11/2024,25,M,superior
+9382,Cij Texcoco,06/11/2023,06/11/2024,24,H,superior
+9382,Cij Texcoco,06/11/2023,06/11/2024,25,M,superior
+9382,Cij Texcoco,06/11/2023,06/11/2024,26,M,superior
+9382,Cij Texcoco,21/06/2021,21/12/2021,26,H,superior
+9382,Cij Texcoco,18/04/2022,18/11/2022,27,M,superior
+9382,Cij Texcoco,02/05/2022,02/04/2023,27,M,superior
+9382,Cij Texcoco,06/06/2022,30/01/2023,23,H,superior
+9382,Cij Texcoco,02/01/2023,03/01/2023,28,H,superior
+9382,Cij Texcoco,08/02/2022,13/04/2022,22,H,superior
+9382,Cij Texcoco,02/01/2023,13/06/2023,26,M,superior
+9382,Cij Texcoco,05/12/2022,13/06/2023,23,M,superior
+9382,Cij Texcoco,21/06/2021,13/09/2021,26,M,superior
+9382,Cij Texcoco,21/06/2021,19/01/2022,22,M,superior
+9382,Cij Texcoco,06/11/2023,29/02/2024,23,M,superior
+9382,Cij Texcoco,06/11/2023,27/05/2024,21,M,superior
+9382,Cij Texcoco,06/11/2023,21/02/2024,29,M,media superior
+9382,Cij Texcoco,06/11/2023,21/02/2024,24,M,superior
+9382,Cij Texcoco,06/11/2023,31/01/2024,21,M,superior
+9382,Cij Texcoco,02/01/2024,21/02/2024,25,M,superior
+9382,Cij Texcoco,08/02/2022,08/02/2022,24,M,media superior
+9382,Cij Texcoco,18/04/2022,26/05/2022,22,M,superior
+9382,Cij Texcoco,18/04/2022,24/06/2022,19,M,media superior
+9382,Cij Texcoco,06/11/2023,13/11/2023,23,M,superior
+9382,Cij Texcoco,07/11/2022,08/11/2022,24,H,superior
+9382,Cij Texcoco,06/06/2022,26/07/2022,20,M,superior
+9382,Cij Texcoco,16/08/2021,28/04/2022,25,M,superior
+9382,Cij Texcoco,04/10/2021,16/05/2022,27,H,media superior
+9382,Cij Texcoco,18/04/2022,27/01/2023,24,M,media superior
+9382,Cij Texcoco,18/04/2022,06/12/2022,28,H,superior
+9382,Cij Texcoco,02/05/2022,17/11/2022,23,M,superior
+9382,Cij Texcoco,02/01/2023,16/12/2022,23,H,superior
+9382,Cij Texcoco,03/01/2022,06/06/2022,26,M,superior
+9382,Cij Texcoco,18/04/2022,07/02/2023,25,M,superior
+9671,Cij Tijuana Guaycura,02/01/2024,02/01/2025,26,M,superior
+9671,Cij Tijuana Guaycura,02/08/2021,02/08/2022,23,H,superior
+9671,Cij Tijuana Guaycura,16/08/2021,16/08/2022,28,M,superior
+9671,Cij Tijuana Guaycura,02/05/2022,25/10/2022,20,H,media superior
+9671,Cij Tijuana Guaycura,04/07/2022,11/07/2022,23,H,superior
+9671,Cij Tijuana Guaycura,02/01/2023,10/01/2023,25,M,superior
+9671,Cij Tijuana Guaycura,16/08/2021,12/04/2022,22,M,media superior
+9671,Cij Tijuana Guaycura,06/09/2021,07/09/2021,27,M,superior
+9671,Cij Tijuana Guaycura,02/08/2021,03/08/2021,23,H,superior
+9671,Cij Tijuana Guaycura,03/10/2022,17/11/2022,24,M,superior
+9671,Cij Tijuana Guaycura,08/02/2022,23/11/2022,23,H,superior
+9671,Cij Tijuana Guaycura,03/03/2025,,29,M,superior
+9660,Cij Tijuana Soler,02/01/2024,02/11/2024,27,M,superior
+9660,Cij Tijuana Soler,21/06/2021,21/06/2022,24,M,superior
+9660,Cij Tijuana Soler,02/01/2023,20/07/2023,23,M,superior
+9660,Cij Tijuana Soler,02/01/2024,24/01/2024,24,H,media superior
+9660,Cij Tijuana Soler,08/02/2022,10/02/2022,22,M,superior
+9660,Cij Tijuana Soler,08/02/2022,19/05/2022,20,M,media superior
+9660,Cij Tijuana Soler,07/11/2022,23/06/2023,19,M,media superior
+9660,Cij Tijuana Soler,01/11/2021,11/11/2021,21,M,superior
+9660,Cij Tijuana Soler,02/08/2021,02/08/2021,19,M,media superior
+9660,Cij Tijuana Soler,19/07/2021,20/07/2021,23,M,superior
+9660,Cij Tijuana Soler,06/11/2023,08/11/2023,25,H,media superior
+9660,Cij Tijuana Soler,19/07/2021,20/07/2021,26,M,superior
+9660,Cij Tijuana Soler,03/03/2025,04/03/2025,27,M,superior
+9330,Cij Tlalnepantla,06/11/2023,06/11/2024,22,H,media superior
+9330,Cij Tlalnepantla,02/01/2024,02/01/2025,26,M,superior
+9330,Cij Tlalnepantla,06/11/2023,06/11/2024,25,M,superior
+9330,Cij Tlalnepantla,06/11/2023,06/11/2024,28,M,superior
+9330,Cij Tlalnepantla,21/06/2021,21/06/2022,23,M,media superior
+9330,Cij Tlalnepantla,16/08/2021,16/08/2022,24,M,superior
+9330,Cij Tlalnepantla,02/08/2021,02/08/2022,24,H,superior
+9330,Cij Tlalnepantla,06/06/2022,06/06/2023,24,M,superior
+9330,Cij Tlalnepantla,19/07/2021,19/07/2022,28,H,superior
+9330,Cij Tlalnepantla,21/06/2021,21/06/2022,30,M,superior
+9330,Cij Tlalnepantla,19/07/2021,19/07/2022,23,M,superior
+9330,Cij Tlalnepantla,18/04/2022,18/04/2023,23,M,superior
+9330,Cij Tlalnepantla,18/04/2022,23/08/2022,22,M,superior
+9330,Cij Tlalnepantla,17/01/2022,09/02/2022,20,H,superior
+9330,Cij Tlalnepantla,02/01/2024,30/05/2024,22,M,superior
+9330,Cij Tlalnepantla,06/11/2023,10/07/2024,27,M,superior
+9330,Cij Tlalnepantla,06/11/2023,02/05/2024,24,H,superior
+9330,Cij Tlalnepantla,06/11/2023,10/07/2024,23,M,superior
+9330,Cij Tlalnepantla,06/11/2023,10/07/2024,25,H,superior
+9330,Cij Tlalnepantla,06/11/2023,13/12/2023,25,M,superior
+9330,Cij Tlalnepantla,01/11/2021,18/07/2022,29,M,superior
+9330,Cij Tlalnepantla,20/09/2021,17/02/2022,22,M,superior
+9330,Cij Tlalnepantla,21/06/2021,22/06/2021,27,H,superior
+9330,Cij Tlalnepantla,21/06/2021,15/10/2021,26,M,superior
+9330,Cij Tlalnepantla,21/06/2021,03/01/2022,29,M,media superior
+9330,Cij Tlalnepantla,02/05/2022,20/05/2022,24,H,superior
+9330,Cij Tlalnepantla,03/03/2025,,24,M,superior
+9330,Cij Tlalnepantla,03/03/2025,,22,M,superior
+9330,Cij Tlalnepantla,03/03/2025,,22,M,superior
+9330,Cij Tlalnepantla,03/03/2025,,24,H,superior
+9330,Cij Tlalnepantla,03/03/2025,,21,M,superior
+9480,Cij Tlalpan,02/01/2024,02/01/2025,25,H,superior
+9480,Cij Tlalpan,02/01/2024,02/12/2024,24,M,superior
+9480,Cij Tlalpan,06/11/2023,06/11/2024,24,M,superior
+9480,Cij Tlalpan,06/11/2023,06/11/2024,26,H,superior
+9480,Cij Tlalpan,06/02/2024,06/06/2024,22,H,superior
+9480,Cij Tlalpan,06/02/2024,06/08/2024,25,M,superior
+9480,Cij Tlalpan,02/05/2023,02/05/2024,26,M,superior
+9480,Cij Tlalpan,02/05/2022,02/12/2022,26,M,superior
+9480,Cij Tlalpan,02/01/2023,02/01/2024,23,M,superior
+9480,Cij Tlalpan,21/06/2021,21/06/2022,27,M,superior
+9480,Cij Tlalpan,06/06/2022,06/06/2023,27,M,superior
+9480,Cij Tlalpan,02/01/2023,02/01/2024,28,H,superior
+9480,Cij Tlalpan,02/01/2023,02/04/2023,25,M,superior
+9480,Cij Tlalpan,02/01/2023,03/11/2023,25,M,media superior
+9480,Cij Tlalpan,06/06/2022,06/12/2022,29,H,media superior
+9480,Cij Tlalpan,06/12/2021,06/10/2022,26,M,superior
+9480,Cij Tlalpan,18/04/2022,18/04/2023,25,M,superior
+9480,Cij Tlalpan,18/04/2022,18/11/2022,24,M,superior
+9480,Cij Tlalpan,18/04/2022,20/08/2022,25,M,media superior
+9480,Cij Tlalpan,02/05/2023,03/05/2023,22,M,superior
+9480,Cij Tlalpan,06/11/2023,29/08/2024,20,M,media superior
+9480,Cij Tlalpan,06/11/2023,29/08/2024,26,M,superior
+9480,Cij Tlalpan,02/01/2024,08/05/2024,24,H,superior
+9480,Cij Tlalpan,06/11/2023,07/11/2023,27,H,superior
+9480,Cij Tlalpan,21/06/2021,15/03/2022,28,M,superior
+9480,Cij Tlalpan,02/05/2022,30/03/2023,24,M,media superior
+9480,Cij Tlalpan,02/05/2023,03/05/2023,29,H,superior
+9480,Cij Tlalpan,19/07/2021,13/04/2022,23,M,superior
+9480,Cij Tlalpan,18/04/2022,26/05/2022,27,M,superior
+9480,Cij Tlalpan,02/01/2023,02/02/2023,24,M,media superior
+9480,Cij Tlalpan,02/05/2022,22/09/2022,26,M,superior
+9480,Cij Tlalpan,18/04/2022,30/05/2022,24,M,media superior
+9480,Cij Tlalpan,06/11/2023,08/11/2023,28,H,superior
+9480,Cij Tlalpan,03/03/2025,,28,H,superior
+9480,Cij Tlalpan,03/03/2025,,23,H,superior
+9850,Cij Tlaquepaque,02/01/2024,02/01/2025,24,H,superior
+9850,Cij Tlaquepaque,06/11/2023,06/11/2024,26,H,superior
+9850,Cij Tlaquepaque,06/11/2023,06/11/2024,27,M,superior
+9850,Cij Tlaquepaque,02/05/2023,02/05/2024,28,H,media superior
+9850,Cij Tlaquepaque,02/05/2023,02/05/2024,23,M,superior
+9850,Cij Tlaquepaque,02/05/2023,02/05/2024,28,M,superior
+9850,Cij Tlaquepaque,05/12/2022,05/12/2023,25,M,superior
+9850,Cij Tlaquepaque,21/06/2021,21/06/2022,20,M,superior
+9850,Cij Tlaquepaque,02/05/2023,02/12/2023,29,M,media superior
+9850,Cij Tlaquepaque,16/05/2022,16/05/2023,28,H,superior
+9850,Cij Tlaquepaque,16/05/2022,16/05/2023,26,M,superior
+9850,Cij Tlaquepaque,05/07/2021,05/07/2022,29,H,superior
+9850,Cij Tlaquepaque,06/12/2021,06/12/2022,26,M,superior
+9850,Cij Tlaquepaque,16/05/2022,16/05/2023,25,M,superior
+9850,Cij Tlaquepaque,06/06/2022,06/06/2023,24,M,superior
+9850,Cij Tlaquepaque,02/05/2023,17/05/2023,23,M,superior
+9850,Cij Tlaquepaque,17/01/2022,14/03/2022,26,M,media superior
+9850,Cij Tlaquepaque,16/08/2021,05/11/2021,26,H,superior
+9850,Cij Tlaquepaque,02/01/2024,07/08/2024,18,M,media superior
+9850,Cij Tlaquepaque,02/01/2024,29/01/2024,28,M,media superior
+9850,Cij Tlaquepaque,06/09/2021,17/02/2022,25,H,superior
+9850,Cij Tlaquepaque,06/09/2021,28/04/2022,24,M,superior
+9850,Cij Tlaquepaque,18/04/2022,28/03/2023,24,M,superior
+9850,Cij Tlaquepaque,16/08/2021,16/08/2022,22,M,media superior
+9850,Cij Tlaquepaque,21/06/2021,28/04/2022,23,M,media superior
+9850,Cij Tlaquepaque,16/05/2022,26/09/2022,18,M,media superior
+9850,Cij Tlaquepaque,18/10/2021,24/03/2022,21,M,superior
+9850,Cij Tlaquepaque,07/11/2022,23/11/2022,23,M,superior
+9850,Cij Tlaquepaque,21/06/2021,23/06/2021,24,M,media superior
+9850,Cij Tlaquepaque,02/08/2021,03/08/2021,25,M,superior
+9850,Cij Tlaquepaque,18/04/2022,11/05/2022,19,M,superior
+9850,Cij Tlaquepaque,21/06/2021,23/06/2021,24,M,superior
+9850,Cij Tlaquepaque,06/09/2021,07/09/2021,23,M,superior
+9850,Cij Tlaquepaque,03/03/2025,,22,M,superior
+9032,Cij Tlaxcala,06/11/2023,06/11/2024,26,M,superior
+9032,Cij Tlaxcala,06/11/2023,06/11/2024,22,M,superior
+9032,Cij Tlaxcala,02/01/2024,02/01/2025,22,M,superior
+9032,Cij Tlaxcala,02/01/2024,02/12/2024,23,M,superior
+9032,Cij Tlaxcala,02/05/2023,02/05/2024,25,M,superior
+9032,Cij Tlaxcala,02/05/2023,02/05/2024,23,H,media superior
+9032,Cij Tlaxcala,02/05/2023,02/03/2024,23,M,superior
+9032,Cij Tlaxcala,02/05/2023,02/05/2024,28,M,superior
+9032,Cij Tlaxcala,07/11/2022,07/11/2023,24,H,superior
+9032,Cij Tlaxcala,19/07/2021,19/12/2021,24,M,superior
+9032,Cij Tlaxcala,17/01/2022,17/12/2022,25,H,superior
+9032,Cij Tlaxcala,19/07/2021,19/07/2022,25,M,superior
+9032,Cij Tlaxcala,21/06/2021,21/06/2022,23,M,superior
+9032,Cij Tlaxcala,19/07/2021,19/04/2022,23,M,superior
+9032,Cij Tlaxcala,06/12/2021,06/12/2022,25,M,superior
+9032,Cij Tlaxcala,21/06/2021,21/06/2022,20,M,media superior
+9032,Cij Tlaxcala,02/05/2022,02/05/2023,24,M,media superior
+9032,Cij Tlaxcala,21/06/2021,21/06/2022,30,M,superior
+9032,Cij Tlaxcala,18/04/2022,17/11/2022,23,M,media superior
+9032,Cij Tlaxcala,21/06/2021,16/11/2021,21,M,media superior
+9032,Cij Tlaxcala,06/11/2023,29/04/2024,25,M,superior
+9032,Cij Tlaxcala,02/01/2024,01/04/2024,19,H,media superior
+9032,Cij Tlaxcala,02/01/2023,11/09/2023,28,M,media superior
+9032,Cij Tlaxcala,02/01/2023,09/01/2023,25,H,superior
+9032,Cij Tlaxcala,02/05/2023,26/07/2023,24,M,superior
+9032,Cij Tlaxcala,06/11/2023,07/11/2023,22,M,superior
+9032,Cij Tlaxcala,18/04/2022,29/08/2022,19,H,media superior
+9032,Cij Tlaxcala,02/01/2023,19/04/2023,23,M,superior
+9032,Cij Tlaxcala,19/07/2021,19/07/2022,25,M,media superior
+9032,Cij Tlaxcala,02/01/2023,04/01/2023,23,M,superior
+9032,Cij Tlaxcala,02/01/2023,14/03/2023,29,H,superior
+9032,Cij Tlaxcala,06/11/2023,08/11/2023,23,M,superior
+9052,Cij Toluca,06/02/2024,06/12/2024,23,M,media superior
+9052,Cij Toluca,06/11/2023,06/11/2024,27,M,superior
+9052,Cij Toluca,02/01/2024,02/01/2025,24,M,superior
+9052,Cij Toluca,06/11/2023,06/11/2024,24,H,superior
+9052,Cij Toluca,02/01/2024,02/01/2025,18,M,media superior
+9052,Cij Toluca,02/01/2024,02/01/2025,26,H,superior
+9052,Cij Toluca,06/02/2024,06/04/2024,29,M,superior
+9052,Cij Toluca,05/12/2022,05/12/2023,23,M,superior
+9052,Cij Toluca,05/12/2022,05/12/2023,22,M,superior
+9052,Cij Toluca,21/06/2021,21/06/2022,28,M,superior
+9052,Cij Toluca,06/11/2023,06/02/2024,21,M,superior
+9052,Cij Toluca,21/06/2021,21/06/2022,20,M,superior
+9052,Cij Toluca,07/11/2022,07/11/2023,25,M,superior
+9052,Cij Toluca,21/06/2021,21/06/2022,26,M,superior
+9052,Cij Toluca,17/01/2022,17/01/2023,24,M,superior
+9052,Cij Toluca,07/11/2022,07/11/2023,23,H,superior
+9052,Cij Toluca,07/11/2022,07/11/2023,20,M,media superior
+9052,Cij Toluca,07/11/2022,07/11/2023,25,M,superior
+9052,Cij Toluca,07/11/2022,07/11/2023,23,M,superior
+9052,Cij Toluca,01/11/2021,01/08/2022,26,H,superior
+9052,Cij Toluca,08/02/2022,08/02/2023,26,H,media superior
+9052,Cij Toluca,07/11/2022,07/08/2023,24,M,media superior
+9052,Cij Toluca,20/09/2021,20/09/2022,25,M,superior
+9052,Cij Toluca,18/04/2022,18/03/2023,23,H,superior
+9052,Cij Toluca,21/06/2021,02/07/2021,24,M,superior
+9052,Cij Toluca,19/07/2021,19/10/2021,26,M,superior
+9052,Cij Toluca,18/04/2022,13/06/2022,25,H,superior
+9052,Cij Toluca,02/01/2024,02/12/2024,22,M,superior
+9052,Cij Toluca,02/01/2024,17/07/2024,20,M,superior
+9052,Cij Toluca,06/02/2024,02/12/2024,23,H,superior
+9052,Cij Toluca,06/02/2024,05/09/2024,20,M,media superior
+9052,Cij Toluca,20/09/2021,24/08/2022,22,M,superior
+9052,Cij Toluca,18/04/2022,24/08/2022,25,H,superior
+9052,Cij Toluca,06/11/2023,12/11/2023,21,M,superior
+9052,Cij Toluca,16/08/2021,18/08/2021,28,M,superior
+9052,Cij Toluca,07/11/2022,27/10/2023,23,M,superior
+9052,Cij Toluca,08/02/2022,09/09/2022,23,H,superior
+9052,Cij Toluca,21/06/2021,21/01/2022,26,M,superior
+9052,Cij Toluca,07/11/2022,08/11/2022,23,M,superior
+9062,Cij Toluca,03/03/2025,,26,M,superior
+9062,Cij Toluca,03/03/2025,,25,H,superior
+9734,Cij Torreón Oriente,06/11/2023,06/11/2024,26,M,superior
+9734,Cij Torreón Oriente,06/11/2023,06/11/2024,21,M,superior
+9734,Cij Torreón Oriente,06/11/2023,06/11/2024,21,M,superior
+9734,Cij Torreón Oriente,06/11/2023,06/11/2024,23,M,superior
+9734,Cij Torreón Oriente,06/11/2023,06/11/2024,22,H,superior
+9734,Cij Torreón Oriente,02/01/2023,02/01/2024,20,M,superior
+9734,Cij Torreón Oriente,16/05/2022,16/05/2023,24,H,superior
+9734,Cij Torreón Oriente,21/06/2021,21/06/2022,23,M,superior
+9734,Cij Torreón Oriente,05/07/2021,05/07/2022,24,H,superior
+9734,Cij Torreón Oriente,17/01/2022,17/01/2023,28,H,superior
+9734,Cij Torreón Oriente,02/01/2023,02/01/2024,21,H,superior
+9734,Cij Torreón Oriente,06/09/2021,06/09/2022,23,M,superior
+9734,Cij Torreón Oriente,02/01/2023,02/01/2024,27,M,superior
+9734,Cij Torreón Oriente,02/08/2021,15/11/2021,26,M,superior
+9734,Cij Torreón Oriente,06/06/2022,02/02/2023,24,H,superior
+9734,Cij Torreón Oriente,21/06/2021,14/02/2022,24,M,superior
+9734,Cij Torreón Oriente,21/06/2021,17/11/2021,23,H,superior
+9734,Cij Torreón Oriente,02/01/2023,03/01/2023,28,M,superior
+9734,Cij Torreón Oriente,18/04/2022,01/05/2022,26,M,superior
+9734,Cij Torreón Oriente,03/01/2022,16/05/2022,27,M,media superior
+9734,Cij Torreón Oriente,06/11/2023,09/08/2024,21,M,superior
+9734,Cij Torreón Oriente,06/12/2021,24/07/2022,21,M,superior
+9734,Cij Torreón Oriente,02/01/2023,30/03/2023,23,H,superior
+9734,Cij Torreón Oriente,21/06/2021,24/08/2021,22,M,superior
+9734,Cij Torreón Oriente,05/07/2021,12/07/2021,20,H,superior
+9734,Cij Torreón Oriente,21/06/2021,24/08/2021,27,M,superior
+9734,Cij Torreón Oriente,16/05/2022,16/05/2022,24,H,superior
+9734,Cij Torreón Oriente,06/09/2021,19/07/2022,21,M,superior
+9734,Cij Torreón Oriente,21/06/2021,21/10/2021,21,M,superior
+9734,Cij Torreón Oriente,06/11/2023,04/12/2023,21,M,superior
+9734,Cij Torreón Oriente,06/06/2022,23/11/2022,22,M,superior
+9734,Cij Torreón Oriente,03/03/2025,,22,M,superior
+9011,Cij Tula,17/01/2022,17/10/2022,21,M,superior
+9011,Cij Tula,21/06/2021,21/06/2022,24,M,superior
+9011,Cij Tula,21/06/2021,21/06/2022,25,M,superior
+9011,Cij Tula,04/07/2022,04/07/2023,24,M,superior
+9011,Cij Tula,04/10/2021,04/10/2022,24,M,superior
+9011,Cij Tula,08/02/2022,08/02/2023,24,M,superior
+9011,Cij Tula,05/07/2021,05/07/2022,24,M,superior
+9011,Cij Tula,18/04/2022,18/11/2022,29,M,superior
+9011,Cij Tula,19/07/2021,04/03/2022,23,M,media superior
+9011,Cij Tula,18/04/2022,21/04/2022,18,H,superior
+9011,Cij Tula,21/06/2021,15/02/2022,25,H,superior
+9011,Cij Tula,04/07/2022,05/07/2022,21,M,superior
+9011,Cij Tula,17/01/2022,27/01/2022,26,M,superior
+9011,Cij Tula,21/06/2021,23/06/2021,23,H,superior
+9011,Cij Tula,19/07/2021,10/06/2022,28,M,superior
+9012,Cij Tulancingo,06/11/2023,06/11/2024,24,M,superior
+9012,Cij Tulancingo,02/01/2024,02/01/2025,23,M,superior
+9012,Cij Tulancingo,06/11/2023,06/11/2024,24,M,superior
+9012,Cij Tulancingo,02/05/2023,02/05/2024,25,M,superior
+9012,Cij Tulancingo,02/05/2023,04/09/2023,19,H,superior
+9012,Cij Tulancingo,17/01/2022,17/01/2023,26,H,superior
+9012,Cij Tulancingo,17/01/2022,17/01/2023,24,H,superior
+9012,Cij Tulancingo,02/01/2023,02/01/2024,24,H,superior
+9012,Cij Tulancingo,16/08/2021,16/08/2022,19,M,media superior
+9012,Cij Tulancingo,17/01/2022,17/01/2023,25,M,superior
+9012,Cij Tulancingo,02/01/2023,02/01/2024,27,H,superior
+9012,Cij Tulancingo,21/06/2021,21/06/2022,23,M,superior
+9012,Cij Tulancingo,21/06/2021,21/06/2022,29,H,superior
+9012,Cij Tulancingo,21/06/2021,13/07/2021,26,H,superior
+9012,Cij Tulancingo,06/11/2023,12/08/2024,19,H,superior
+9012,Cij Tulancingo,04/07/2022,13/09/2022,21,M,superior
+9012,Cij Tulancingo,21/06/2021,16/02/2022,28,M,superior
+9012,Cij Tulancingo,02/01/2023,02/02/2023,24,H,superior
+9012,Cij Tulancingo,21/06/2021,22/06/2021,28,H,superior
+9012,Cij Tulancingo,02/05/2023,02/05/2023,24,M,superior
+9012,Cij Tulancingo,19/07/2021,04/01/2022,29,M,superior
+9012,Cij Tulancingo,05/07/2021,16/08/2021,29,H,superior
+9012,Cij Tulancingo,06/09/2021,01/06/2022,24,M,superior
+9012,Cij Tulancingo,02/05/2023,30/08/2023,25,H,media superior
+9012,Cij Tulancingo,02/05/2023,02/08/2023,24,M,superior
+9160,Cij Tuxtla Gutierrez,02/05/2023,02/05/2024,26,H,superior
+9160,Cij Tuxtla Gutierrez,21/06/2021,21/06/2022,24,M,superior
+9160,Cij Tuxtla Gutierrez,06/12/2021,06/09/2022,24,H,superior
+9160,Cij Tuxtla Gutierrez,02/01/2023,04/09/2023,25,M,media superior
+9160,Cij Tuxtla Gutierrez,02/01/2023,02/01/2024,21,M,superior
+9160,Cij Tuxtla Gutierrez,02/01/2023,02/01/2024,30,H,superior
+9160,Cij Tuxtla Gutierrez,21/06/2021,21/06/2022,25,M,superior
+9160,Cij Tuxtla Gutierrez,02/01/2023,02/01/2024,18,H,superior
+9160,Cij Tuxtla Gutierrez,16/08/2021,16/07/2022,22,H,superior
+9160,Cij Tuxtla Gutierrez,02/01/2023,02/07/2023,20,H,superior
+9160,Cij Tuxtla Gutierrez,21/06/2021,21/06/2022,23,H,superior
+9160,Cij Tuxtla Gutierrez,01/11/2021,01/11/2022,26,H,superior
+9160,Cij Tuxtla Gutierrez,02/01/2023,02/11/2023,23,M,media superior
+9160,Cij Tuxtla Gutierrez,21/06/2021,21/06/2022,23,M,superior
+9160,Cij Tuxtla Gutierrez,02/01/2023,02/01/2024,23,M,superior
+9160,Cij Tuxtla Gutierrez,02/01/2023,02/01/2024,28,M,superior
+9160,Cij Tuxtla Gutierrez,21/06/2021,29/09/2021,26,H,superior
+9160,Cij Tuxtla Gutierrez,02/01/2023,03/01/2023,20,H,media superior
+9160,Cij Tuxtla Gutierrez,06/11/2023,19/07/2024,26,H,superior
+9160,Cij Tuxtla Gutierrez,02/01/2023,06/01/2023,23,H,media superior
+9160,Cij Tuxtla Gutierrez,19/07/2021,26/04/2022,21,M,superior
+9160,Cij Tuxtla Gutierrez,21/06/2021,26/04/2022,29,M,media superior
+9160,Cij Tuxtla Gutierrez,01/11/2021,16/05/2022,24,M,superior
+9160,Cij Tuxtla Gutierrez,02/05/2022,08/11/2022,23,H,superior
+9160,Cij Tuxtla Gutierrez,21/06/2021,23/06/2021,24,M,media superior
+9160,Cij Tuxtla Gutierrez,21/06/2021,23/06/2021,23,M,superior
+9160,Cij Tuxtla Gutierrez,06/11/2023,09/11/2023,29,M,superior
+9160,Cij Tuxtla Gutierrez,21/06/2021,23/06/2021,21,M,superior
+9360,Cij Venustiano Carranza,06/11/2023,06/11/2024,25,H,superior
+9360,Cij Venustiano Carranza,06/11/2023,06/11/2024,22,H,superior
+9360,Cij Venustiano Carranza,06/11/2023,06/08/2024,19,M,superior
+9360,Cij Venustiano Carranza,02/05/2023,02/04/2023,23,M,superior
+9360,Cij Venustiano Carranza,02/05/2023,02/05/2024,23,M,superior
+9360,Cij Venustiano Carranza,02/05/2023,02/05/2024,25,H,superior
+9360,Cij Venustiano Carranza,05/12/2022,05/10/2023,25,M,superior
+9360,Cij Venustiano Carranza,08/02/2022,08/02/2023,23,M,superior
+9360,Cij Venustiano Carranza,02/01/2023,02/01/2024,27,M,superior
+9360,Cij Venustiano Carranza,02/01/2023,03/10/2023,23,M,superior
+9360,Cij Venustiano Carranza,21/06/2021,21/06/2022,28,M,superior
+9360,Cij Venustiano Carranza,02/05/2022,02/04/2023,26,M,superior
+9360,Cij Venustiano Carranza,21/06/2021,21/06/2022,24,M,superior
+9360,Cij Venustiano Carranza,08/02/2022,08/02/2023,28,M,media superior
+9360,Cij Venustiano Carranza,02/01/2023,02/11/2023,20,M,media superior
+9360,Cij Venustiano Carranza,03/01/2022,03/01/2023,22,H,superior
+9360,Cij Venustiano Carranza,06/06/2022,17/07/2022,21,M,superior
+9360,Cij Venustiano Carranza,18/04/2022,29/01/2023,20,H,superior
+9360,Cij Venustiano Carranza,17/01/2022,16/05/2022,19,M,media superior
+9360,Cij Venustiano Carranza,18/04/2022,17/08/2022,27,H,superior
+9360,Cij Venustiano Carranza,02/01/2024,08/07/2024,21,M,superior
+9360,Cij Venustiano Carranza,06/11/2023,21/10/2024,26,M,superior
+9360,Cij Venustiano Carranza,06/11/2023,09/07/2024,28,M,superior
+9360,Cij Venustiano Carranza,06/02/2024,10/06/2024,29,M,media superior
+9360,Cij Venustiano Carranza,06/11/2023,08/08/2024,27,M,superior
+9360,Cij Venustiano Carranza,18/04/2022,18/07/2022,23,H,superior
+9360,Cij Venustiano Carranza,02/05/2023,29/06/2023,26,M,superior
+9360,Cij Venustiano Carranza,02/01/2023,09/08/2023,27,H,superior
+9360,Cij Venustiano Carranza,21/06/2021,13/04/2022,23,M,media superior
+9360,Cij Venustiano Carranza,02/01/2023,10/01/2023,19,H,superior
+9360,Cij Venustiano Carranza,02/08/2021,01/07/2022,27,M,superior
+9360,Cij Venustiano Carranza,02/05/2023,22/05/2023,19,H,superior
+9360,Cij Venustiano Carranza,21/06/2021,23/06/2021,27,H,superior
+9360,Cij Venustiano Carranza,21/06/2021,23/06/2021,23,M,superior
+9360,Cij Venustiano Carranza,03/03/2025,,24,H,superior
+9360,Cij Venustiano Carranza,03/03/2025,,26,M,superior
+9360,Cij Venustiano Carranza,03/03/2025,,26,M,superior
+9360,Cij Venustiano Carranza,03/03/2025,,23,M,superior
+9360,Cij Venustiano Carranza,03/03/2025,,24,M,superior
+9492,Cij Villa Victoria,06/11/2023,06/11/2024,19,M,superior
+9492,Cij Villa Victoria,18/10/2021,18/10/2022,24,H,superior
+9492,Cij Villa Victoria,17/01/2022,17/01/2023,22,M,superior
+9492,Cij Villa Victoria,02/08/2021,02/08/2022,19,M,superior
+9492,Cij Villa Victoria,17/01/2022,17/01/2023,22,H,superior
+9492,Cij Villa Victoria,17/01/2022,17/12/2022,25,M,superior
+9492,Cij Villa Victoria,06/11/2023,20/12/2023,23,M,superior
+9492,Cij Villa Victoria,06/11/2023,20/12/2023,25,M,superior
+9492,Cij Villa Victoria,06/11/2023,06/12/2023,23,M,superior
+9492,Cij Villa Victoria,16/08/2021,28/09/2021,24,H,superior
+9492,Cij Villa Victoria,06/11/2023,13/11/2023,23,H,media superior
+9492,Cij Villa Victoria,16/08/2021,14/09/2021,20,M,superior
+9492,Cij Villa Victoria,16/08/2021,28/09/2021,20,M,media superior
+9492,Cij Villa Victoria,17/01/2022,22/02/2022,23,H,media superior
+9492,Cij Villa Victoria,06/11/2023,29/01/2024,19,M,superior
+9492,Cij Villa Victoria,06/11/2023,26/01/2024,29,M,superior
+9492,Cij Villa Victoria,16/08/2021,18/08/2021,19,H,media superior
+9492,Cij Villa Victoria,06/11/2023,08/11/2023,23,M,media superior
+9492,Cij Villa Victoria,18/10/2021,19/10/2021,21,M,superior
+9492,Cij Villa Victoria,04/07/2022,07/07/2022,23,M,superior
+9492,Cij Villa Victoria,16/08/2021,18/08/2021,26,H,superior
+9180,Cij Villahermosa,06/11/2023,06/11/2024,20,H,media superior
+9180,Cij Villahermosa,06/11/2023,06/11/2024,25,M,superior
+9180,Cij Villahermosa,06/11/2023,06/11/2024,23,M,superior
+9180,Cij Villahermosa,06/11/2023,06/11/2024,29,H,superior
+9180,Cij Villahermosa,06/11/2023,06/11/2024,22,H,superior
+9180,Cij Villahermosa,02/05/2023,02/05/2024,21,M,superior
+9180,Cij Villahermosa,17/01/2022,17/01/2023,27,M,superior
+9180,Cij Villahermosa,21/06/2021,21/06/2022,26,M,superior
+9180,Cij Villahermosa,21/06/2021,21/06/2022,24,M,superior
+9180,Cij Villahermosa,03/01/2022,03/01/2023,26,H,superior
+9180,Cij Villahermosa,21/06/2021,21/11/2021,26,M,superior
+9180,Cij Villahermosa,02/05/2023,02/12/2023,23,M,superior
+9180,Cij Villahermosa,19/07/2021,19/07/2022,19,M,media superior
+9180,Cij Villahermosa,19/07/2021,19/07/2022,25,M,superior
+9180,Cij Villahermosa,21/06/2021,21/06/2022,20,H,media superior
+9180,Cij Villahermosa,18/04/2022,21/10/2022,26,M,superior
+9180,Cij Villahermosa,06/11/2023,14/08/2024,26,M,superior
+9180,Cij Villahermosa,06/11/2023,28/02/2024,19,M,superior
+9180,Cij Villahermosa,06/11/2023,21/08/2024,22,M,superior
+9180,Cij Villahermosa,18/10/2021,04/11/2021,22,M,superior
+9180,Cij Villahermosa,16/08/2021,16/12/2021,23,M,media superior
+9180,Cij Villahermosa,21/06/2021,28/07/2021,26,M,superior
+9180,Cij Villahermosa,19/07/2021,30/09/2021,27,M,superior
+9180,Cij Villahermosa,19/07/2021,19/07/2022,24,M,superior
+9180,Cij Villahermosa,20/09/2021,30/06/2022,24,M,superior
+9180,Cij Villahermosa,19/07/2021,20/07/2021,21,M,media superior
+9180,Cij Villahermosa,17/01/2022,17/01/2022,22,M,superior
+9180,Cij Villahermosa,06/02/2024,07/02/2024,25,M,media superior
+9110,Cij Xalapa,06/02/2024,06/02/2025,24,M,media superior
+9110,Cij Xalapa,06/02/2024,06/02/2025,25,M,superior
+9110,Cij Xalapa,06/11/2023,06/11/2024,27,H,superior
+9110,Cij Xalapa,02/01/2024,02/01/2025,25,H,superior
+9110,Cij Xalapa,06/11/2023,06/11/2024,25,H,media superior
+9110,Cij Xalapa,06/11/2023,06/11/2024,22,M,superior
+9110,Cij Xalapa,02/05/2023,02/04/2024,22,H,superior
+9110,Cij Xalapa,02/01/2023,02/01/2024,19,M,superior
+9110,Cij Xalapa,07/11/2022,07/11/2023,28,M,superior
+9110,Cij Xalapa,21/06/2021,21/06/2022,25,M,superior
+9110,Cij Xalapa,18/04/2022,18/04/2023,25,M,superior
+9110,Cij Xalapa,21/06/2021,21/06/2022,26,H,superior
+9110,Cij Xalapa,02/01/2023,02/09/2023,28,M,superior
+9110,Cij Xalapa,02/01/2023,02/06/2023,26,H,superior
+9110,Cij Xalapa,02/05/2023,02/12/2023,26,H,superior
+9110,Cij Xalapa,18/04/2022,18/10/2022,25,M,media superior
+9110,Cij Xalapa,02/01/2023,03/10/2023,27,H,superior
+9110,Cij Xalapa,16/08/2021,16/08/2022,27,M,superior
+9110,Cij Xalapa,21/06/2021,21/06/2022,28,M,superior
+9110,Cij Xalapa,21/06/2021,21/06/2022,26,M,superior
+9110,Cij Xalapa,21/06/2021,15/04/2022,24,M,superior
+9110,Cij Xalapa,06/11/2023,03/05/2024,23,H,superior
+9110,Cij Xalapa,06/11/2023,01/04/2024,24,M,superior
+9110,Cij Xalapa,06/11/2023,30/08/2024,26,H,media superior
+9110,Cij Xalapa,16/05/2022,18/10/2022,19,M,media superior
+9110,Cij Xalapa,18/04/2022,13/09/2022,25,M,superior
+9110,Cij Xalapa,16/05/2022,18/10/2022,22,M,superior
+9110,Cij Xalapa,02/01/2023,27/01/2023,24,M,superior
+9110,Cij Xalapa,02/01/2023,01/09/2023,23,M,superior
+9110,Cij Xalapa,02/01/2023,16/12/2022,27,M,superior
+9110,Cij Xalapa,21/06/2021,23/06/2021,27,M,superior
+9110,Cij Xalapa,21/06/2021,23/06/2021,25,M,superior
+9110,Cij Xalapa,21/06/2021,23/06/2021,27,H,superior
+9441,Cij Xochimilco,06/02/2024,06/02/2025,22,M,media superior
+9441,Cij Xochimilco,06/02/2024,06/02/2025,25,H,superior
+9441,Cij Xochimilco,02/01/2024,02/01/2025,25,H,superior
+9441,Cij Xochimilco,06/11/2023,06/09/2024,22,H,media superior
+9441,Cij Xochimilco,06/11/2023,06/04/2024,28,M,superior
+9441,Cij Xochimilco,02/05/2023,02/05/2024,19,H,superior
+9441,Cij Xochimilco,02/05/2023,02/05/2024,26,M,superior
+9441,Cij Xochimilco,06/11/2023,06/08/2024,24,M,superior
+9441,Cij Xochimilco,18/04/2022,18/04/2023,26,M,superior
+9441,Cij Xochimilco,02/01/2023,02/08/2023,20,M,superior
+9441,Cij Xochimilco,16/05/2022,16/05/2023,29,M,superior
+9441,Cij Xochimilco,16/05/2022,16/05/2023,26,H,superior
+9441,Cij Xochimilco,21/06/2021,21/06/2022,28,M,superior
+9441,Cij Xochimilco,02/05/2022,02/05/2023,26,M,superior
+9441,Cij Xochimilco,02/05/2022,02/02/2023,22,M,superior
+9441,Cij Xochimilco,02/05/2022,02/05/2023,25,M,superior
+9441,Cij Xochimilco,06/11/2023,07/11/2023,21,H,superior
+9441,Cij Xochimilco,04/07/2022,15/08/2022,19,H,media superior
+9441,Cij Xochimilco,18/04/2022,16/05/2022,24,M,superior
+9441,Cij Xochimilco,21/06/2021,15/01/2022,26,H,superior
+9441,Cij Xochimilco,18/04/2022,18/10/2022,22,M,superior
+9441,Cij Xochimilco,06/11/2023,19/03/2024,23,M,superior
+9441,Cij Xochimilco,06/11/2023,08/08/2024,18,M,superior
+9441,Cij Xochimilco,02/01/2023,12/09/2023,24,H,superior
+9441,Cij Xochimilco,06/11/2023,13/11/2023,26,M,media superior
+9441,Cij Xochimilco,06/11/2023,13/11/2023,29,M,superior
+9441,Cij Xochimilco,08/02/2022,15/08/2022,26,H,superior
+9441,Cij Xochimilco,02/01/2023,14/03/2023,23,H,media superior
+9441,Cij Xochimilco,02/01/2024,09/01/2024,24,H,superior
+9441,Cij Xochimilco,18/04/2022,26/04/2022,22,M,superior
+9441,Cij Xochimilco,02/05/2023,31/07/2023,23,M,superior
+9441,Cij Xochimilco,21/06/2021,23/06/2021,23,H,superior
+9441,Cij Xochimilco,03/03/2025,,29,M,media superior
+9441,Cij Xochimilco,03/03/2025,,21,M,superior
+9441,Cij Xochimilco,03/03/2025,,26,H,superior
+9441,Cij Xochimilco,03/03/2025,,27,H,superior
+9441,Cij Xochimilco,03/03/2025,,25,M,superior
+9441,Cij Xochimilco,03/03/2025,,24,M,superior
+9931,Cij Yucatán,02/01/2024,02/01/2025,24,M,media superior
+9931,Cij Yucatán,02/01/2024,02/01/2025,23,M,superior
+9931,Cij Yucatán,18/10/2021,18/08/2022,25,M,superior
+9931,Cij Yucatán,21/06/2021,21/06/2022,27,M,superior
+9931,Cij Yucatán,21/06/2021,21/06/2022,24,M,superior
+9931,Cij Yucatán,08/02/2022,08/11/2022,22,H,superior
+9931,Cij Yucatán,18/04/2022,18/04/2023,28,M,superior
+9931,Cij Yucatán,02/08/2021,02/08/2022,24,M,superior
+9931,Cij Yucatán,08/02/2022,08/02/2023,26,H,media superior
+9931,Cij Yucatán,21/06/2021,21/05/2022,22,M,superior
+9931,Cij Yucatán,18/04/2022,18/03/2023,26,M,superior
+9931,Cij Yucatán,19/07/2021,24/01/2022,24,M,superior
+9931,Cij Yucatán,02/01/2024,17/01/2024,18,M,media superior
+9931,Cij Yucatán,18/04/2022,09/02/2023,22,M,superior
+9931,Cij Yucatán,02/05/2023,04/10/2023,26,H,superior
+9931,Cij Yucatán,21/06/2021,23/06/2021,29,M,superior
+9890,Cij Zacatecas,06/11/2023,06/11/2024,23,H,superior
+9890,Cij Zacatecas,02/01/2024,02/01/2025,29,M,superior
+9890,Cij Zacatecas,02/01/2024,02/01/2025,29,H,superior
+9890,Cij Zacatecas,06/11/2023,06/11/2024,25,M,superior
+9890,Cij Zacatecas,02/05/2023,02/05/2024,25,M,superior
+9890,Cij Zacatecas,02/05/2023,02/05/2024,25,M,superior
+9890,Cij Zacatecas,02/05/2023,02/05/2024,24,H,superior
+9890,Cij Zacatecas,02/05/2023,02/05/2024,24,M,superior
+9890,Cij Zacatecas,07/11/2022,07/11/2023,28,M,superior
+9890,Cij Zacatecas,01/11/2021,01/11/2022,24,H,superior
+9890,Cij Zacatecas,19/07/2021,19/07/2022,23,M,superior
+9890,Cij Zacatecas,16/08/2021,16/08/2022,25,M,superior
+9890,Cij Zacatecas,19/07/2021,19/07/2022,22,M,superior
+9890,Cij Zacatecas,04/07/2022,04/07/2023,26,H,superior
+9890,Cij Zacatecas,16/05/2022,16/10/2022,24,M,superior
+9890,Cij Zacatecas,06/09/2021,06/05/2022,26,M,superior
+9890,Cij Zacatecas,16/05/2022,16/02/2023,24,M,superior
+9890,Cij Zacatecas,21/06/2021,15/10/2021,24,H,superior
+9890,Cij Zacatecas,17/01/2022,18/08/2022,20,H,media superior
+9890,Cij Zacatecas,02/01/2023,07/03/2023,23,M,superior
+9890,Cij Zacatecas,02/08/2021,16/11/2021,30,M,superior
+9890,Cij Zacatecas,08/02/2022,13/04/2022,29,H,media superior
+9890,Cij Zacatecas,06/11/2023,09/10/2024,25,H,media superior
+9890,Cij Zacatecas,02/01/2023,03/08/2023,25,M,superior
+9890,Cij Zacatecas,21/06/2021,21/09/2021,28,H,superior
+9890,Cij Zacatecas,19/07/2021,24/08/2021,23,H,media superior
+9890,Cij Zacatecas,18/04/2022,21/04/2022,20,M,superior
+9890,Cij Zacatecas,16/05/2022,20/10/2022,22,M,superior
+9890,Cij Zacatecas,04/10/2021,16/06/2022,26,M,superior
+9890,Cij Zacatecas,19/07/2021,05/01/2022,21,M,superior
+9890,Cij Zacatecas,07/11/2022,01/12/2022,26,M,superior
+9890,Cij Zacatecas,19/07/2021,20/07/2021,25,H,superior
+9890,Cij Zacatecas,07/11/2022,31/08/2022,23,M,superior
+9890,Cij Zacatecas,17/01/2022,08/11/2022,24,M,superior
+9892,Cij Zamora,06/11/2023,06/11/2024,25,M,superior
+9892,Cij Zamora,06/11/2023,06/11/2024,19,M,superior
+9892,Cij Zamora,06/11/2023,06/11/2024,27,M,superior
+9892,Cij Zamora,06/11/2023,06/11/2024,22,M,superior
+9892,Cij Zamora,06/11/2023,06/11/2024,19,M,superior
+9892,Cij Zamora,05/12/2022,05/12/2023,23,H,superior
+9892,Cij Zamora,05/12/2022,05/12/2023,21,M,superior
+9892,Cij Zamora,16/05/2022,16/05/2023,27,H,superior
+9892,Cij Zamora,16/08/2021,16/08/2022,20,M,superior
+9892,Cij Zamora,04/10/2021,04/10/2022,20,H,superior
+9892,Cij Zamora,02/05/2022,02/05/2023,20,M,media superior
+9892,Cij Zamora,06/06/2022,06/06/2023,24,M,superior
+9892,Cij Zamora,18/04/2022,18/04/2023,28,M,superior
+9892,Cij Zamora,06/06/2022,06/06/2023,23,H,superior
+9892,Cij Zamora,16/08/2021,16/08/2022,23,M,superior
+9892,Cij Zamora,18/04/2022,18/04/2023,30,M,media superior
+9892,Cij Zamora,06/11/2023,07/11/2023,18,H,superior
+9892,Cij Zamora,06/09/2021,17/12/2021,26,M,superior
+9892,Cij Zamora,02/01/2024,11/11/2024,22,M,superior
+9892,Cij Zamora,05/12/2022,21/08/2023,25,M,superior
+9892,Cij Zamora,04/10/2021,16/11/2021,24,M,superior
+9892,Cij Zamora,06/09/2021,01/06/2022,23,M,superior
+9892,Cij Zamora,08/02/2022,01/04/2022,24,M,superior
+9892,Cij Zamora,06/02/2024,08/02/2024,21,M,media superior
+9892,Cij Zamora,03/03/2025,10/03/2025,23,H,superior
+9841,Cij Zapopan Prevención,06/11/2023,06/11/2024,22,M,superior
+9841,Cij Zapopan Prevención,06/11/2023,06/11/2024,28,M,superior
+9841,Cij Zapopan Prevención,02/01/2024,02/01/2025,23,M,superior
+9841,Cij Zapopan Prevención,02/01/2024,02/01/2025,24,M,superior
+9841,Cij Zapopan Prevención,02/01/2024,02/01/2025,23,H,superior
+9841,Cij Zapopan Prevención,02/05/2023,02/05/2024,25,M,superior
+9841,Cij Zapopan Prevención,21/06/2021,21/06/2022,25,M,superior
+9841,Cij Zapopan Prevención,21/06/2021,21/06/2022,28,H,superior
+9841,Cij Zapopan Prevención,19/07/2021,19/07/2022,26,M,superior
+9841,Cij Zapopan Prevención,02/01/2023,02/01/2024,22,M,superior
+9841,Cij Zapopan Prevención,19/07/2021,19/07/2022,27,M,superior
+9841,Cij Zapopan Prevención,06/09/2021,06/07/2022,19,H,media superior
+9841,Cij Zapopan Prevención,21/06/2021,21/06/2022,25,H,superior
+9841,Cij Zapopan Prevención,21/06/2021,29/06/2021,21,H,superior
+9841,Cij Zapopan Prevención,18/04/2022,26/05/2022,21,H,superior
+9841,Cij Zapopan Prevención,19/07/2021,16/02/2022,25,M,superior
+9841,Cij Zapopan Prevención,06/02/2024,05/12/2024,27,M,media superior
+9841,Cij Zapopan Prevención,16/11/2023,16/01/2024,27,M,superior
+9841,Cij Zapopan Prevención,18/04/2022,27/07/2022,28,H,media superior
+9841,Cij Zapopan Prevención,18/04/2022,27/07/2022,23,M,superior
+9841,Cij Zapopan Prevención,21/06/2021,01/03/2022,24,M,superior
+9841,Cij Zapopan Prevención,06/06/2022,11/01/2023,26,H,superior
+9841,Cij Zapopan Prevención,18/04/2022,14/11/2022,28,H,media superior
+9884,Unidad de Investigación Cientifica en Adicciones,02/01/2024,02/01/2025,23,H,superior
+9884,Unidad de Investigación Cientifica en Adicciones,06/11/2023,06/11/2024,29,H,superior
+9884,Unidad de Investigación Cientifica en Adicciones,02/01/2024,02/01/2025,24,H,superior
+9884,Unidad de Investigación Cientifica en Adicciones,06/11/2023,06/11/2024,24,M,superior
+9884,Unidad de Investigación Cientifica en Adicciones,06/11/2023,06/11/2024,25,M,superior
+9884,Unidad de Investigación Cientifica en Adicciones,06/11/2023,06/11/2024,26,M,media superior
+9884,Unidad de Investigación Cientifica en Adicciones,06/11/2023,06/10/2024,18,M,superior
+9884,Unidad de Investigación Cientifica en Adicciones,02/01/2024,02/07/2024,28,M,superior
+9884,Unidad de Investigación Cientifica en Adicciones,06/11/2023,06/04/2024,27,H,superior
+9884,Unidad de Investigación Cientifica en Adicciones,08/02/2022,08/02/2023,24,M,superior
+9884,Unidad de Investigación Cientifica en Adicciones,21/06/2021,21/06/2022,27,M,superior
+9884,Unidad de Investigación Cientifica en Adicciones,18/04/2022,18/04/2023,22,M,superior
+9884,Unidad de Investigación Cientifica en Adicciones,21/06/2021,21/06/2022,27,M,superior
+9884,Unidad de Investigación Cientifica en Adicciones,08/02/2022,08/02/2023,21,H,superior
+9884,Unidad de Investigación Cientifica en Adicciones,08/02/2022,08/07/2022,25,H,superior
+9884,Unidad de Investigación Cientifica en Adicciones,21/06/2021,21/06/2022,22,M,media superior
+9884,Unidad de Investigación Cientifica en Adicciones,08/02/2022,08/02/2023,22,M,superior
+9884,Unidad de Investigación Cientifica en Adicciones,21/06/2021,21/06/2022,24,M,superior
+9884,Unidad de Investigación Cientifica en Adicciones,16/08/2021,25/10/2021,28,H,superior
+9884,Unidad de Investigación Cientifica en Adicciones,19/07/2021,19/07/2021,21,H,superior
+9884,Unidad de Investigación Cientifica en Adicciones,19/07/2021,19/10/2021,22,H,media superior
+9884,Unidad de Investigación Cientifica en Adicciones,06/09/2021,15/12/2021,24,H,superior
+9884,Unidad de Investigación Cientifica en Adicciones,06/09/2021,07/09/2021,25,M,media superior
+9884,Unidad de Investigación Cientifica en Adicciones,02/05/2023,05/05/2023,26,M,superior
+9884,Unidad de Investigación Cientifica en Adicciones,02/01/2023,01/08/2023,20,H,media superior
+9884,Unidad de Investigación Cientifica en Adicciones,17/01/2022,08/11/2022,25,M,media superior

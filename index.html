@@ -1,0 +1,706 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explorador Interactivo del Marco MAAF</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #F5F5F4;
+            color: #292524;
+        }
+        .nav-button {
+            transition: all 0.3s ease;
+        }
+        .nav-button.active {
+            background-color: #0D9488;
+            color: #F5F5F4;
+        }
+        .content-section {
+            display: none;
+        }
+        .content-section.active {
+            display: block;
+        }
+        .principle-card {
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            cursor: pointer;
+        }
+        .principle-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+        }
+        .artefact-tab {
+            @apply border-b-2 border-transparent px-4 py-2 text-sm md:text-base font-medium text-gray-500 hover:text-gray-700 hover:border-gray-300 transition-colors duration-200;
+        }
+        .artefact-tab.active {
+            @apply border-teal-600 text-teal-600;
+        }
+        .artefact-content {
+            display: none;
+        }
+        .artefact-content.active {
+            display: block;
+        }
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 350px;
+            max-height: 400px;
+        }
+    </style>
+</head>
+<body class="antialiased">
+
+    <header class="bg-white shadow-md sticky top-0 z-10">
+        <nav class="container mx-auto px-6 py-4 flex justify-center items-center">
+            <div class="flex flex-wrap justify-center space-x-2 md:space-x-4">
+                <button data-target="intro" class="nav-button active text-sm md:text-base font-medium px-3 py-2 rounded-lg">Introducción</button>
+                <button data-target="principles" class="nav-button text-sm md:text-base font-medium px-3 py-2 rounded-lg">Principios</button>
+                <button data-target="pilot" class="nav-button text-sm md:text-base font-medium px-3 py-2 rounded-lg">Caso Piloto</button>
+                <button data-target="artefacts" class="nav-button text-sm md:text-base font-medium px-3 py-2 rounded-lg">Artefactos</button>
+                <button data-target="methodology" class="nav-button text-sm md:text-base font-medium px-3 py-2 rounded-lg">Metodología</button>
+                <button data-target="data-viz" class="nav-button text-sm md:text-base font-medium px-3 py-2 rounded-lg">Visualización de Datos</button>
+            </div>
+        </nav>
+    </header>
+
+    <main class="container mx-auto p-4 md:p-8">
+
+        <section id="intro" class="content-section active">
+            <div class="text-center mb-12">
+                <h1 class="text-3xl md:text-5xl font-bold text-gray-800 mb-4">Hacia un Estado Auditable</h1>
+                <p class="text-lg md:text-xl text-gray-600 max-w-3xl mx-auto">Un explorador interactivo del Marco de Rendición de Cuentas Algorítmica (MAAF) para el sector público en México.</p>
+            </div>
+
+            <div class="bg-white p-8 rounded-xl shadow-lg">
+                <div class="grid md:grid-cols-2 gap-8">
+                    <div class="border-r-0 md:border-r md:pr-8 border-gray-200">
+                        <h2 class="text-2xl font-bold text-teal-700 mb-4">El Problema</h2>
+                        <p class="text-gray-700 leading-relaxed mb-4">El uso creciente de sistemas algorítmicos en decisiones administrativas, que a menudo carecen de transparencia y controles adecuados, genera un grave riesgo de opacidad y sesgo.</p>
+                        <h3 class="font-semibold text-gray-800 mt-6 mb-2">Preguntas de Investigación Clave:</h3>
+                        <ul class="list-disc list-inside text-gray-600 space-y-2">
+                            <li>¿Qué componentes mínimos hacen “auditable” un sistema algorítmico público?</li>
+                            <li>¿Cómo institucionalizar estos componentes en plazos razonables y con bajo costo de cumplimiento?</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h2 class="text-2xl font-bold text-teal-700 mb-4">Las Contribuciones</h2>
+                        <ul class="list-disc list-inside text-gray-700 leading-relaxed space-y-2">
+                            <li>Un marco operativo de rendición de cuentas (MAAF) implementable en el sector público.</li>
+                            <li>Artefactos listos para la adopción: plantillas de documentación, listas de verificación, matrices de responsabilidades y más.</li>
+                            <li>Un plan de pilotos para validar la utilidad del marco en procesos de alto impacto.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="principles" class="content-section">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl md:text-4xl font-bold text-gray-800">Principios Guía del Marco MAAF</h2>
+                <p class="mt-4 text-lg text-gray-600">Estos siete principios son el pilar del marco, asegurando un desarrollo y despliegue ético y responsable de los sistemas algorítmicos.</p>
+            </div>
+            <div id="principles-grid" class="grid md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+            </div>
+        </section>
+
+        <section id="pilot" class="content-section">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl md:text-4xl font-bold text-gray-800">El Marco en Acción: Caso Piloto</h2>
+                <p class="mt-4 text-lg text-gray-600 max-w-3xl mx-auto">Para validar el marco, se propone un piloto: un modelo para predecir la deserción en el programa "Jóvenes Construyendo el Futuro".</p>
+            </div>
+            <div class="bg-white p-6 md:p-8 rounded-xl shadow-lg">
+                <h3 class="text-2xl font-bold text-center text-teal-700 mb-6">Perfil Educativo de Participantes</h3>
+                <p class="text-center text-gray-600 mb-8">El gráfico a continuación muestra la distribución de los participantes del programa por su último nivel de estudios, basado en los datos reales del CSV.</p>
+                <div class="chart-container">
+                    <canvas id="participantsChart"></canvas>
+                </div>
+            </div>
+            <div class="bg-white p-6 md:p-8 rounded-xl shadow-lg mt-8">
+                <h3 class="text-2xl font-bold text-center text-teal-700 mb-6">Aplicabilidad en otros procesos</h3>
+                <p class="text-center text-gray-600 mb-4">El marco MAAF no se limita a un solo caso. Haz clic en los ejemplos para entender su potencial.</p>
+                <div id="applicability-cards" class="grid md:grid-cols-3 gap-4">
+                </div>
+            </div>
+        </section>
+
+        <section id="artefacts" class="content-section">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl md:text-4xl font-bold text-gray-800">Artefactos de Gobernanza</h2>
+                <p class="mt-4 text-lg text-gray-600 max-w-3xl mx-auto">Estos son los instrumentos prácticos que el marco MAAF propone para implementar la rendición de cuentas.</p>
+            </div>
+
+            <div class="bg-white p-6 md:p-8 rounded-xl shadow-lg">
+                <div class="border-b border-gray-200 mb-6 overflow-x-auto">
+                    <nav class="flex space-x-4">
+                        <button class="artefact-tab active" data-target="model-card">Model Card</button>
+                        <button class="artefact-tab" data-target="datasheet">Datasheet</button>
+                        <button class="artefact-tab" data-target="raci">Matriz RACI</button>
+                        <button class="artefact-tab" data-target="risk">Rúbrica de Riesgo</button>
+                        <button class="artefact-tab" data-target="bitacora">Bitácora de Decisiones</button>
+                        <button class="artefact-tab" data-target="verificacion">Listas de Verificación</button>
+                    </nav>
+                </div>
+
+                <div id="model-card" class="artefact-content active">
+                    <h3 class="text-xl font-bold text-teal-700 mb-4">Model Card: Ficha Técnica del Algoritmo</h3>
+                    <p class="text-gray-600 mb-6">Este documento resume de manera concisa el propósito, desempeño y limitaciones del modelo algorítmico para asegurar su transparencia.</p>
+                    <div class="overflow-x-auto">
+                        <table class="min-w-full divide-y divide-gray-200">
+                            <tbody class="bg-white divide-y divide-gray-200">
+                                <tr class="bg-gray-50"><td class="px-6 py-4 font-bold text-gray-700" colspan="2">Identificación del Modelo</td></tr>
+                                <tr><td class="px-6 py-4 font-medium text-gray-500">Nombre</td><td class="px-6 py-4 text-gray-800">Algoritmo Predictivo de Deserción del Programa "Jóvenes Construyendo el Futuro"</td></tr>
+                                <tr><td class="px-6 py-4 font-medium text-gray-500">Versión</td><td class="px-6 py-4 text-gray-800">1.0</td></tr>
+                                <tr class="bg-gray-50"><td class="px-6 py-4 font-bold text-gray-700" colspan="2">Propósito y Uso Previsto</td></tr>
+                                <tr><td class="px-6 py-4 font-medium text-gray-500">Casos de Uso</td><td class="px-6 py-4 text-gray-800">Identificar participantes con alta probabilidad de deserción.</td></tr>
+                                <tr><td class="px-6 py-4 font-medium text-gray-500">Usuarios Objetivo</td><td class="px-6 py-4 text-gray-800">Gestores del programa, consejeros, personal de campo.</td></tr>
+                                <tr><td class="px-6 py-4 font-medium text-gray-500">Uso fuera de ámbito</td><td class="px-6 py-4 text-gray-800">No se usará para expulsión automática ni para determinar la elegibilidad.</td></tr>
+                                <tr class="bg-gray-50"><td class="px-6 py-4 font-bold text-gray-700" colspan="2">Datos de Entrenamiento</td></tr>
+                                <tr><td class="px-6 py-4 font-medium text-gray-500">Variables Clave</td><td class="px-6 py-4 text-gray-800">`edad`, `nivel_educativo`, `genero`, `tipo_de_capacitacion`, `ubicacion_geografica`.</td></tr>
+                                <tr class="bg-gray-50"><td class="px-6 py-4 font-bold text-gray-700" colspan="2">Evaluación de Sesgos</td></tr>
+                                <tr><td class="px-6 py-4 font-medium text-gray-500">Sesgos identificados</td><td class="px-6 py-4 text-gray-800">Posibles sesgos por región geográfica, género, o nivel socioeconómico.</td></tr>
+                                <tr class="bg-gray-50"><td class="px-6 py-4 font-bold text-gray-700" colspan="2">Mecanismos de Supervisión</td></tr>
+                                <tr><td class="px-6 py-4 font-medium text-gray-500">Supervisión Humana</td><td class="px-6 py-4 text-gray-800">El modelo solo genera una recomendación; la decisión es tomada por un gestor.</td></tr>
+                                <tr><td class="px-6 py-4 font-medium text-gray-500">Mecanismo de Reparación</td><td class="px-6 py-4 text-gray-800">Proceso para que los participantes soliciten una revisión.</td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <div id="datasheet" class="artefact-content">
+                    <h3 class="text-xl font-bold text-teal-700 mb-4">Datasheet: Ficha Técnica de los Datos</h3>
+                    <p class="text-gray-600 mb-6">Es crucial documentar el origen, composición y limitaciones del conjunto de datos para garantizar la trazabilidad y la equidad.</p>
+                    <ul class="space-y-4">
+                        <li class="p-4 bg-gray-50 rounded-lg"><strong>Identificación del Dataset:</strong> Se registrará el nombre, la fuente original y la fecha de creación del conjunto de datos.</li>
+                        <li class="p-4 bg-gray-50 rounded-lg"><strong>Composición:</strong> Se documentará el número de registros y variables, indicando si son categóricas o numéricas.</li>
+                        <li class="p-4 bg-gray-50 rounded-lg"><strong>Métodos de Colección:</strong> Se detallará el origen de los datos (ej. registros de la plataforma oficial).</li>
+                        <li class="p-4 bg-gray-50 rounded-lg"><strong>Preprocesamiento:</strong> Se describirán los pasos de limpieza de datos y el manejo de valores faltantes.</li>
+                        <li class="p-4 bg-gray-50 rounded-lg"><strong>Etiquetado:</strong> Se definirá cómo se etiquetó la variable objetivo (`deserción`).</li>
+                        <li class="p-4 bg-gray-50 rounded-lg"><strong>Limitaciones y Sesgos:</strong> Se analizará la representatividad de la muestra y se identificarán los sesgos inherentes a los datos.</li>
+                    </ul>
+                </div>
+
+                <div id="raci" class="artefact-content">
+                    <h3 class="text-xl font-bold text-teal-700 mb-4">Matriz RACI: Asignación de Responsabilidades</h3>
+                    <p class="text-gray-600 mb-6">Esta matriz define claramente quién es el Responsable, el Aprobador (Accountable), el Consultado y el Informado para cada tarea clave del ciclo de vida del algoritmo.</p>
+                    <div class="overflow-x-auto">
+                        <table class="min-w-full border">
+                            <thead class="bg-gray-100">
+                                <tr>
+                                    <th class="px-6 py-3 text-left text-xs font-bold text-gray-600 uppercase tracking-wider">Tarea</th>
+                                    <th class="px-6 py-3 text-left text-xs font-bold text-gray-600 uppercase tracking-wider">Responsable (R)</th>
+                                    <th class="px-6 py-3 text-left text-xs font-bold text-gray-600 uppercase tracking-wider">Aprobador (A)</th>
+                                    <th class="px-6 py-3 text-left text-xs font-bold text-gray-600 uppercase tracking-wider">Consultado (C)</th>
+                                    <th class="px-6 py-3 text-left text-xs font-bold text-gray-600 uppercase tracking-wider">Informado (I)</th>
+                                </tr>
+                            </thead>
+                            <tbody class="bg-white divide-y divide-gray-200">
+                                <tr>
+                                    <td class="px-6 py-4 font-semibold">Evaluación de Impacto (AIA)</td>
+                                    <td class="px-6 py-4">Analista de Datos</td>
+                                    <td class="px-6 py-4">Comité de Supervisión</td>
+                                    <td class="px-6 py-4">Expertos en Políticas Públicas</td>
+                                    <td class="px-6 py-4">Equipo Directivo</td>
+                                </tr>
+                                <tr class="bg-gray-50">
+                                    <td class="px-6 py-4 font-semibold">Monitoreo del Sistema</td>
+                                    <td class="px-6 py-4">Científico de Datos</td>
+                                    <td class="px-6 py-4">Comité de Supervisión</td>
+                                    <td class="px-6 py-4">Equipo de Soporte Técnico</td>
+                                    <td class="px-6 py-4">Equipo Directivo</td>
+                                </tr>
+                                <tr>
+                                    <td class="px-6 py-4 font-semibold">Gestión de Incidentes</td>
+                                    <td class="px-6 py-4">Gestor de Programa</td>
+                                    <td class="px-6 py-4">Comité de Supervisión</td>
+                                    <td class="px-6 py-4">Representante del Participante</td>
+                                    <td class="px-6 py-4">Equipo de Desarrollo</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <div id="risk" class="artefact-content">
+                    <h3 class="text-xl font-bold text-teal-700 mb-4">Rúbrica de Riesgo</h3>
+                    <p class="text-gray-600 mb-6">La clasificación de riesgo de un sistema algorítmico determina el nivel de escrutinio y gobernanza requerido.</p>
+                    <div class="space-y-4 max-w-md mx-auto">
+                        <div class="flex items-center justify-between bg-gray-100 p-4 rounded-lg">
+                            <span class="font-semibold text-lg text-gray-800">Eje de Impacto</span>
+                            <span class="px-3 py-1 text-sm font-bold text-white bg-red-500 rounded-full">Alto</span>
+                        </div>
+                        <p class="text-sm text-gray-600 px-4">El modelo tiene un impacto directo en las oportunidades de los participantes del programa.</p>
+                        <div class="flex items-center justify-between bg-gray-100 p-4 rounded-lg">
+                            <span class="font-semibold text-lg text-gray-800">Eje de Opacidad</span>
+                            <span class="px-3 py-1 text-sm font-bold text-white bg-yellow-500 rounded-full">Moderado</span>
+                        </div>
+                        <p class="text-sm text-gray-600 px-4">Es un modelo de aprendizaje automático, por lo que sus decisiones no son trivialmente interpretables.</p>
+                        <div class="mt-6 border-t pt-4">
+                            <div class="flex items-center justify-between p-4 rounded-lg bg-teal-50 border border-teal-200">
+                                <span class="font-semibold text-lg text-teal-800">Clasificación del Sistema</span>
+                                <span class="font-bold text-xl text-teal-800">Riesgo Alto</span>
+                            </div>
+                            <p class="text-sm text-gray-600 px-4 mt-2">Esta clasificación justifica la aplicación de todos los siete ejes del marco MAAF para una rendición de cuentas robusta.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="bitacora" class="artefact-content">
+                    <h3 class="text-xl font-bold text-teal-700 mb-4">Bitácora de Decisiones</h3>
+                    <p class="text-gray-600 mb-6">La bitácora es un registro cronológico de las decisiones, suposiciones y cambios significativos en el sistema, lo que permite la trazabilidad y la rendición de cuentas post-despliegue.</p>
+                    <div class="space-y-4">
+                        <div class="p-4 bg-gray-50 rounded-lg shadow-sm">
+                            <h4 class="font-semibold text-gray-800">Registro de Incidentes</h4>
+                            <p class="text-gray-600 text-sm mt-2">Se registran fallos en la predicción, clasificaciones erróneas y quejas de los participantes.</p>
+                        </div>
+                        <div class="p-4 bg-gray-50 rounded-lg shadow-sm">
+                            <h4 class="font-semibold text-gray-800">Justificación de Cambios</h4>
+                            <p class="text-gray-600 text-sm mt-2">Se documenta la razón para cada actualización o re-entrenamiento del modelo.</p>
+                        </div>
+                        <div class="p-4 bg-gray-50 rounded-lg shadow-sm">
+                            <h4 class="font-semibold text-gray-800">Responsables</h4>
+                            <p class="text-gray-600 text-sm mt-2">Se asocia a cada entrada el nombre del responsable y la fecha.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="verificacion" class="artefact-content">
+                    <h3 class="text-xl font-bold text-teal-700 mb-4">Listas de Verificación Pre y Post-Despliegue</h3>
+                    <p class="text-gray-600 mb-6">Estas listas aseguran que todos los criterios de gobernanza se cumplan antes de la puesta en marcha y durante el monitoreo continuo del sistema.</p>
+                    <div class="space-y-6">
+                        <div>
+                            <h4 class="text-lg font-bold text-gray-700 mb-2">Pre-Despliegue</h4>
+                            <ul class="list-disc list-inside text-gray-600 space-y-1">
+                                <li>¿Se ha completado la Evaluación de Impacto Algorítmico (AIA)?</li>
+                                <li>¿Se ha llenado el Datasheet y el Model Card?</li>
+                                <li>¿Se han definido los mecanismos de supervisión humana?</li>
+                                <li>¿Hay un plan de reparación de errores?</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <h4 class="text-lg font-bold text-gray-700 mb-2">Post-Despliegue</h4>
+                            <ul class="list-disc list-inside text-gray-600 space-y-1">
+                                <li>¿Se están registrando incidentes en la bitácora?</li>
+                                <li>¿Se está monitoreando la equidad y el sesgo?</li>
+                                <li>¿El rendimiento del modelo se mantiene dentro de los parámetros esperados?</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="methodology" class="content-section">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl md:text-4xl font-bold text-gray-800">Metodología de Diseño</h2>
+                <p class="mt-4 text-lg text-gray-600 max-w-3xl mx-auto">El desarrollo del marco MAAF sigue la metodología de la "ciencia del diseño" (design science), un enfoque que se centra en la construcción y evaluación de artefactos de investigación para resolver problemas prácticos.</p>
+            </div>
+            <div class="bg-white p-6 md:p-8 rounded-xl shadow-lg flex flex-col md:flex-row items-center md:space-x-8">
+                <div class="md:w-1/2">
+                    <h3 class="text-xl font-bold text-teal-700 mb-4">1. Diseño del Artefacto</h3>
+                    <p class="text-gray-700 leading-relaxed mb-4">La primera etapa consistió en la conceptualización y construcción de un "artefacto" que fuera útil para la rendición de cuentas. En este caso, el artefacto es el propio marco MAAF, compuesto por principios, procesos y herramientas documentadas.</p>
+                <p class="text-gray-700 leading-relaxed">El objetivo era crear algo que no solo fuera teóricamente sólido, sino también **prácticamente implementable** en un entorno del sector público. Se hizo especial énfasis en que fuera compatible con el marco regulatorio mexicano y estuviera orientado a los derechos humanos.</p>
+                </div>
+                <div class="md:w-1/2 mt-6 md:mt-0">
+                    <h3 class="text-xl font-bold text-teal-700 mb-4">2. Validación de Utilidad</h3>
+                    <p class="text-gray-700 leading-relaxed mb-4">La segunda etapa se centra en demostrar que el artefacto diseñado es útil para su propósito. Esto se logra a través de un proyecto piloto, como el del programa "Jóvenes Construyendo el Futuro".</p>
+                    <p class="text-gray-700 leading-relaxed">La validación de la utilidad se medirá a través de métricas de éxito (ej. reducción de sesgos, mejora en la trazabilidad) y del registro de la experiencia de los usuarios finales (ej. gestores del programa), asegurando que el marco resuelve el problema de la opacidad algorítmica.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="data-viz" class="content-section">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl md:text-4xl font-bold text-gray-800">Visualización de Datos del Programa</h2>
+                <p class="mt-4 text-lg text-gray-600 max-w-3xl mx-auto">Aquí puedes explorar la distribución de los participantes del programa "Jóvenes Construyendo el Futuro" por estatus, edad y sexo.</p>
+            </div>
+            
+            <div class="bg-white p-6 md:p-8 rounded-xl shadow-lg mb-8">
+                <h3 class="text-2xl font-bold text-center text-teal-700 mb-6">Estatus de Participantes</h3>
+                <p class="text-center text-gray-600 mb-8">Esta gráfica muestra el número de participantes activos e inactivos en el programa.</p>
+                <div class="chart-container">
+                    <canvas id="statusChart"></canvas>
+                </div>
+            </div>
+
+            <div class="grid md:grid-cols-2 gap-8 mt-8">
+                <div class="bg-white p-6 md:p-8 rounded-xl shadow-lg">
+                    <h3 class="text-2xl font-bold text-center text-teal-700 mb-6">Distribución por Edad</h3>
+                    <div class="chart-container">
+                        <canvas id="ageChart"></canvas>
+                    </div>
+                </div>
+                <div class="bg-white p-6 md:p-8 rounded-xl shadow-lg">
+                    <h3 class="text-2xl font-bold text-center text-teal-700 mb-6">Distribución por Sexo</h3>
+                    <div class="chart-container">
+                        <canvas id="sexChart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="bg-white mt-12 py-6 border-t">
+        <div class="container mx-auto text-center text-gray-500">
+            <p>&copy; 2025 Explorador del Marco MAAF. Un proyecto de visualización de gobernanza algorítmica.</p>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const navButtons = document.querySelectorAll('.nav-button');
+            const contentSections = document.querySelectorAll('.content-section');
+            const principlesData = [
+                { title: 'Legalidad', icon: '⚖️', text: 'Los sistemas deben operar bajo el marco legal existente y respetar los derechos humanos.' },
+                { title: 'Necesidad y Proporcionalidad', icon: '🎯', text: 'El uso del algoritmo debe ser necesario para lograr un objetivo legítimo y proporcional al impacto que genera.' },
+                { title: 'No Discriminación', icon: '🤝', text: 'El diseño y los datos deben prevenir activamente cualquier forma de sesgo o discriminación injusta contra individuos o grupos.' },
+                { title: 'Explicabilidad', icon: '💡', text: 'El sistema debe ser capaz de explicar, en términos comprensibles, cómo llegó a una decisión particular.' },
+                { title: 'Trazabilidad', icon: '🔍', text: 'Las decisiones, los datos utilizados y los cambios en el modelo deben ser auditables y rastreables.' },
+                { title: 'Supervisión Humana', icon: '👤', text: 'Debe existir siempre un mecanismo de supervisión humana significativa (human-in/on-the-loop).' },
+                { title: 'Seguridad y Mejora Continua', icon: '🔄', text: 'El sistema debe ser seguro, robusto y estar sujeto a un proceso de revisión y mejora constante.' }
+            ];
+
+            const principlesGrid = document.getElementById('principles-grid');
+            principlesData.forEach(p => {
+                const card = document.createElement('div');
+                card.className = 'principle-card bg-white p-6 rounded-xl shadow-lg';
+                card.innerHTML = `
+                    <div class="text-3xl mb-4">${p.icon}</div>
+                    <h3 class="text-xl font-bold text-gray-800 mb-2">${p.title}</h3>
+                    <p class="text-gray-600">${p.text}</p>
+                `;
+                principlesGrid.appendChild(card);
+            });
+
+            const applicabilityData = [
+                { title: 'Padrón de Beneficiarios', text: 'Optimizar la identificación de beneficiarios elegibles, reduciendo errores y sesgos en la asignación de recursos.' },
+                { title: 'Priorización de Trámites', text: 'Utilizar el marco para clasificar la urgencia de trámites administrativos, asegurando un trato equitativo y eficiente.' },
+                { title: 'Fiscalización No Intrusiva', text: 'Gobernar los algoritmos que identifican patrones de riesgo fiscal, manteniendo la trazabilidad y la justificación de las decisiones.' }
+            ];
+
+            const applicabilityCards = document.getElementById('applicability-cards');
+            applicabilityData.forEach(item => {
+                const card = document.createElement('div');
+                card.className = 'bg-white p-4 rounded-xl shadow-md cursor-pointer hover:bg-gray-50 transition';
+                card.innerHTML = `<h4 class="font-bold text-gray-800">${item.title}</h4><p class="text-sm text-gray-600 mt-1">${item.text}</p>`;
+                applicabilityCards.appendChild(card);
+            });
+
+            navButtons.forEach(button => {
+                button.addEventListener('click', () => {
+                    navButtons.forEach(btn => btn.classList.remove('active'));
+                    button.classList.add('active');
+                    const targetId = button.getAttribute('data-target');
+                    contentSections.forEach(section => {
+                        if (section.id === targetId) {
+                            section.classList.add('active');
+                            if (targetId === 'data-viz') {
+                                loadAndDrawAllDataViz();
+                            } else if (targetId === 'pilot') {
+                                drawParticipantsChart(); // Cargar solo la gráfica de nivel educativo para el piloto
+                            }
+                        } else {
+                            section.classList.remove('active');
+                        }
+                    });
+                });
+            });
+
+            const artefactTabs = document.querySelectorAll('.artefact-tab');
+            const artefactContents = document.querySelectorAll('.artefact-content');
+            artefactTabs.forEach(tab => {
+                tab.addEventListener('click', () => {
+                    artefactTabs.forEach(t => t.classList.remove('active'));
+                    tab.classList.add('active');
+                    const targetId = tab.getAttribute('data-target');
+                    artefactContents.forEach(content => {
+                        if (content.id === targetId) {
+                            content.classList.add('active');
+                        } else {
+                            content.classList.remove('active');
+                        }
+                    });
+                });
+            });
+
+            async function loadAndDrawAllDataViz() {
+                try {
+                    const csvData = await d3.csv('./CIJ_1_JovenesConstruyendo_2021_2025T1.csv');
+                    
+                    // Nuevo gráfico de estatus de participantes
+                    drawStatusChart(csvData);
+
+                    // Gráficos existentes modificados para usar datos del CSV
+                    drawAgeChart(csvData);
+                    drawSexChart(csvData);
+
+                } catch (error) {
+                    console.error("Error loading CSV data:", error);
+                    const vizContainer = document.getElementById('statusChart').parentElement;
+                    vizContainer.innerHTML = '<div class="text-center text-red-500 font-semibold p-4">Error al cargar datos del CSV. Asegúrate de que "CIJ_1_JovenesConstruyendo_2021_2025T1.csv" está en la carpeta y tiene las columnas "fecha_inicio" y "fecha_termino".</div>';
+
+                    const ageChartContainer = document.getElementById('ageChart').parentElement;
+                    ageChartContainer.innerHTML = '<div class="text-center text-red-500 font-semibold p-4">Error al cargar datos.</div>';
+                    
+                    const sexChartContainer = document.getElementById('sexChart').parentElement;
+                    sexChartContainer.innerHTML = '<div class="text-center text-red-500 font-semibold p-4">Error al cargar datos.</div>';
+                }
+            }
+
+            // Gráfico de barras del caso piloto (modificado para usar CSV)
+            async function drawParticipantsChart() {
+                try {
+                    const csvData = await d3.csv('./CIJ_1_JovenesConstruyendo_2021_2025T1.csv');
+                    const levelCounts = d3.rollup(csvData, v => v.length, d => (d.nivel || 'N/A').toUpperCase().trim());
+                    const labels = Array.from(levelCounts.keys());
+                    const data = Array.from(levelCounts.values());
+
+                    const ctx = document.getElementById('participantsChart').getContext('2d');
+                    if (window.participantsChartInstance) window.participantsChartInstance.destroy();
+                    window.participantsChartInstance = new Chart(ctx, {
+                        type: 'bar',
+                        data: {
+                            labels: labels,
+                            datasets: [{
+                                label: 'Número de Participantes',
+                                data: data,
+                                backgroundColor: 'rgba(13, 148, 136, 0.6)',
+                                borderColor: 'rgba(13, 148, 136, 1)',
+                                borderWidth: 1
+                            }]
+                        },
+                        options: {
+                            responsive: true,
+                            maintainAspectRatio: false,
+                            scales: {
+                                y: {
+                                    beginAtZero: true,
+                                    title: {
+                                        display: true,
+                                        text: 'Cantidad de Participantes'
+                                    }
+                                },
+                                x: {
+                                    title: {
+                                        display: true,
+                                        text: 'Nivel Educativo'
+                                    }
+                                }
+                            },
+                            plugins: {
+                                legend: {
+                                    display: false
+                                },
+                                tooltip: {
+                                    callbacks: {
+                                        label: function(context) {
+                                            return ` ${context.dataset.label}: ${context.formattedValue}`;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    });
+                } catch (error) {
+                    console.error("Error loading CSV data for participants chart:", error);
+                    const chartContainer = document.getElementById('participantsChart').parentElement;
+                    chartContainer.innerHTML = '<div class="text-center text-red-500 font-semibold p-4">Error al cargar datos del CSV.</div>';
+                }
+            }
+
+            // Nuevo gráfico de estatus de participantes
+            function drawStatusChart(csvData) {
+                let activos = 0;
+                let inactivos = 0;
+                const hoy = new Date();
+
+                csvData.forEach(d => {
+                    if (d.fecha_termino) {
+                        const fechaTermino = new Date(d.fecha_termino);
+                        if (fechaTermino > hoy) {
+                            activos++;
+                        } else {
+                            inactivos++;
+                        }
+                    } else {
+                        // Si no hay fecha de término, se asume activo
+                        activos++;
+                    }
+                });
+
+                const data = {
+                    labels: ['Activos', 'Inactivos'],
+                    datasets: [{
+                        label: 'Número de Participantes',
+                        data: [activos, inactivos],
+                        backgroundColor: [
+                            'rgba(16, 185, 129, 0.8)', // Verde para activos
+                            'rgba(239, 68, 68, 0.8)'  // Rojo para inactivos
+                        ],
+                        borderColor: [
+                            'rgba(16, 185, 129, 1)',
+                            'rgba(239, 68, 68, 1)'
+                        ],
+                        borderWidth: 1
+                    }]
+                };
+
+                const ctx = document.getElementById('statusChart').getContext('2d');
+                if (window.statusChartInstance) window.statusChartInstance.destroy();
+                window.statusChartInstance = new Chart(ctx, {
+                    type: 'bar',
+                    data: data,
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        scales: {
+                            y: {
+                                beginAtZero: true,
+                                title: {
+                                    display: true,
+                                    text: 'Cantidad de Participantes'
+                                }
+                            }
+                        },
+                        plugins: {
+                            legend: {
+                                display: false
+                            },
+                            title: {
+                                display: true,
+                                text: 'Estatus Actual de los Participantes',
+                                font: {
+                                    size: 16
+                                }
+                            }
+                        }
+                    }
+                });
+            }
+
+            // Gráfico de barras de edad (modificado para usar CSV)
+            function drawAgeChart(csvData) {
+                const ageCounts = {
+                    '15-19': 0,
+                    '20-24': 0,
+                    '25-29': 0,
+                    '30+': 0,
+                    'N/A': 0
+                };
+                csvData.forEach(d => {
+                    const age = parseInt(d.edad, 10);
+                    if (!isNaN(age)) {
+                        if (age >= 15 && age <= 19) ageCounts['15-19']++;
+                        else if (age >= 20 && age <= 24) ageCounts['20-24']++;
+                        else if (age >= 25 && age <= 29) ageCounts['25-29']++;
+                        else ageCounts['30+']++;
+                    } else {
+                        ageCounts['N/A']++;
+                    }
+                });
+
+                const ctx = document.getElementById('ageChart').getContext('2d');
+                if (window.ageChartInstance) window.ageChartInstance.destroy();
+                window.ageChartInstance = new Chart(ctx, {
+                    type: 'bar',
+                    data: {
+                        labels: Object.keys(ageCounts),
+                        datasets: [{
+                            label: 'Número de Participantes',
+                            data: Object.values(ageCounts),
+                            backgroundColor: 'rgba(13, 148, 136, 0.8)',
+                            borderColor: 'rgba(13, 148, 136, 1)',
+                            borderWidth: 1
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        scales: {
+                            y: {
+                                beginAtZero: true,
+                                title: {
+                                    display: true,
+                                    text: 'Cantidad de Participantes'
+                                }
+                            },
+                            x: {
+                                title: {
+                                    display: true,
+                                    text: 'Rango de Edad'
+                                }
+                            }
+                        },
+                        plugins: {
+                            legend: {
+                                display: false
+                            }
+                        }
+                    }
+                });
+            }
+
+            // Gráfico de pastel de género (modificado para usar CSV)
+            function drawSexChart(csvData) {
+                const sexCounts = d3.rollup(csvData, v => v.length, d => d.sexo ? d.sexo.toUpperCase().trim() : 'N/A');
+                const labels = Array.from(sexCounts.keys());
+                const data = Array.from(sexCounts.values());
+
+                const ctx = document.getElementById('sexChart').getContext('2d');
+                if (window.sexChartInstance) window.sexChartInstance.destroy();
+                window.sexChartInstance = new Chart(ctx, {
+                    type: 'pie',
+                    data: {
+                        labels: labels.map(l => {
+                            if (l === 'M') return 'Mujeres';
+                            if (l === 'H') return 'Hombres';
+                            return l;
+                        }),
+                        datasets: [{
+                            label: 'Distribución por Sexo',
+                            data: data,
+                            backgroundColor: [
+                                'rgba(59, 130, 246, 0.8)',
+                                'rgba(236, 72, 153, 0.8)',
+                                'rgba(107, 114, 128, 0.8)'
+                            ],
+                            borderColor: '#fff',
+                            borderWidth: 2
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        plugins: {
+                            tooltip: {
+                                callbacks: {
+                                    label: function(context) {
+                                        let label = context.label || '';
+                                        if (label) {
+                                            label += ': ';
+                                        }
+                                        label += context.parsed;
+                                        return label;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                });
+            }
+        });
+    </script>
+</body>
+</html>
