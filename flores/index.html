@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Para Ti</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #0d0f20; /* Color de fondo azul oscuro para el cielo */
+        }
+        .message-container {
+            opacity: 0;
+            transform: translateY(20px);
+            animation: fadeInAndSlideUp 2s forwards 3.5s; /* Animación con retraso */
+        }
+        @keyframes fadeInAndSlideUp {
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+    </style>
+</head>
+<body class="flex items-center justify-center h-screen overflow-hidden text-white">
+
+    <!-- Contenedor del Canvas -->
+    <canvas id="flowersCanvas" class="absolute inset-0 z-0"></canvas>
+
+    <!-- Contenedor del Mensaje -->
+    <div class="message-container z-10 text-center px-6">
+        <h1 class="text-4xl sm:text-5xl font-bold mb-4">Para la chica más hermosa del mundo</h1>
+        <p class="text-xl sm:text-2xl font-light">
+            Estas flores crecen para recordarte la luz y la alegría que traes a mi vida. <br class="hidden sm:block"> Me gustas mucho.
+        </p>
+    </div>
+
+    <script>
+        // Inicializa el canvas
+        const canvas = document.getElementById('flowersCanvas');
+        const ctx = canvas.getContext('2d');
+        let width, height;
+
+        // Configuración de las flores
+        const numFlowers = 25;
+        const flowers = [];
+        const flowerTypes = ['daisy', 'tulip', 'rose'];
+
+        // Configuración de las estrellas
+        const numStars = 100;
+        const stars = [];
+
+        function resizeCanvas() {
+            width = canvas.width = window.innerWidth;
+            height = canvas.height = window.innerHeight;
+            
+            // Lógica para inicializar el contenido al cambiar el tamaño
+            if (stars.length === 0) {
+                for (let i = 0; i < numStars; i++) {
+                    stars.push({
+                        x: Math.random() * width,
+                        y: Math.random() * height,
+                        radius: Math.random() * 1.5,
+                        twinkleSpeed: Math.random() * 0.05 + 0.01,
+                        twinkle: Math.random() * Math.PI * 2
+                    });
+                }
+            }
+        }
+
+        // Dibuja una flor en el canvas
+        function drawFlower(flower) {
+            ctx.save();
+            // La traducción ahora se basa en la base del tallo
+            ctx.translate(flower.x, flower.y);
+            ctx.rotate(flower.rotation);
+            ctx.scale(flower.currentScale, flower.currentScale);
+            
+            // Dibuja el tallo
+            ctx.beginPath();
+            ctx.strokeStyle = '#22c55e'; // Verde para el tallo
+            ctx.lineWidth = 2 / flower.currentScale; // Ajusta el ancho para que no se escale
+            ctx.moveTo(0, 0);
+            ctx.lineTo(0, -flower.stemLength);
+            ctx.stroke();
+
+            // Dibuja la flor en la punta del tallo
+            ctx.translate(0, -flower.stemLength);
+
+            // Dibuja los pétalos
+            ctx.fillStyle = '#fde047'; // Amarillo para los pétalos
+            ctx.beginPath();
+            for (let i = 0; i < 6; i++) {
+                const angle = (i * Math.PI / 3);
+                ctx.ellipse(
+                    Math.cos(angle) * 10, 
+                    Math.sin(angle) * 10,
+                    15, 8, angle, 0, 2 * Math.PI
+                );
+            }
+            ctx.fill();
+
+            // Dibuja el centro de la flor
+            ctx.fillStyle = '#f59e0b'; // Naranja para el centro
+            ctx.beginPath();
+            ctx.arc(0, 0, 5, 0, 2 * Math.PI);
+            ctx.fill();
+
+            ctx.restore();
+        }
+
+        // Lógica de crecimiento de las flores
+        function updateFlowers() {
+            flowers.forEach(flower => {
+                if (flower.currentScale < flower.targetScale) {
+                    flower.currentScale += flower.growthRate;
+                    if (flower.currentScale > flower.targetScale) {
+                        flower.currentScale = flower.targetScale;
+                    }
+                }
+            });
+        }
+
+        // Lógica de las estrellas
+        function updateStars() {
+            stars.forEach(star => {
+                star.twinkle += star.twinkleSpeed;
+                star.alpha = Math.abs(Math.sin(star.twinkle));
+            });
+        }
+
+        // Bucle de animación principal
+        function animate() {
+            // Borra el canvas
+            ctx.clearRect(0, 0, width, height);
+            
+            // Dibuja las estrellas
+            stars.forEach(star => {
+                ctx.fillStyle = `rgba(255, 255, 255, ${star.alpha})`;
+                ctx.beginPath();
+                ctx.arc(star.x, star.y, star.radius, 0, Math.PI * 2);
+                ctx.fill();
+            });
+
+            // Dibuja las flores
+            flowers.forEach(flower => {
+                drawFlower(flower);
+            });
+
+            updateFlowers();
+            updateStars();
+            
+            requestAnimationFrame(animate);
+        }
+
+        // Lógica para iniciar el crecimiento de las flores
+        function startFlowerGrowth() {
+            for (let i = 0; i < numFlowers; i++) {
+                setTimeout(() => {
+                    flowers.push({
+                        x: Math.random() * width,
+                        y: height + 5, // Empieza ligeramente por debajo del borde
+                        targetScale: Math.random() * 0.8 + 0.5,
+                        currentScale: 0.1,
+                        growthRate: 0.005,
+                        rotation: (Math.random() - 0.5) * 0.5,
+                        stemLength: Math.random() * (height / 3) + 50
+                    });
+                }, i * 150); // Escalonado para un efecto de crecimiento
+            }
+        }
+
+        // Eventos
+        window.addEventListener('resize', resizeCanvas);
+        window.addEventListener('load', () => {
+            resizeCanvas();
+            startFlowerGrowth();
+            animate();
+        });
+    </script>
+
+</body>
+</html>
